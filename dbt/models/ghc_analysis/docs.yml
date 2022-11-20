@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: opioid_admissions
+    description: |
+      Opioid Treatment Program Patient Admission Totals and Locations
+      Source: https://www.datawrapper.de/_/PLEoI/
+  - name: patient_zip_codes
+    description: |
+      Where Do Opioid Treatment Program Patients Live? (OTP Patients Are Everyone's Neighbors)
+      Source: https://datawrapper.dwcdn.net/Um233/5/
+
+      Where does this come from?
+      Seems to be based on Shawn foil—everywhere this is False, the Shawn-foil-based
+      opioid commuters repro has no records. But the opposite doesn't hold. This implies
+      it is based on a larger set of data than what's in the OC data.
+      Only has records for NYC zip codes.

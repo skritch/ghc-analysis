@@ -1,0 +1,75 @@
+
+name: harlem
+version: '1.0.0'
+config-version: 2
+
+# This setting configures which "profile" dbt uses for this project.
+profile: 'harlem'
+
+# These configurations specify where dbt should look for different types of files.
+# The `model-paths` config, for example, states that models in this project can be
+# found in the "models/" directory. You probably won't need to change these!
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"  # directory which will store compiled SQL files
+clean-targets:         # directories to be removed by `dbt clean`
+  - "target"
+  - "dbt_packages"
+
+
+# Configuring models
+# Full documentation: https://docs.getdbt.com/docs/configuring-models
+
+
+models:
+  harlem:
+    materialized: table
+seeds:
+  harlem:
+    nyc_ct_mapping_raw:
+      +column_types:
+        GEOID: text
+    missing_program_zip_codes:
+      +column_types:
+        zip_code: text
+    missing_program_zip_codes:
+      +column_types:
+        zip_code: text
+    candace_foil_full:
+      +column_types:
+        "Zip Code of Residence": text
+    chan_foil_full:
+      +column_types:
+        "Zip Code": text
+    data_methadone_facilities:
+      +column_types:
+        "Zip Code": text
+    shawn_foil_raw:
+      +column_types:
+        "Zip Code of Residence at Admission": text
+    yoni_2019_foil_raw:
+      +column_types:
+        "zip_code": text
+    data-Um233:
+      +column_types:
+        "Zip Code": text
+    data-sPnvw:
+      +column_types:
+        "Zip Code of Patient Residence": text
+    data-PLEoI:
+      +column_types:
+        "Zip Code": text
+    nyc_zip_codes_raw:
+      +column_types:
+        "ZipCode": text
+    ny_zip_opioid_burden_2019_raw:
+      +column_types:
+        "ZIP Code": text
+    uhf_to_zip_raw:
+      +column_types:
+        "zip_code": text

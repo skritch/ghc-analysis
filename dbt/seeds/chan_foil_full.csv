@@ -1,0 +1,1154 @@
+Year,Provider No,Provider Name,Program No,Program Name,County,Current Community District,Street Address,City,Zip Code,Program Type,Service Type,Current Status,Average Daily Enrollment
+2010,19,"Addicts Rehabilitation Center Fund,Inc",363,Addicts Residential Rehabilitation IR,New York,111,1881 Park Avenue,New York,10035,Residential,Intensive Residential,Closed,63
+2015,19,"Addicts Rehabilitation Center Fund,Inc",363,Addicts Residential Rehabilitation IR,New York,111,1881 Park Avenue,New York,10035,Residential,Intensive Residential,Closed,159
+2010,19,"Addicts Rehabilitation Center Fund,Inc",6553,Addicts Residential Rehabilitation IR1,New York,111,2015‐25 Madison Ave,New York,10035,Residential,Intensive Residential,Closed,182
+2015,19,"Addicts Rehabilitation Center Fund,Inc",6553,Addicts Residential Rehabilitation IR1,New York,111,2015‐25 Madison Ave,New York,10035,Residential,Intensive Residential,Closed,44
+2019,19,"Addicts Rehabilitation Center Fund,Inc",53111,Addicts Rehabilitation Center Fund RRh,New York,111,1881 Park Ave,New York,10035,Residential,820 Residential Rehabilitation,Operational,116
+2010,80,"Counseling Service of E.D.N.Y., Inc.",6285,Counseling Service of E.D.N.Y. OP 2,Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,214
+2015,80,"Counseling Service of E.D.N.Y., Inc.",6285,Counseling Service of E.D.N.Y. OP 2,Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,199
+2019,80,"Counseling Service of E.D.N.Y., Inc.",6285,Counseling Service of E.D.N.Y. OP 2,Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,174
+2010,80,"Counseling Service of E.D.N.Y., Inc.",51993,Counseling Service of E.D.N.Y. Inc. OP,Kings,302,210 Joralemon St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,213
+2015,80,"Counseling Service of E.D.N.Y., Inc.",51993,Counseling Service of E.D.N.Y. Inc. OP,Kings,302,210 Joralemon St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,147
+2019,80,"Counseling Service of E.D.N.Y., Inc.",51993,Counseling Service of E.D.N.Y. Inc. OP,Kings,302,210 Joralemon St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,93
+2010,80,"Counseling Service of E.D.N.Y., Inc.",52083,Counseling Service of E.D.N.Y. OP 1,Queens,412,163‐18 Jamaica Ave,Jamaica,11432,Outpatient,Outpatient Clinic,Operational,80
+2015,80,"Counseling Service of E.D.N.Y., Inc.",52083,Counseling Service of E.D.N.Y. OP 1,Queens,412,163‐18 Jamaica Ave,Jamaica,11432,Outpatient,Outpatient Clinic,Operational,152
+2019,80,"Counseling Service of E.D.N.Y., Inc.",52083,Counseling Service of E.D.N.Y. OP 1,Queens,412,163‐18 Jamaica Ave,Jamaica,11432,Outpatient,Outpatient Clinic,Operational,234
+2010,105,Dynamic Youth Community Inc,528,Dynamic Youth Community Inc OP,Kings,312,1830 Coney Island Ave,Brooklyn,11230,Outpatient,Outpatient Clinic,Operational,67
+2015,105,Dynamic Youth Community Inc,528,Dynamic Youth Community Inc OP,Kings,312,1830 Coney Island Ave,Brooklyn,11230,Outpatient,Outpatient Clinic,Operational,83
+2019,105,Dynamic Youth Community Inc,528,Dynamic Youth Community Inc OP,Kings,312,1830 Coney Island Ave,Brooklyn,11230,Outpatient,Outpatient Clinic,Operational,70
+2010,105,Dynamic Youth Community Inc,52160,Dynamic Youth CR,Kings,312,1830 Coney Island Ave,Brooklyn,11230,Residential,Community Residential,Operational,14
+2015,105,Dynamic Youth Community Inc,52160,Dynamic Youth CR,Kings,312,1830 Coney Island Ave,Brooklyn,11230,Residential,Community Residential,Operational,15
+2019,105,Dynamic Youth Community Inc,52160,Dynamic Youth CR,Kings,312,1830 Coney Island Ave,Brooklyn,11230,Residential,Community Residential,Operational,16
+2010,114,"Elmcor Youth and Adult Activities, Inc",458,Elmcor Youth & Adult Activities OP,Queens,403,107‐20 Northern Blvd,Corona,11368,Outpatient,Outpatient Clinic,Operational,80
+2015,114,"Elmcor Youth and Adult Activities, Inc",458,Elmcor Youth & Adult Activities OP,Queens,403,107‐20 Northern Blvd,Corona,11368,Outpatient,Outpatient Clinic,Operational,67
+2019,114,"Elmcor Youth and Adult Activities, Inc",458,Elmcor Youth & Adult Activities OP,Queens,403,107‐20 Northern Blvd,Corona,11368,Outpatient,Outpatient Clinic,Operational,58
+2010,114,"Elmcor Youth and Adult Activities, Inc",1283,Elmcor Youth & Adult Activities IR,Queens,403,107‐06 Northern Blvd.,Corona,11368,Residential,Intensive Residential,Operational,44
+2015,114,"Elmcor Youth and Adult Activities, Inc",1283,Elmcor Youth & Adult Activities IR,Queens,403,107‐06 Northern Blvd.,Corona,11368,Residential,Intensive Residential,Operational,45
+2019,114,"Elmcor Youth and Adult Activities, Inc",1283,Elmcor Youth & Adult Activities IR,Queens,403,107‐06 Northern Blvd.,Corona,11368,Residential,Intensive Residential,Operational,45
+2010,166,"PROMESA, Inc.",2,"PROMESA, Inc. RRSY",Bronx,205,311 E 175th St,Bronx,10457,Residential,Residential Rehab for Youth,Operational,23
+2015,166,"PROMESA, Inc.",2,"PROMESA, Inc. RRSY",Bronx,205,311 E 175th St,Bronx,10457,Residential,Residential Rehab for Youth,Operational,36
+2019,166,"PROMESA, Inc.",2,"PROMESA, Inc. RRSY",Bronx,205,311 E 175th St,Bronx,10457,Residential,Residential Rehab for Youth,Operational,24
+2010,166,"PROMESA, Inc.",1183,"PROMESA, Inc. MTA‐R",Bronx,205,1776 Clay Ave,Bronx,10457,Opioid Treatment Program,MAOT‐A‐Residential,Operational,102
+2015,166,"PROMESA, Inc.",1183,"PROMESA, Inc. MTA‐R",Bronx,205,1776 Clay Ave,Bronx,10457,Opioid Treatment Program,MAOT‐A‐Residential,Operational,107
+2019,166,"PROMESA, Inc.",1183,"PROMESA, Inc. MTA‐R",Bronx,205,1776 Clay Ave,Bronx,10457,Opioid Treatment Program,MAOT‐A‐Residential,Operational,104
+2010,166,"PROMESA, Inc.",1185,"PROMESA, Inc. OTP",Bronx,205,1776 Clay Ave,Bronx,10457,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,534
+2015,166,"PROMESA, Inc.",1185,"PROMESA, Inc. OTP",Bronx,205,1776 Clay Ave,Bronx,10457,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,547
+2019,166,"PROMESA, Inc.",1185,"PROMESA, Inc. OTP",Bronx,205,1776 Clay Ave,Bronx,10457,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,605
+2010,166,"PROMESA, Inc.",6832,"PROMESA, Inc. OP",Bronx,205,1776 Clay Ave,Bronx,10457,Outpatient,Outpatient Clinic,Operational,99
+2015,166,"PROMESA, Inc.",6832,"PROMESA, Inc. OP",Bronx,205,1776 Clay Ave,Bronx,10457,Outpatient,Outpatient Clinic,Operational,104
+2019,166,"PROMESA, Inc.",6832,"PROMESA, Inc. OP",Bronx,205,1776 Clay Ave,Bronx,10457,Outpatient,Outpatient Clinic,Operational,105
+2010,166,"PROMESA, Inc.",52099,"PROMESA, Inc. MSW‐IP",Bronx,205,1776 Clay Ave,Bronx,10457,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,20
+2015,166,"PROMESA, Inc.",52099,"PROMESA, Inc. MSW‐IP",Bronx,205,1776 Clay Ave,Bronx,10457,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,21
+2019,166,"PROMESA, Inc.",52099,"PROMESA, Inc. MSW‐IP",Bronx,205,1776 Clay Ave,Bronx,10457,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,22
+2010,166,"PROMESA, Inc.",52108,"PROMESA, Inc. IP",Bronx,205,1776 Clay Ave,Bronx,10457,Inpatient Treatment,Inpatient Rehabilitation,Operational,18
+2015,166,"PROMESA, Inc.",52108,"PROMESA, Inc. IP",Bronx,205,1776 Clay Ave,Bronx,10457,Inpatient Treatment,Inpatient Rehabilitation,Operational,20
+2019,166,"PROMESA, Inc.",52108,"PROMESA, Inc. IP",Bronx,205,1776 Clay Ave,Bronx,10457,Inpatient Treatment,Inpatient Rehabilitation,Operational,21
+2015,166,"PROMESA, Inc.",52884,"PROMESA, Inc. OTP 1",Kings,306,561 Court St,Brooklyn,11231,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,707
+2019,166,"PROMESA, Inc.",52884,"PROMESA, Inc. OTP 1",Kings,306,561 Court St,Brooklyn,11231,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,772
+2015,166,"PROMESA, Inc.",52898,"PROMESA, Inc. OP 2",Kings,306,561 Court St,Brooklyn,11231,Outpatient,Outpatient Clinic,Operational,26
+2019,166,"PROMESA, Inc.",52898,"PROMESA, Inc. OP 2",Kings,306,561 Court St,Brooklyn,11231,Outpatient,Outpatient Clinic,Operational,31
+2015,166,"PROMESA, Inc.",52899,Freedom House SL 21,Kings,316,1881 Pitkin Ave,Brooklyn,11212,Residential,Supportive Living,Closed,6
+2015,166,"PROMESA, Inc.",52900,Freedom House SL 20,Kings,316,367‐369 Howard Ave,Brooklyn,11233,Residential,Supportive Living,Closed,3
+2015,166,"PROMESA, Inc.",52901,Freedom House SL 15,Kings,303,283 Malcolm X Blvd,Brooklyn,11233,Residential,Supportive Living,Closed,0
+2015,166,"PROMESA, Inc.",52902,Freedom House SL 14,Kings,303,884 Jefferson Ave,Brooklyn,11221,Residential,Supportive Living,Closed,0
+2015,166,"PROMESA, Inc.",52903,Freedom House SL 13,Kings,317,171 Linden Blvd,Brooklyn,11226,Residential,Supportive Living,Closed,0
+2015,166,"PROMESA, Inc.",52904,Freedom House SL 7,Kings,303,1240 Broadway,Brooklyn,11221,Residential,Supportive Living,Closed,0
+2019,166,"PROMESA, Inc.",52934,Ramon Velez Recovery Center OTP,Bronx,201,754 E 151st St,Bronx,10455,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,610
+2019,166,"PROMESA, Inc.",53022,Ramon Velez Recovery Center OP,Bronx,201,754 E 151st St,Bronx,10455,Outpatient,Outpatient Clinic,Operational,75
+2010,238,"Phase: Piggy Back, Inc",4161,Phase:Piggy Back ‐ CD OP,New York,109,507 West 145th Street,New York,10031,Outpatient,Outpatient Clinic,Closed,72
+2010,238,"Phase: Piggy Back, Inc",6871,Piggy Back‐Striver Hse‐CD Int Res Reh,New York,109,202‐204 Edgecombe Ave.,New York,10030,Residential,Intensive Residential,Closed,53
+2010,296,"Create, Inc.",167,"Create, Inc. IR",New York,110,121‐123 W 111th St,New York,10026,Residential,Intensive Residential,Closed,45
+2015,296,"Create, Inc.",167,"Create, Inc. IR",New York,110,121‐123 W 111th St,New York,10026,Residential,Intensive Residential,Closed,46
+2010,296,"Create, Inc.",658,"Create, Inc. OP",New York,110,73‐75 Lenox Avenue,New York,10026,Outpatient,Outpatient Clinic,Operational,154
+2015,296,"Create, Inc.",658,"Create, Inc. OP",New York,110,73‐75 Lenox Avenue,New York,10026,Outpatient,Outpatient Clinic,Operational,118
+2019,296,"Create, Inc.",658,"Create, Inc. OP",New York,110,73‐75 Lenox Avenue,New York,10026,Outpatient,Outpatient Clinic,Operational,62
+2019,296,"Create, Inc.",53116,"Create, Inc. RR",New York,110,121‐123 W 111th St,New York,10026,Residential,820 Rehab and Reintegration,Operational,37
+2010,325,Vocational Instruction Proj Commun Srv,670,"VIP Community Services, Inc. OTP",Bronx,206,770 E 176th St,Bronx,10460,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,962
+2015,325,Vocational Instruction Proj Commun Srv,670,"VIP Community Services, Inc. OTP",Bronx,206,770 E 176th St,Bronx,10460,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,988
+2019,325,Vocational Instruction Proj Commun Srv,670,"VIP Community Services, Inc. OTP",Bronx,206,770 E 176th St,Bronx,10460,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,"1,344"
+2010,325,Vocational Instruction Proj Commun Srv,2556,VIP Community Services Women IR,Bronx,206,716 Fairmount Pl,Bronx,10457,Residential,Intensive Residential,Closed,36
+2015,325,Vocational Instruction Proj Commun Srv,2556,VIP Community Services Women IR,Bronx,206,716 Fairmount Pl,Bronx,10457,Residential,Intensive Residential,Closed,37
+2010,325,Vocational Instruction Proj Commun Srv,4026,VIP Comm Service‐Males‐CDInt Res Rehab,Bronx,206,1790 Marmion Ave.,Bronx,10460,Residential,Intensive Residential,Closed,54
+2010,325,Vocational Instruction Proj Commun Srv,4368,VIP Comm Service‐Male‐CD Int Res Rehab,Bronx,206,849 Crotona Park North,Bronx,10460,Residential,Intensive Residential,Closed,6
+2010,325,Vocational Instruction Proj Commun Srv,6868,VIP Community Services OP,Bronx,206,770 E 176th St,Bronx,10460,Outpatient,Outpatient Clinic,Operational,142
+2015,325,Vocational Instruction Proj Commun Srv,6868,VIP Community Services OP,Bronx,206,770 E 176th St,Bronx,10460,Outpatient,Outpatient Clinic,Operational,119
+2019,325,Vocational Instruction Proj Commun Srv,6868,VIP Community Services OP,Bronx,206,770 E 176th St,Bronx,10460,Outpatient,Outpatient Clinic,Operational,85
+2010,325,Vocational Instruction Proj Commun Srv,51782,Vocational Instruction Proj CR,Bronx,212,671 E 231st St,Bronx,10466,Residential,Community Residential,Closed,14
+2015,325,Vocational Instruction Proj Commun Srv,52609,VIP Men's Residence IR,Bronx,206,764 E 176th St,Bronx,10460,Residential,Intensive Residential,Closed,77
+2019,325,Vocational Instruction Proj Commun Srv,53042,VIP Community Services SRR,Bronx,206,764 E 176th St,Bronx,10460,Residential,820 Stabil Rehab Reintegration,Operational,66
+2019,325,Vocational Instruction Proj Commun Srv,53043,VIP Community Services RR,Bronx,206,716 Fairmount Pl,Bronx,10457,Residential,820 Rehab and Reintegration,Operational,37
+2010,330,"United Bronx Parents, Inc",5750,Lorraine Montenegro Women/Children IR,Bronx,201,773 Prospect Ave,Bronx,10455,Residential,Intensive Residential,Operational,27
+2015,330,"United Bronx Parents, Inc",5750,Lorraine Montenegro Women/Children IR,Bronx,201,773 Prospect Ave,Bronx,10455,Residential,Intensive Residential,Operational,32
+2019,330,"United Bronx Parents, Inc",5750,Lorraine Montenegro Women/Children IR,Bronx,201,773 Prospect Ave,Bronx,10455,Residential,Intensive Residential,Operational,34
+2010,330,"United Bronx Parents, Inc",7258,La Casita III‐The Mix IR 1,Bronx,201,1006 E 151st St,Bronx,10455,Residential,Intensive Residential,Operational,17
+2015,330,"United Bronx Parents, Inc",7258,La Casita III‐The Mix IR 1,Bronx,201,1006 E 151st St,Bronx,10455,Residential,Intensive Residential,Operational,18
+2019,330,"United Bronx Parents, Inc",7258,La Casita III‐The Mix IR 1,Bronx,201,1006 E 151st St,Bronx,10455,Residential,Intensive Residential,Operational,18
+2010,330,"United Bronx Parents, Inc",51971,"United Bronx Parents, Inc. OP",Bronx,202,966 Prospect Ave,Bronx,10459,Outpatient,Outpatient Clinic,Closed,97
+2015,330,"United Bronx Parents, Inc",51971,"United Bronx Parents, Inc. OP",Bronx,202,966 Prospect Ave,Bronx,10459,Outpatient,Outpatient Clinic,Closed,42
+2010,336,Samaritan Village,122,Veritas Therapeutic ‐ CD Int Res Rehab,New York,107,68 West 106th Street,New York,10025,Residential,Intensive Residential,Closed,61
+2010,336,Samaritan Village,6695,Veritas Therapeutic‐ CD Int Res Rehab,New York,107,119‐121 West 106th Street,New York,10025,Residential,Intensive Residential,Closed,30
+2010,336,Samaritan Village,51952,Veritas Therapeutic Comm. ‐ CD OP,New York,110,55 West 125th Street,New York,10027,Outpatient,Outpatient Clinic,Closed,149
+2010,544,"Vera Institute of Justice, Inc.",7373,Vera Institute of Justice SpOP‐M,New York,101,80 Broad Street,New York,10004,Outpatient,Specialized Outpatient ‐ Mobile,Closed,37
+2010,549,"Carnegie Hill Institute, Inc.",1472,"Carnegie Hill Institute, Inc. OTP",New York,108,116 E 92nd St,New York,10128,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,200
+2015,549,"Carnegie Hill Institute, Inc.",1472,"Carnegie Hill Institute, Inc. OTP",New York,108,116 E 92nd St,New York,10128,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,189
+2019,549,"Carnegie Hill Institute, Inc.",1472,"Carnegie Hill Institute, Inc. OTP",New York,108,116 E 92nd St,New York,10128,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,205
+2010,549,"Carnegie Hill Institute, Inc.",7335,Carnegie Hill Institute OP,New York,108,116 E 92nd St,New York,10128,Outpatient,Outpatient Clinic,Operational,82
+2015,549,"Carnegie Hill Institute, Inc.",7335,Carnegie Hill Institute OP,New York,108,116 E 92nd St,New York,10128,Outpatient,Outpatient Clinic,Operational,49
+2019,549,"Carnegie Hill Institute, Inc.",7335,Carnegie Hill Institute OP,New York,108,116 E 92nd St,New York,10128,Outpatient,Outpatient Clinic,Operational,80
+2010,550,Harlem East Life Plan,1473,Harlem East Life Plan OTP,New York,111,2369 2nd Ave,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,451
+2015,550,Harlem East Life Plan,1473,Harlem East Life Plan OTP,New York,111,2369 2nd Ave,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,409
+2019,550,Harlem East Life Plan,1473,Harlem East Life Plan OTP,New York,111,2369 2nd Ave,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,471
+2010,550,Harlem East Life Plan,1474,Harlem East Life Plan OTP 1,New York,111,2369 2nd Ave,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,443
+2015,550,Harlem East Life Plan,1474,Harlem East Life Plan OTP 1,New York,111,2369 2nd Ave,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,387
+2019,550,Harlem East Life Plan,1474,Harlem East Life Plan OTP 1,New York,111,2369 2nd Ave,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,488
+2010,550,Harlem East Life Plan,7340,Harlem East Life Plan KEEP,New York,111,2369 2nd Ave,New York,10035,Opioid Treatment Program,Methadone KEEP,Operational,8
+2019,550,Harlem East Life Plan,7340,Harlem East Life Plan KEEP,New York,111,2369 2nd Ave,New York,10035,Opioid Treatment Program,Methadone KEEP,Operational,0
+2010,550,Harlem East Life Plan,51840,Harlem East Life Plan (HELP) OP,New York,111,2367‐2369 2nd Ave,New York,10035,Outpatient,Outpatient Clinic,Operational,292
+2015,550,Harlem East Life Plan,51840,Harlem East Life Plan (HELP) OP,New York,111,2367‐2369 2nd Ave,New York,10035,Outpatient,Outpatient Clinic,Operational,413
+2019,550,Harlem East Life Plan,51840,Harlem East Life Plan (HELP) OP,New York,111,2367‐2369 2nd Ave,New York,10035,Outpatient,Outpatient Clinic,Operational,307
+2010,552,"Massimo P. Degiarde, M.D., P.C.",1476,"Massimo P. Degiarde, M.D.‐ MMTP Clinic",New York,102,233‐5 Lafayette Street,New York,10012,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,503
+2010,553,South Brooklyn Medical Admin Srvs Inc.,1479,S Brooklyn Medical Admin Srvs Inc. OTP,Kings,307,685 3rd Avenue,Brooklyn,11232,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,530
+2015,553,South Brooklyn Medical Admin Srvs Inc.,1479,S Brooklyn Medical Admin Srvs Inc. OTP,Kings,307,685 3rd Avenue,Brooklyn,11232,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,370
+2019,553,South Brooklyn Medical Admin Srvs Inc.,1479,S Brooklyn Medical Admin Srvs Inc. OTP,Kings,307,685 3rd Avenue,Brooklyn,11232,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,328
+2010,553,South Brooklyn Medical Admin Srvs Inc.,6977,S Brooklyn Medical Admin Srv‐MMTP/KEEP,Kings,307,685 3rd Avenue,Brooklyn,11232,Opioid Treatment Program,Methadone KEEP,Closed,5
+2010,556,"Gramercy Park Medical Group, P.C.",1484,Gramercy Park Medical Grp‐ MMTP Clinic,New York,106,255 Third Ave.,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,74
+2010,587,"New York Therapeutic Communities, Inc.",5682,Serendipity I John David Cntr IR,Kings,316,2071 Fulton St,Brooklyn,11233,Residential,Intensive Residential,Operational,49
+2015,587,"New York Therapeutic Communities, Inc.",5682,Serendipity I John David Cntr IR,Kings,316,2071 Fulton St,Brooklyn,11233,Residential,Intensive Residential,Operational,53
+2019,587,"New York Therapeutic Communities, Inc.",5682,Serendipity I John David Cntr IR,Kings,316,2071 Fulton St,Brooklyn,11233,Residential,Intensive Residential,Operational,51
+2010,587,"New York Therapeutic Communities, Inc.",7191,Serendipity II Madeline Randers Ctr IR,Kings,303,944 Bedford Ave,Brooklyn,11205,Residential,Intensive Residential,Operational,37
+2015,587,"New York Therapeutic Communities, Inc.",7191,Serendipity II Madeline Randers Ctr IR,Kings,303,944 Bedford Ave,Brooklyn,11205,Residential,Intensive Residential,Operational,35
+2019,587,"New York Therapeutic Communities, Inc.",7191,Serendipity II Madeline Randers Ctr IR,Kings,303,944 Bedford Ave,Brooklyn,11205,Residential,Intensive Residential,Operational,23
+2010,587,"New York Therapeutic Communities, Inc.",51994,"NY Therapeutic Communities, Inc. OP",Kings,316,2071 Fulton St,Brooklyn,11233,Outpatient,Outpatient Clinic,Operational,98
+2015,587,"New York Therapeutic Communities, Inc.",51994,"NY Therapeutic Communities, Inc. OP",Kings,316,2071 Fulton St,Brooklyn,11233,Outpatient,Outpatient Clinic,Operational,45
+2019,587,"New York Therapeutic Communities, Inc.",51994,"NY Therapeutic Communities, Inc. OP",Kings,316,2071 Fulton St,Brooklyn,11233,Outpatient,Outpatient Clinic,Operational,46
+2010,587,"New York Therapeutic Communities, Inc.",52057,"NY Therapeutic Communities, Inc. OP",Queens,412,162‐24 Jamaica Ave,Jamaica,11432,Outpatient,Outpatient Clinic,Operational,54
+2015,587,"New York Therapeutic Communities, Inc.",52057,"NY Therapeutic Communities, Inc. OP",Queens,412,162‐24 Jamaica Ave,Jamaica,11432,Outpatient,Outpatient Clinic,Operational,36
+2019,587,"New York Therapeutic Communities, Inc.",52057,"NY Therapeutic Communities, Inc. OP",Queens,412,162‐24 Jamaica Ave,Jamaica,11432,Outpatient,Outpatient Clinic,Operational,46
+2010,587,"New York Therapeutic Communities, Inc.",52234,"New York Therapeutic Communities, Inc.",New York,101,346 Broadway,New York,10013,Outpatient,Outpatient Clinic,Closed,16
+2010,610,"Anchor House, Inc.",1593,"Anchor House, Inc. IR",Kings,308,976 Park Pl,Brooklyn,11213,Residential,Intensive Residential,Closed,15
+2015,610,"Anchor House, Inc.",1593,"Anchor House, Inc. IR",Kings,308,976 Park Pl,Brooklyn,11213,Residential,Intensive Residential,Closed,24
+2010,610,"Anchor House, Inc.",7075,"Anchor House, Inc IR 1",Kings,308,1041‐1047 Bergen St,Brooklyn,11216,Residential,Intensive Residential,Closed,48
+2015,610,"Anchor House, Inc.",7075,"Anchor House, Inc IR 1",Kings,308,1041‐1047 Bergen St,Brooklyn,11216,Residential,Intensive Residential,Closed,43
+2019,610,"Anchor House, Inc.",53207,"Anchor House, Inc. SRR",Kings,308,976 Park Pl,Brooklyn,11213,Residential,820 Stabil Rehab Reintegration,Operational,17
+2019,610,"Anchor House, Inc.",53208,"Anchor House, Inc. SRR 1",Kings,308,1041‐1047 Bergen St,Brooklyn,11216,Residential,820 Stabil Rehab Reintegration,Operational,44
+2010,1024,"Damon House New York, Inc.",2954,"Damon House New York, Inc. CR",Kings,303,802 Kent Ave,Brooklyn,11205,Residential,Community Residential,Closed,63
+2015,1024,"Damon House New York, Inc.",2954,"Damon House New York, Inc. CR",Kings,303,802 Kent Ave,Brooklyn,11205,Residential,Community Residential,Closed,44
+2010,1024,"Damon House New York, Inc.",6334,"Damon House New York, Inc. CR 1",Kings,304,1154‐1156 Dekalb Ave,Brooklyn,11221,Residential,Community Residential,Closed,76
+2015,1024,"Damon House New York, Inc.",6334,"Damon House New York, Inc. CR 1",Kings,304,1154‐1156 Dekalb Ave,Brooklyn,11221,Residential,Community Residential,Closed,88
+2010,1249,"Vida Family Services, Inc.",7179,Vida Family Services OP,New York,111,127 E 105th St,New York,10029,Outpatient,Outpatient Clinic,Operational,52
+2015,1249,"Vida Family Services, Inc.",7179,Vida Family Services OP,New York,111,127 E 105th St,New York,10029,Outpatient,Outpatient Clinic,Operational,33
+2019,1249,"Vida Family Services, Inc.",7179,Vida Family Services OP,New York,111,127 E 105th St,New York,10029,Outpatient,Outpatient Clinic,Operational,27
+2010,1522,"El Regreso, Inc.",6093,El Regreso IR,Bronx,201,834 E 156th St,Bronx,10455,Residential,Intensive Residential,Operational,50
+2015,1522,"El Regreso, Inc.",6093,El Regreso IR,Bronx,201,834 E 156th St,Bronx,10455,Residential,Intensive Residential,Operational,51
+2019,1522,"El Regreso, Inc.",6093,El Regreso IR,Bronx,201,834 E 156th St,Bronx,10455,Residential,Intensive Residential,Operational,52
+2010,1522,"El Regreso, Inc.",6321,"El Regreso, Inc. OP",Kings,301,141‐143 S 3rd St,Brooklyn,11211,Outpatient,Outpatient Clinic,Operational,48
+2015,1522,"El Regreso, Inc.",6321,"El Regreso, Inc. OP",Kings,301,141‐143 S 3rd St,Brooklyn,11211,Outpatient,Outpatient Clinic,Operational,54
+2019,1522,"El Regreso, Inc.",6321,"El Regreso, Inc. OP",Kings,301,141‐143 S 3rd St,Brooklyn,11211,Outpatient,Outpatient Clinic,Operational,40
+2010,1522,"El Regreso, Inc.",51995,El Regreso IR 1,Kings,301,141‐143 S 3rd St,Brooklyn,11211,Residential,Intensive Residential,Operational,34
+2015,1522,"El Regreso, Inc.",51995,El Regreso IR 1,Kings,301,141‐143 S 3rd St,Brooklyn,11211,Residential,Intensive Residential,Operational,32
+2019,1522,"El Regreso, Inc.",51995,El Regreso IR 1,Kings,301,141‐143 S 3rd St,Brooklyn,11211,Residential,Intensive Residential,Operational,36
+2010,1523,"Fortune Society, Inc.",6287,Fortune Society OP,Queens,401,29‐76 Northern Blvd,Long Island City,11101,Outpatient,Outpatient Clinic,Operational,153
+2015,1523,"Fortune Society, Inc.",6287,Fortune Society OP,Queens,401,29‐76 Northern Blvd,Long Island City,11101,Outpatient,Outpatient Clinic,Operational,124
+2019,1523,"Fortune Society, Inc.",6287,Fortune Society OP,Queens,401,29‐76 Northern Blvd,Long Island City,11101,Outpatient,Outpatient Clinic,Operational,116
+2010,1525,"Turning Point Brooklyn, Inc.",7182,"Turning Point Brooklyn, Inc. OP",Kings,307,5220 4th Ave,Brooklyn,11220,Outpatient,Outpatient Clinic,Closed,209
+2015,1525,"Turning Point Brooklyn, Inc.",7182,"Turning Point Brooklyn, Inc. OP",Kings,307,5220 4th Ave,Brooklyn,11220,Outpatient,Outpatient Clinic,Closed,81
+2019,1738,"Bailey House, Inc.",52933,"Bailey House, Inc. OP",New York,111,1751 Park Ave,New York,10035,Outpatient,Outpatient Clinic,Operational,69
+2010,1823,"Bliss‐Poston The Second Wind, Inc.",5111,Bliss‐Poston The Second Wind Inc. OP,New York,105,928 Broadway,New York,10010,Outpatient,Outpatient Clinic,Operational,30
+2015,1823,"Bliss‐Poston The Second Wind, Inc.",5111,Bliss‐Poston The Second Wind Inc. OP,New York,105,928 Broadway,New York,10010,Outpatient,Outpatient Clinic,Operational,51
+2019,1823,"Bliss‐Poston The Second Wind, Inc.",5111,Bliss‐Poston The Second Wind Inc. OP,New York,105,928 Broadway,New York,10010,Outpatient,Outpatient Clinic,Operational,16
+2010,1857,"BASICS, Bronx Addiction Services",6959,Franklin House IR,Bronx,203,1068 Franklin Ave,Bronx,10456,Residential,Intensive Residential,Closed,125
+2015,1857,"BASICS, Bronx Addiction Services",6959,Franklin House IR,Bronx,203,1068 Franklin Ave,Bronx,10456,Residential,Intensive Residential,Closed,124
+2019,1857,"BASICS, Bronx Addiction Services",6959,Franklin House IR,Bronx,203,1068 Franklin Ave,Bronx,10456,Residential,Intensive Residential,Closed,34
+2010,1857,"BASICS, Bronx Addiction Services",7383,BASICS OP,Bronx,203,488 E 164th St,Bronx,10456,Outpatient,Outpatient Clinic,Closed,114
+2015,1857,"BASICS, Bronx Addiction Services",7383,BASICS OP,Bronx,203,488 E 164th St,Bronx,10456,Outpatient,Outpatient Clinic,Closed,79
+2010,1857,"BASICS, Bronx Addiction Services",52001,BASICS OP 1,Bronx,203,488 E 164th St,Bronx,10456,Outpatient,Outpatient Clinic,Closed,13
+2015,1857,"BASICS, Bronx Addiction Services",52001,BASICS OP 1,Bronx,203,488 E 164th St,Bronx,10456,Outpatient,Outpatient Clinic,Closed,0
+2019,1857,"BASICS, Bronx Addiction Services",53297,Franklin House SRR,Bronx,203,1064 Franklin Ave,Bronx,10456,Residential,820 Stabil Rehab Reintegration,Operational,122
+2010,1879,"Osborne Treatment Services,Inc",7323,"Osborne Treatment Services, Inc OP",Bronx,201,809 Westchester Ave,Bronx,10455,Outpatient,Outpatient Clinic,Closeout,199
+2015,1879,"Osborne Treatment Services,Inc",7323,"Osborne Treatment Services, Inc OP",Bronx,201,809 Westchester Ave,Bronx,10455,Outpatient,Outpatient Clinic,Closeout,137
+2019,1879,"Osborne Treatment Services,Inc",7323,"Osborne Treatment Services, Inc OP",Bronx,201,809 Westchester Ave,Bronx,10455,Outpatient,Outpatient Clinic,Closeout,133
+2010,1898,"Parallax Center, Inc.",5513,"Parallax Center, Inc. OP",New York,106,145 E 32nd St,New York,10016,Outpatient,Outpatient Clinic,Operational,126
+2015,1898,"Parallax Center, Inc.",5513,"Parallax Center, Inc. OP",New York,106,145 E 32nd St,New York,10016,Outpatient,Outpatient Clinic,Operational,96
+2019,1898,"Parallax Center, Inc.",5513,"Parallax Center, Inc. OP",New York,106,145 E 32nd St,New York,10016,Outpatient,Outpatient Clinic,Operational,97
+2010,1898,"Parallax Center, Inc.",8020,"Parallax Center, Inc. MSW‐OP",New York,106,145 E 32nd St,New York,10016,Crisis,Med Sup Withdrawal‐Outpatient,Operational,9
+2015,1898,"Parallax Center, Inc.",8020,"Parallax Center, Inc. MSW‐OP",New York,106,145 E 32nd St,New York,10016,Crisis,Med Sup Withdrawal‐Outpatient,Operational,16
+2019,1898,"Parallax Center, Inc.",8020,"Parallax Center, Inc. MSW‐OP",New York,106,145 E 32nd St,New York,10016,Crisis,Med Sup Withdrawal‐Outpatient,Operational,12
+2010,2015,"Exponents, Inc.",7128,"Exponents, Inc. OP",New York,101,17 Battery Pl,New York,10004,Outpatient,Outpatient Clinic,Operational,21
+2015,2015,"Exponents, Inc.",7128,"Exponents, Inc. OP",New York,101,17 Battery Pl,New York,10004,Outpatient,Outpatient Clinic,Operational,28
+2019,2015,"Exponents, Inc.",7128,"Exponents, Inc. OP",New York,101,17 Battery Pl,New York,10004,Outpatient,Outpatient Clinic,Operational,67
+2010,2035,SCAN‐NY Volunteer Parent‐Aides Assoc.,7422,SCAN‐NY Volunteer Parent‐Aides OP,Bronx,204,1377 Jerome Ave,Bronx,10452,Outpatient,Outpatient Clinic,Operational,87
+2015,2035,SCAN‐NY Volunteer Parent‐Aides Assoc.,7422,SCAN‐NY Volunteer Parent‐Aides OP,Bronx,204,1377 Jerome Ave,Bronx,10452,Outpatient,Outpatient Clinic,Operational,63
+2019,2035,SCAN‐NY Volunteer Parent‐Aides Assoc.,7422,SCAN‐NY Volunteer Parent‐Aides OP,Bronx,204,1377 Jerome Ave,Bronx,10452,Outpatient,Outpatient Clinic,Operational,41
+2010,2050,"Bridge Back to Life Center, Inc.",6094,Bridge Back to Life Ctr Inc. OP,Richmond,501,1688 Victory Blvd,Staten Island,10314,Outpatient,Outpatient Clinic,Operational,112
+2015,2050,"Bridge Back to Life Center, Inc.",6094,Bridge Back to Life Ctr Inc. OP,Richmond,501,1688 Victory Blvd,Staten Island,10314,Outpatient,Outpatient Clinic,Operational,97
+2019,2050,"Bridge Back to Life Center, Inc.",6094,Bridge Back to Life Ctr Inc. OP,Richmond,501,1688 Victory Blvd,Staten Island,10314,Outpatient,Outpatient Clinic,Operational,57
+2010,2050,"Bridge Back to Life Center, Inc.",6733,Bridge Back to Life Ctr Inc. OP 1,New York,105,500 Eighth Avenue,New York,10018,Outpatient,Outpatient Clinic,Closed,103
+2015,2050,"Bridge Back to Life Center, Inc.",6733,Bridge Back to Life Ctr Inc. OP 1,New York,105,500 Eighth Avenue,New York,10018,Outpatient,Outpatient Clinic,Closed,60
+2010,2050,"Bridge Back to Life Center, Inc.",7180,Bridge Back to Life Ctr Inc. OP 3,Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,143
+2015,2050,"Bridge Back to Life Center, Inc.",7180,Bridge Back to Life Ctr Inc. OP 3,Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,134
+2019,2050,"Bridge Back to Life Center, Inc.",7180,Bridge Back to Life Ctr Inc. OP 3,Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,134
+2010,2050,"Bridge Back to Life Center, Inc.",7356,Bridge Back to Life Ctr Inc. OP 4,Kings,313,3044 Coney Island Ave,Brooklyn,11235,Outpatient,Outpatient Clinic,Operational,134
+2015,2050,"Bridge Back to Life Center, Inc.",7356,Bridge Back to Life Ctr Inc. OP 4,Kings,313,3044 Coney Island Ave,Brooklyn,11235,Outpatient,Outpatient Clinic,Operational,91
+2019,2050,"Bridge Back to Life Center, Inc.",7356,Bridge Back to Life Ctr Inc. OP 4,Kings,313,3044 Coney Island Ave,Brooklyn,11235,Outpatient,Outpatient Clinic,Operational,80
+2010,2050,"Bridge Back to Life Center, Inc.",8049,Bridge Back to Life ‐ M.S. With/OP,New York,105,500 Eighth Avenue,New York,10018,Crisis,Med Sup Withdrawal‐Outpatient,Closed,0
+2010,2050,"Bridge Back to Life Center, Inc.",52006,Bridge Back to Life CD OP Rehab,Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Rehabilitation,Closed,12
+2010,2090,"First Steps to Recovery, Inc.",6272,"First Steps to Recovery, Inc. OP",New York,104,310‐312 W 47th St,New York,10036,Outpatient,Outpatient Clinic,Operational,35
+2015,2090,"First Steps to Recovery, Inc.",6272,"First Steps to Recovery, Inc. OP",New York,104,310‐312 W 47th St,New York,10036,Outpatient,Outpatient Clinic,Operational,30
+2019,2090,"First Steps to Recovery, Inc.",6272,"First Steps to Recovery, Inc. OP",New York,104,310‐312 W 47th St,New York,10036,Outpatient,Outpatient Clinic,Operational,8
+2010,2090,"First Steps to Recovery, Inc.",7334,First Steps to Recovery OP 1,Kings,313,2990 Brighton 12th St,Brooklyn,11235,Outpatient,Outpatient Clinic,Operational,69
+2015,2090,"First Steps to Recovery, Inc.",7334,First Steps to Recovery OP 1,Kings,313,2990 Brighton 12th St,Brooklyn,11235,Outpatient,Outpatient Clinic,Operational,73
+2019,2090,"First Steps to Recovery, Inc.",7334,First Steps to Recovery OP 1,Kings,313,2990 Brighton 12th St,Brooklyn,11235,Outpatient,Outpatient Clinic,Operational,46
+2010,2133,New York Center Addiction Treatment,6496,New York Center Addiction Treatment OP,New York,102,598 Broadway,New York,10012,Outpatient,Outpatient Clinic,Closed,204
+2015,2133,New York Center Addiction Treatment,6496,New York Center Addiction Treatment OP,New York,102,598 Broadway,New York,10012,Outpatient,Outpatient Clinic,Closed,212
+2015,2133,New York Center Addiction Treatment,52851,NY Center Addiction Treatment OP 1,Queens,403,37‐20 74th St,Jackson Heights,11372,Outpatient,Outpatient Clinic,Closed,38
+2010,2136,"Center for Community Alternatives, Inc",6520,Crossroads OP,Kings,302,25 Chapel St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,84
+2015,2136,"Center for Community Alternatives, Inc",6520,Crossroads OP,Kings,302,25 Chapel St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,80
+2019,2136,"Center for Community Alternatives, Inc",6520,Crossroads OP,Kings,302,25 Chapel St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,41
+2010,2141,Hazelden/New York,6978,Hazelden/New York OP,New York,105,322 8th Ave,New York,10001,Outpatient,Outpatient Clinic,Operational,78
+2015,2141,Hazelden/New York,6978,Hazelden/New York OP,New York,105,322 8th Ave,New York,10001,Outpatient,Outpatient Clinic,Operational,140
+2019,2141,Hazelden/New York,6978,Hazelden/New York OP,New York,105,322 8th Ave,New York,10001,Outpatient,Outpatient Clinic,Operational,149
+2010,10030,Center for Comprehensive Hlth Practice,660,Multi Track Abstinence Program OTP,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,114
+2015,10030,Center for Comprehensive Hlth Practice,660,Multi Track Abstinence Program OTP,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,115
+2019,10030,Center for Comprehensive Hlth Practice,660,Multi Track Abstinence Program OTP,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,105
+2010,10030,Center for Comprehensive Hlth Practice,1237,Cntr for Comprhnsiv Hlth Practice OTP2,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,123
+2015,10030,Center for Comprehensive Hlth Practice,1237,Cntr for Comprhnsiv Hlth Practice OTP2,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,116
+2019,10030,Center for Comprehensive Hlth Practice,1237,Cntr for Comprhnsiv Hlth Practice OTP2,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,103
+2010,10030,Center for Comprehensive Hlth Practice,3553,Cntr for Comprhnsiv Hlth Practice OTP1,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,247
+2015,10030,Center for Comprehensive Hlth Practice,3553,Cntr for Comprhnsiv Hlth Practice OTP1,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,173
+2019,10030,Center for Comprehensive Hlth Practice,3553,Cntr for Comprhnsiv Hlth Practice OTP1,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,166
+2010,10030,Center for Comprehensive Hlth Practice,7053,Family and Employment Services Pgm OP,New York,111,1900 2nd Ave,New York,10029,Outpatient,Outpatient Clinic,Operational,216
+2015,10030,Center for Comprehensive Hlth Practice,7053,Family and Employment Services Pgm OP,New York,111,1900 2nd Ave,New York,10029,Outpatient,Outpatient Clinic,Operational,186
+2019,10030,Center for Comprehensive Hlth Practice,7053,Family and Employment Services Pgm OP,New York,111,1900 2nd Ave,New York,10029,Outpatient,Outpatient Clinic,Operational,181
+2010,10160,"Argus Community, Inc.",227,TheElizabeth L Sturz Outpatient Ctr OP,Bronx,201,760 E 160th St.,Bronx,10456,Outpatient,Outpatient Clinic,Operational,190
+2015,10160,"Argus Community, Inc.",227,TheElizabeth L Sturz Outpatient Ctr OP,Bronx,201,760 E 160th St.,Bronx,10456,Outpatient,Outpatient Clinic,Operational,99
+2019,10160,"Argus Community, Inc.",227,TheElizabeth L Sturz Outpatient Ctr OP,Bronx,201,760 E 160th St.,Bronx,10456,Outpatient,Outpatient Clinic,Operational,116
+2010,10160,"Argus Community, Inc.",4200,"Argus Community, Inc. IR",Bronx,201,760 E 160th St,Bronx,10456,Residential,Intensive Residential,Closeout,43
+2015,10160,"Argus Community, Inc.",4200,"Argus Community, Inc. IR",Bronx,201,760 E 160th St,Bronx,10456,Residential,Intensive Residential,Closeout,46
+2019,10160,"Argus Community, Inc.",4200,"Argus Community, Inc. IR",Bronx,201,760 E 160th St,Bronx,10456,Residential,Intensive Residential,Closeout,49
+2010,10160,"Argus Community, Inc.",5960,Harbor House IR,Bronx,201,402 E 156th St,Bronx,10455,Residential,Intensive Residential,Closeout,54
+2015,10160,"Argus Community, Inc.",5960,Harbor House IR,Bronx,201,402 E 156th St,Bronx,10455,Residential,Intensive Residential,Closeout,55
+2019,10160,"Argus Community, Inc.",5960,Harbor House IR,Bronx,201,402 E 156th St,Bronx,10455,Residential,Intensive Residential,Closeout,50
+2015,10160,"Argus Community, Inc.",52628,"Argus Community, Inc. OP 1",New York,109,507 W 145th St,New York,10031,Outpatient,Outpatient Clinic,Operational,80
+2019,10160,"Argus Community, Inc.",52628,"Argus Community, Inc. OP 1",New York,109,507 W 145th St,New York,10031,Outpatient,Outpatient Clinic,Operational,157
+2015,10160,"Argus Community, Inc.",52629,Striver House IR,New York,109,202‐204 Edgecombe Ave,New York,10030,Residential,Intensive Residential,Operational,56
+2019,10160,"Argus Community, Inc.",52629,Striver House IR,New York,109,202‐204 Edgecombe Ave,New York,10030,Residential,Intensive Residential,Operational,54
+2019,10160,"Argus Community, Inc.",53156,"Argus Community, Inc. MMW",Queens,410,114‐40 Van Wyck Expy,South Ozone Park,11420,Crisis,Medically Monitored Withdrawal,Operational,9
+2019,10160,"Argus Community, Inc.",53200,Mary S. Taylor Homeless Outreach IR,New York,111,2015‐25 Madison Ave,New York,10035,Residential,Intensive Residential,Closed,17
+2019,10160,"Argus Community, Inc.",53274,Mary S. Taylor Homeless Outreach RRi,New York,111,2015‐25 Madison Ave,New York,10035,Residential,820 Residential Reintegration,Operational,125
+2010,11490,Addiction Care Interventions,3489,Alcoholism Treatment Center OP,New York,105,255 W 36th St,New York,10018,Outpatient,Outpatient Clinic,Operational,130
+2015,11490,Addiction Care Interventions,3489,Alcoholism Treatment Center OP,New York,105,255 W 36th St,New York,10018,Outpatient,Outpatient Clinic,Operational,226
+2019,11490,Addiction Care Interventions,3489,Alcoholism Treatment Center OP,New York,105,255 W 36th St,New York,10018,Outpatient,Outpatient Clinic,Operational,119
+2010,11490,Addiction Care Interventions,51389,Addiction Care interventions IP,Kings,316,589 Rockaway Ave,Brooklyn,11212,Inpatient Treatment,Inpatient Rehabilitation,Operational,25
+2015,11490,Addiction Care Interventions,51389,Addiction Care interventions IP,Kings,316,589 Rockaway Ave,Brooklyn,11212,Inpatient Treatment,Inpatient Rehabilitation,Operational,26
+2019,11490,Addiction Care Interventions,51389,Addiction Care interventions IP,Kings,316,589 Rockaway Ave,Brooklyn,11212,Inpatient Treatment,Inpatient Rehabilitation,Operational,37
+2010,11490,Addiction Care Interventions,51656,Addiction Care Interventions MSW‐IP,Kings,316,589 Rockaway Ave,Brooklyn,11212,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,58
+2015,11490,Addiction Care Interventions,51656,Addiction Care Interventions MSW‐IP,Kings,316,589 Rockaway Ave,Brooklyn,11212,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,66
+2019,11490,Addiction Care Interventions,51656,Addiction Care Interventions MSW‐IP,Kings,316,589 Rockaway Ave,Brooklyn,11212,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,38
+2010,12030,"Camelot of Staten Island, Inc.",1687,"Camelot of Staten Island, Inc. OP",Richmond,501,1268 Forest Ave,Staten Island,10302,Outpatient,Outpatient Clinic,Operational,51
+2015,12030,"Camelot of Staten Island, Inc.",1687,"Camelot of Staten Island, Inc. OP",Richmond,501,1268 Forest Ave,Staten Island,10302,Outpatient,Outpatient Clinic,Operational,40
+2019,12030,"Camelot of Staten Island, Inc.",1687,"Camelot of Staten Island, Inc. OP",Richmond,501,1268 Forest Ave,Staten Island,10302,Outpatient,Outpatient Clinic,Operational,47
+2010,12030,"Camelot of Staten Island, Inc.",5594,"Camelot of Staten Island, Inc. OP 1",Queens,413,175‐15 Rockaway Blvd,Jamaica,11434,Outpatient,Outpatient Clinic,Operational,108
+2015,12030,"Camelot of Staten Island, Inc.",5594,"Camelot of Staten Island, Inc. OP 1",Queens,413,175‐15 Rockaway Blvd,Jamaica,11434,Outpatient,Outpatient Clinic,Operational,121
+2019,12030,"Camelot of Staten Island, Inc.",5594,"Camelot of Staten Island, Inc. OP 1",Queens,413,175‐15 Rockaway Blvd,Jamaica,11434,Outpatient,Outpatient Clinic,Operational,149
+2010,12030,"Camelot of Staten Island, Inc.",6455,"Camelot of Staten Island, Inc. IR",Richmond,502,460H Brielle Ave,Staten Island,10314,Residential,Intensive Residential,Closed,31
+2015,12030,"Camelot of Staten Island, Inc.",6455,"Camelot of Staten Island, Inc. IR",Richmond,502,460H Brielle Ave,Staten Island,10314,Residential,Intensive Residential,Closed,45
+2010,12030,"Camelot of Staten Island, Inc.",51975,Camelot of Staten Island CDOP Rehab,Richmond,501,263 Port Richmond Ave,Staten Island,10302,Outpatient,Outpatient Rehabilitation,Closed,24
+2015,12030,"Camelot of Staten Island, Inc.",52734,"Camelot of Staten Island, Inc. IR 1",Richmond,501,273 Heberton Ave,Staten Island,10302,Residential,Intensive Residential,Closeout,20
+2019,12030,"Camelot of Staten Island, Inc.",52734,"Camelot of Staten Island, Inc. IR 1",Richmond,501,273 Heberton Ave,Staten Island,10302,Residential,Intensive Residential,Closeout,17
+2019,12030,"Camelot of Staten Island, Inc.",53213,"Camelot of Staten Island, Inc. SRR",Richmond,502,460H Brielle Ave,Staten Island,10314,Residential,820 Stabil Rehab Reintegration,Operational,41
+2010,14230,"Alianza Dominicana, Inc.",6197,Alianza Dom.‐ CREO Prog. ‐ Outpat,New York,112,2410 Amsterdam Ave,New York,10033,Outpatient,Outpatient Clinic,Closed,50
+2015,15300,"Bleuler Psychotherapy Center, Inc.",52521,Bleuler CD Recovery Services OP,Queens,406,104‐70 Queens Blvd,Forest Hills,11375,Outpatient,Outpatient Clinic,Operational,35
+2019,15300,"Bleuler Psychotherapy Center, Inc.",52521,Bleuler CD Recovery Services OP,Queens,406,104‐70 Queens Blvd,Forest Hills,11375,Outpatient,Outpatient Clinic,Operational,53
+2010,15340,Center for Marital and Family Therapy,51744,Ctr Marital/Fam. Therapy‐ CD OP,Kings,302,"408 Jay St., 5th Fl.",Brooklyn,11201,Outpatient,Outpatient Clinic,Closed,28
+2010,15350,"CIS Counseling Center, Inc.",6985,CIS Counseling Center‐ CD OP,New York,101,116 John Street,New York,10038,Outpatient,Outpatient Clinic,Closed,274
+"",15410,LSA Recovery (IDCC),53511,LSA Recovery (IDCC) OP,Kings,315,1664 E 14th St,Brooklyn,,Outpatient,Outpatient Clinic,Operational,
+2010,15480,"St. Mark's Place Institute for MH, Inc",51582,St. Mark's Place Institute for MH OP,New York,103,57 Saint Marks Pl,New York,10003,Outpatient,Outpatient Clinic,Operational,146
+2015,15480,"St. Mark's Place Institute for MH, Inc",51582,St. Mark's Place Institute for MH OP,New York,103,57 Saint Marks Pl,New York,10003,Outpatient,Outpatient Clinic,Operational,110
+2019,15480,"St. Mark's Place Institute for MH, Inc",51582,St. Mark's Place Institute for MH OP,New York,103,57 Saint Marks Pl,New York,10003,Outpatient,Outpatient Clinic,Operational,101
+2010,15930,"Narco Freedom, Inc.",256,Narco Freedom‐Bridge Plaza OTP,Queens,401,37‐18 34th Street,Long Island City,11101,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,474
+2015,15930,"Narco Freedom, Inc.",256,Narco Freedom‐Bridge Plaza OTP,Queens,401,37‐18 34th Street,Long Island City,11101,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,407
+2010,15930,"Narco Freedom, Inc.",305,Narco Freedom ‐ Court St. MMTP Clinic,Kings,302,217 Court Street,Brooklyn,11201,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,1
+2010,15930,"Narco Freedom, Inc.",329,Narco Freedom ‐ Red Hook OTP 1,Kings,306,553‐561 Court Street,Brooklyn,11231,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,623
+2015,15930,"Narco Freedom, Inc.",329,Narco Freedom ‐ Red Hook OTP 1,Kings,306,553‐561 Court Street,Brooklyn,11231,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,717
+2010,15930,"Narco Freedom, Inc.",1481,Narco Freedom ‐ Prot #2 LM OTP 2,Bronx,201,477‐481 Willis Ave.,Bronx,10455,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,702
+2015,15930,"Narco Freedom, Inc.",1481,Narco Freedom ‐ Prot #2 LM OTP 2,Bronx,201,477‐481 Willis Ave.,Bronx,10455,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,843
+2010,15930,"Narco Freedom, Inc.",4602,"Narco Freedom, Inc. ‐ Methadone KEEP",Kings,306,553‐561 Court Street,Brooklyn,11231,Opioid Treatment Program,Methadone KEEP,Closed,26
+2010,15930,"Narco Freedom, Inc.",5486,"Narco Freedom, Inc. Methadone KEEP",Bronx,201,477‐481 Willis Ave.,Bronx,10455,Opioid Treatment Program,Methadone KEEP,Closed,30
+2010,15930,"Narco Freedom, Inc.",6012,Alternatives OP,Bronx,201,528 Morris Avenue,Bronx,10451,Outpatient,Outpatient Clinic,Closed,456
+2015,15930,"Narco Freedom, Inc.",6012,Alternatives OP,Bronx,201,528 Morris Avenue,Bronx,10451,Outpatient,Outpatient Clinic,Closed,209
+2010,15930,"Narco Freedom, Inc.",6801,"Narco Freedom, Inc. ‐ CD Int Res Rehab",Bronx,203,1668 Webster Avenue,Bronx,10457,Residential,Intensive Residential,Closed,10
+2010,15930,"Narco Freedom, Inc.",7093,"Narco Freedom, Inc. OP",Kings,306,553‐561 Court Street,Brooklyn,11231,Outpatient,Outpatient Clinic,Closed,268
+2015,15930,"Narco Freedom, Inc.",7093,"Narco Freedom, Inc. OP",Kings,306,553‐561 Court Street,Brooklyn,11231,Outpatient,Outpatient Clinic,Closed,91
+2010,15930,"Narco Freedom, Inc.",7138,"Narco Freedom, Inc. ‐ OTP 3",Bronx,201,250 Grand Concourse Avenue,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,619
+2015,15930,"Narco Freedom, Inc.",7138,"Narco Freedom, Inc. ‐ OTP 3",Bronx,201,250 Grand Concourse Avenue,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,741
+2010,15930,"Narco Freedom, Inc.",7271,"Narco Freedom, Inc. OP 1",Queens,401,37‐18 34th Street,Long Island City,11101,Outpatient,Outpatient Clinic,Closed,60
+2015,15930,"Narco Freedom, Inc.",7271,"Narco Freedom, Inc. OP 1",Queens,401,37‐18 34th Street,Long Island City,11101,Outpatient,Outpatient Clinic,Closed,40
+2010,15930,"Narco Freedom, Inc.",51600,"Narco Freedom, Inc. OP 2",Bronx,201,477‐481 Willis Avenue,Bronx,10455,Outpatient,Outpatient Clinic,Closed,233
+2015,15930,"Narco Freedom, Inc.",51600,"Narco Freedom, Inc. OP 2",Bronx,201,477‐481 Willis Avenue,Bronx,10455,Outpatient,Outpatient Clinic,Closed,191
+2010,16130,Metropolitan Center for Mental Health,51729,Families/Individuals in Recovery OP,New York,112,1090 St. Nicholas Ave,New York,10032,Outpatient,Outpatient Clinic,Operational,99
+2015,16130,Metropolitan Center for Mental Health,51729,Families/Individuals in Recovery OP,New York,112,1090 St. Nicholas Ave,New York,10032,Outpatient,Outpatient Clinic,Operational,117
+2019,16130,Metropolitan Center for Mental Health,51729,Families/Individuals in Recovery OP,New York,112,1090 St. Nicholas Ave,New York,10032,Outpatient,Outpatient Clinic,Operational,133
+2010,16140,Mental Health Providers/Western Queens,51264,MH Providers of Western Queens OP,Queens,402,62‐07 Woodside Ave,Woodside,11377,Outpatient,Outpatient Clinic,Operational,74
+2015,16140,Mental Health Providers/Western Queens,51264,MH Providers of Western Queens OP,Queens,402,62‐07 Woodside Ave,Woodside,11377,Outpatient,Outpatient Clinic,Operational,99
+2019,16140,Mental Health Providers/Western Queens,51264,MH Providers of Western Queens OP,Queens,402,62‐07 Woodside Ave,Woodside,11377,Outpatient,Outpatient Clinic,Operational,58
+2010,16190,"Long Island Consultation Center, Inc.",50330,Long Island Consultation Center OP,Queens,404,91‐31 Queens Blvd,Elmhurst,11373,Outpatient,Outpatient Clinic,Operational,143
+2015,16190,"Long Island Consultation Center, Inc.",50330,Long Island Consultation Center OP,Queens,404,91‐31 Queens Blvd,Elmhurst,11373,Outpatient,Outpatient Clinic,Operational,108
+2019,16190,"Long Island Consultation Center, Inc.",50330,Long Island Consultation Center OP,Queens,404,91‐31 Queens Blvd,Elmhurst,11373,Outpatient,Outpatient Clinic,Operational,74
+2010,16350,"T.R.I. Center, Inc.",6015,"T.R.I. Center, Inc. OP",New York,105,1369 Broadway,New York,10018,Outpatient,Outpatient Clinic,Operational,111
+2015,16350,"T.R.I. Center, Inc.",6015,"T.R.I. Center, Inc. OP",New York,105,1369 Broadway,New York,10018,Outpatient,Outpatient Clinic,Operational,85
+2019,16350,"T.R.I. Center, Inc.",6015,"T.R.I. Center, Inc. OP",New York,105,1369 Broadway,New York,10018,Outpatient,Outpatient Clinic,Operational,110
+2010,16350,"T.R.I. Center, Inc.",6134,"T.R.I. Center, Inc. OP 1",Bronx,205,2488 Grand Concourse,Bronx,10458,Outpatient,Outpatient Clinic,Operational,121
+2015,16350,"T.R.I. Center, Inc.",6134,"T.R.I. Center, Inc. OP 1",Bronx,205,2488 Grand Concourse,Bronx,10458,Outpatient,Outpatient Clinic,Operational,110
+2019,16350,"T.R.I. Center, Inc.",6134,"T.R.I. Center, Inc. OP 1",Bronx,205,2488 Grand Concourse,Bronx,10458,Outpatient,Outpatient Clinic,Operational,521
+2010,16350,"T.R.I. Center, Inc.",6402,"T.R.I. Center, Inc. OP 2",Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,99
+2015,16350,"T.R.I. Center, Inc.",6402,"T.R.I. Center, Inc. OP 2",Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,69
+2019,16350,"T.R.I. Center, Inc.",6402,"T.R.I. Center, Inc. OP 2",Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,85
+2010,16350,"T.R.I. Center, Inc.",51959,"T.R.I. Center, Inc.  OP R",New York,105,1369 Broadway,New York,10018,Outpatient,Outpatient Rehabilitation,Operational,4
+2015,16350,"T.R.I. Center, Inc.",51959,"T.R.I. Center, Inc.  OP R",New York,105,1369 Broadway,New York,10018,Outpatient,Outpatient Rehabilitation,Operational,1
+2019,16350,"T.R.I. Center, Inc.",51959,"T.R.I. Center, Inc.  OP R",New York,105,1369 Broadway,New York,10018,Outpatient,Outpatient Rehabilitation,Operational,0
+2010,16640,Inter‐Care LTD.,51154,Inter‐Care LTD. OP,New York,105,51 E 25th St,New York,10010,Outpatient,Outpatient Clinic,Operational,158
+2015,16640,Inter‐Care LTD.,51154,Inter‐Care LTD. OP,New York,105,51 E 25th St,New York,10010,Outpatient,Outpatient Clinic,Operational,155
+2019,16640,Inter‐Care LTD.,51154,Inter‐Care LTD. OP,New York,105,51 E 25th St,New York,10010,Outpatient,Outpatient Clinic,Operational,188
+"",16640,Inter‐Care LTD.,52935,Inter‐Care LTD. MSW OP,New York,105,51 E 25th St,New York,,Crisis,Med Sup Withdrawal‐Outpatient,Operational,
+2010,16670,"HANAC, Inc",6118,"HANAC, Inc OP",Queens,401,31‐14 30th Ave,Astoria,11102,Outpatient,Outpatient Clinic,Operational,50
+2015,16670,"HANAC, Inc",6118,"HANAC, Inc OP",Queens,401,31‐14 30th Ave,Astoria,11102,Outpatient,Outpatient Clinic,Operational,40
+2019,16670,"HANAC, Inc",6118,"HANAC, Inc OP",Queens,401,31‐14 30th Ave,Astoria,11102,Outpatient,Outpatient Clinic,Operational,41
+2010,16810,"Daytop Village, Inc.",1341,Daytop Village ‐ Staten Island OP,Richmond,501,1915 Forest Avenue,Staten Island,10303,Outpatient,Outpatient Rehabilitation,Closed,4
+2010,16810,"Daytop Village, Inc.",1343,Brooklyn Integrated OP Program,Kings,302,401 State Street,Brooklyn,11217,Outpatient,Outpatient Clinic,Closed,134
+2010,16810,"Daytop Village, Inc.",1875,Daytop Village ‐ Queens Adol OP,Queens,412,147‐32 Jamaica Avenue,Jamaica,11435,Outpatient,Outpatient Rehabilitation,Closed,12
+2010,16810,"Daytop Village, Inc.",3557,Daytop Village ‐ Adult Re Entry IR 2,Queens,414,316 Beach 65th Street,Far Rockaway,11692,Residential,Intensive Residential,Closed,174
+2010,16810,"Daytop Village, Inc.",7058,Daytop Village ‐ FR IR,Queens,414,316 Beach 65th Street,Far Rockaway,11692,Residential,Intensive Residential,Closed,44
+2010,16810,"Daytop Village, Inc.",7070,Manhattan Integrated OP,New York,105,500 Eighth Avenue ‐ 3rd Flr.,New York,10018,Outpatient,Outpatient Clinic,Closed,228
+2015,16810,"Daytop Village, Inc.",7070,Manhattan Integrated OP,New York,105,500 Eighth Avenue ‐ 3rd Flr.,New York,10018,Outpatient,Outpatient Clinic,Closed,123
+2010,16810,"Daytop Village, Inc.",7071,Bronx Integrated OP,Bronx,210,2614‐2618 Halperin Avenue,Bronx,10461,Outpatient,Outpatient Clinic,Closed,198
+2015,16810,"Daytop Village, Inc.",7071,Bronx Integrated OP,Bronx,210,2614‐2618 Halperin Avenue,Bronx,10461,Outpatient,Outpatient Clinic,Closed,82
+2010,16810,"Daytop Village, Inc.",7072,Staten Island Integrated OP,Richmond,501,1915 Forest Avenue,Staten Island,10303,Outpatient,Outpatient Clinic,Closed,71
+2015,16810,"Daytop Village, Inc.",7072,Staten Island Integrated OP,Richmond,501,1915 Forest Avenue,Staten Island,10303,Outpatient,Outpatient Clinic,Closed,60
+2010,16810,"Daytop Village, Inc.",7083,Queens Integrated OP,Queens,412,147‐32 Jamaica Avenue,Jamaica,11435,Outpatient,Outpatient Clinic,Closed,115
+2015,16810,"Daytop Village, Inc.",7083,Queens Integrated OP,Queens,412,147‐32 Jamaica Avenue,Jamaica,11435,Outpatient,Outpatient Clinic,Closed,7
+2010,16810,"Daytop Village, Inc.",7085,Daytop Village ‐ Bklyn Adol OP,Kings,302,401 State Street,Brooklyn,11217,Outpatient,Outpatient Rehabilitation,Closed,6
+2010,16810,"Daytop Village, Inc.",7156,Daytop Village Man ‐ Re Entry,New York,105,54 W. 40th Street ‐ 1st/2nd/11th Flrs,New York,10018,Residential,Intensive Residential,Closed,32
+2010,16820,"Phoenix Houses of New York, Inc.",2955,Phoenix House LIC Queens IR,Queens,401,34‐25 Vernon Blvd,Long Island City,11106,Residential,Intensive Residential,Closed,222
+2015,16820,"Phoenix Houses of New York, Inc.",2955,Phoenix House LIC Queens IR,Queens,401,34‐25 Vernon Blvd,Long Island City,11106,Residential,Intensive Residential,Closed,131
+2010,16820,"Phoenix Houses of New York, Inc.",3971,Phoenix Houses/NY IR,Bronx,206,480 East 185th Street,Bronx,10458,Residential,Intensive Residential,Closed,96
+2015,16820,"Phoenix Houses of New York, Inc.",3971,Phoenix Houses/NY IR,Bronx,206,480 East 185th Street,Bronx,10458,Residential,Intensive Residential,Closed,57
+2010,16820,"Phoenix Houses of New York, Inc.",7144,Phoenix House Career Academy IR,Kings,302,42‐50 Jay St,Brooklyn,11201,Residential,Intensive Residential,Closed,225
+2015,16820,"Phoenix Houses of New York, Inc.",7144,Phoenix House Career Academy IR,Kings,302,42‐50 Jay St,Brooklyn,11201,Residential,Intensive Residential,Closed,168
+2010,16820,"Phoenix Houses of New York, Inc.",52030,Phoenix House Riverside CR,New York,107,164 W 74th St,New York,10023,Residential,Community Residential,Closed,52
+2015,16820,"Phoenix Houses of New York, Inc.",52030,Phoenix House Riverside CR,New York,107,164 W 74th St,New York,10023,Residential,Community Residential,Closed,39
+2010,16820,"Phoenix Houses of New York, Inc.",52070,Prospect Place CR,Kings,308,174 Prospect Pl,Brooklyn,11238,Residential,Community Residential,Closed,89
+2015,16820,"Phoenix Houses of New York, Inc.",52070,Prospect Place CR,Kings,308,174 Prospect Pl,Brooklyn,11238,Residential,Community Residential,Closed,77
+2015,16820,"Phoenix Houses of New York, Inc.",52605,"Phoenix Houses of New York, Inc MSW‐OP",Queens,401,34‐11 Vernon Blvd,Long Island City,11106,Crisis,Med Sup Withdrawal‐Outpatient,Closed,4
+2015,16820,"Phoenix Houses of New York, Inc.",52878,IMPACT Adolescent Program OP,New York,107,164 W 74th St,New York,10023,Outpatient,Outpatient Clinic,Closed,2
+2015,16820,"Phoenix Houses of New York, Inc.",52879,Phoenix House Jack Aaron Center OP,New York,107,164 W 74th St,New York,10023,Outpatient,Outpatient Clinic,Closed,145
+2010,16890,"Samaritan Daytop Village, Inc.",393,Samaritan Daytop Village Inc M‐IR,Queens,409,130‐20 89th Rd,Richmond Hill,11418,Opioid Treatment Program,Intensive Residential,Closeout,84
+2015,16890,"Samaritan Daytop Village, Inc.",393,Samaritan Daytop Village Inc M‐IR,Queens,409,130‐20 89th Rd,Richmond Hill,11418,Opioid Treatment Program,Intensive Residential,Closeout,99
+2019,16890,"Samaritan Daytop Village, Inc.",393,Samaritan Daytop Village Inc M‐IR,Queens,409,130‐20 89th Rd,Richmond Hill,11418,Opioid Treatment Program,Intensive Residential,Closeout,116
+2010,16890,"Samaritan Daytop Village, Inc.",1814,"Samaritan Daytop Village, Inc. IR 1",Queens,412,88‐83 Van Wyck Expy,Jamaica,11435,Residential,Intensive Residential,Closed,120
+2015,16890,"Samaritan Daytop Village, Inc.",1814,"Samaritan Daytop Village, Inc. IR 1",Queens,412,88‐83 Van Wyck Expy,Jamaica,11435,Residential,Intensive Residential,Closed,126
+2010,16890,"Samaritan Daytop Village, Inc.",3162,"Samaritan Daytop Village, Inc IR  2",Bronx,204,1381 Dr Martin L King Jr Blvd.,Bronx,10452,Residential,Intensive Residential,Operational,143
+2015,16890,"Samaritan Daytop Village, Inc.",3162,"Samaritan Daytop Village, Inc IR  2",Bronx,204,1381 Dr Martin L King Jr Blvd.,Bronx,10452,Residential,Intensive Residential,Operational,140
+2019,16890,"Samaritan Daytop Village, Inc.",3162,"Samaritan Daytop Village, Inc IR  2",Bronx,204,1381 Dr Martin L King Jr Blvd.,Bronx,10452,Residential,Intensive Residential,Operational,89
+2010,16890,"Samaritan Daytop Village, Inc.",5931,Samaritan Village ‐ CD Int Res Rehab,New York,106,225 East 53rd Street,New York,10022,Residential,Intensive Residential,Closed,89
+2010,16890,"Samaritan Daytop Village, Inc.",6595,"Samaritan Daytop Village, Inc. OP",Queens,412,144‐10 Jamaica Ave,Jamaica,11435,Outpatient,Outpatient Clinic,Operational,306
+2015,16890,"Samaritan Daytop Village, Inc.",6595,"Samaritan Daytop Village, Inc. OP",Queens,412,144‐10 Jamaica Ave,Jamaica,11435,Outpatient,Outpatient Clinic,Operational,176
+2019,16890,"Samaritan Daytop Village, Inc.",6595,"Samaritan Daytop Village, Inc. OP",Queens,412,144‐10 Jamaica Ave,Jamaica,11435,Outpatient,Outpatient Clinic,Operational,165
+2010,16890,"Samaritan Daytop Village, Inc.",6974,"Samaritan Daytop Village, Inc. IR 3",New York,104,327 W 43rd St,New York,10036,Residential,Intensive Residential,Operational,42
+2015,16890,"Samaritan Daytop Village, Inc.",6974,"Samaritan Daytop Village, Inc. IR 3",New York,104,327 W 43rd St,New York,10036,Residential,Intensive Residential,Operational,42
+2019,16890,"Samaritan Daytop Village, Inc.",6974,"Samaritan Daytop Village, Inc. IR 3",New York,104,327 W 43rd St,New York,10036,Residential,Intensive Residential,Operational,44
+2010,16890,"Samaritan Daytop Village, Inc.",7388,Samaritan DaytopVill.‐Intake/Assess IR,Queens,412,88‐83 Van Wyck Expy,Jamaica,11435,Residential,Intensive Residential,Operational,25
+2015,16890,"Samaritan Daytop Village, Inc.",7388,Samaritan DaytopVill.‐Intake/Assess IR,Queens,412,88‐83 Van Wyck Expy,Jamaica,11435,Residential,Intensive Residential,Operational,23
+2019,16890,"Samaritan Daytop Village, Inc.",7388,Samaritan DaytopVill.‐Intake/Assess IR,Queens,412,88‐83 Van Wyck Expy,Jamaica,11435,Residential,Intensive Residential,Operational,12
+2010,16890,"Samaritan Daytop Village, Inc.",52067,Richmond Hill Veterans Program IR,Queens,409,130‐15 89th Rd,Richmond Hill,11418,Residential,Intensive Residential,Operational,41
+2015,16890,"Samaritan Daytop Village, Inc.",52067,Richmond Hill Veterans Program IR,Queens,409,130‐15 89th Rd,Richmond Hill,11418,Residential,Intensive Residential,Operational,42
+2019,16890,"Samaritan Daytop Village, Inc.",52067,Richmond Hill Veterans Program IR,Queens,409,130‐15 89th Rd,Richmond Hill,11418,Residential,Intensive Residential,Operational,45
+2019,16890,"Samaritan Daytop Village, Inc.",52532,"Samaritan Daytop Village, Inc. OTP",Queens,409,130‐20 89th Rd,Richmond Hill,11418,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,22
+2015,16890,"Samaritan Daytop Village, Inc.",52722,"Samaritan Daytop Village, Inc. CR",New York,107,68 W 106th St,New York,10025,Residential,Community Residential,Operational,28
+2019,16890,"Samaritan Daytop Village, Inc.",52722,"Samaritan Daytop Village, Inc. CR",New York,107,68 W 106th St,New York,10025,Residential,Community Residential,Operational,33
+2015,16890,"Samaritan Daytop Village, Inc.",52723,"Samaritan Daytop Village, Inc. IR 4",New York,107,119 W 106th St,New York,10025,Residential,Intensive Residential,Operational,27
+2019,16890,"Samaritan Daytop Village, Inc.",52723,"Samaritan Daytop Village, Inc. IR 4",New York,107,119 W 106th St,New York,10025,Residential,Intensive Residential,Operational,29
+2015,16890,"Samaritan Daytop Village, Inc.",52724,Samaritan Daytop Village/Harlem OP 1,New York,110,"2090 Adam Clayton Powell, Jr Blvd",New York,10027,Outpatient,Outpatient Clinic,Operational,129
+2019,16890,"Samaritan Daytop Village, Inc.",52724,Samaritan Daytop Village/Harlem OP 1,New York,110,"2090 Adam Clayton Powell, Jr Blvd",New York,10027,Outpatient,Outpatient Clinic,Operational,213
+2015,16890,"Samaritan Daytop Village, Inc.",52769,Bronx Outreach Center OP,Bronx,211,900 Arnow Ave,Bronx,10469,Outpatient,Outpatient Clinic,Operational,81
+2019,16890,"Samaritan Daytop Village, Inc.",52769,Bronx Outreach Center OP,Bronx,211,900 Arnow Ave,Bronx,10469,Outpatient,Outpatient Clinic,Operational,125
+2015,16890,"Samaritan Daytop Village, Inc.",52771,Staten Island Outreach Center OP,Richmond,501,1915 Forest Ave,Staten Island,10303,Outpatient,Outpatient Clinic,Operational,67
+2019,16890,"Samaritan Daytop Village, Inc.",52771,Staten Island Outreach Center OP,Richmond,501,1915 Forest Ave,Staten Island,10303,Outpatient,Outpatient Clinic,Operational,68
+2015,16890,"Samaritan Daytop Village, Inc.",52772,"Samaritan Daytop Village, Inc. OP 2",New York,105,500 8th Ave,New York,10018,Outpatient,Outpatient Clinic,Closed,122
+2015,16890,"Samaritan Daytop Village, Inc.",52882,"Samaritan Daytop Village, Inc. OTP 1",Bronx,201,477‐481 Willis Ave,Bronx,10455,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,844
+2019,16890,"Samaritan Daytop Village, Inc.",52882,"Samaritan Daytop Village, Inc. OTP 1",Bronx,201,477‐481 Willis Ave,Bronx,10455,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,841
+2015,16890,"Samaritan Daytop Village, Inc.",52883,"Samaritan Daytop Village, Inc. OTP 2",Bronx,201,250 Grand Concourse,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,770
+2019,16890,"Samaritan Daytop Village, Inc.",52883,"Samaritan Daytop Village, Inc. OTP 2",Bronx,201,250 Grand Concourse,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,694
+2015,16890,"Samaritan Daytop Village, Inc.",52894,Freedom House SL 12,Bronx,201,2640 3rd Ave,Bronx,10454,Residential,Supportive Living,Closed,10
+2015,16890,"Samaritan Daytop Village, Inc.",52895,Freedom House SL 16,New York,111,58 E 130th St,New York,10037,Residential,Supportive Living,Closed,13
+2015,16890,"Samaritan Daytop Village, Inc.",52897,Independence OP,Bronx,201,2776‐2778 3rd Ave,Bronx,10455,Outpatient,Outpatient Clinic,Operational,107
+2019,16890,"Samaritan Daytop Village, Inc.",52897,Independence OP,Bronx,201,2776‐2778 3rd Ave,Bronx,10455,Outpatient,Outpatient Clinic,Operational,172
+2015,16890,"Samaritan Daytop Village, Inc.",52905,Children and Families Together OP,Bronx,201,528‐30 Morris Ave,Bronx,10455,Outpatient,Outpatient Clinic,Closed,73
+2015,16890,"Samaritan Daytop Village, Inc.",52907,Freedom House SL 23,Bronx,201,413 E 152nd St,Bronx,10455,Residential,Supportive Living,Closed,0
+2015,16890,"Samaritan Daytop Village, Inc.",52908,Freedom House SL 1,Bronx,201,315 Alexander Ave,Bronx,10454,Residential,Supportive Living,Closed,5
+2015,16890,"Samaritan Daytop Village, Inc.",52909,Freedom House SL 2,Bronx,205,1851 Phelan Pl,Bronx,10453,Residential,Supportive Living,Closed,24
+2015,16890,"Samaritan Daytop Village, Inc.",52916,"Samaritan Daytop Village, Inc  OP",Kings,305,338 Forbell St,Brooklyn,11208,Outpatient,Outpatient Clinic,Operational,51
+2019,16890,"Samaritan Daytop Village, Inc.",52916,"Samaritan Daytop Village, Inc  OP",Kings,305,338 Forbell St,Brooklyn,11208,Outpatient,Outpatient Clinic,Operational,59
+2019,16890,"Samaritan Daytop Village, Inc.",53119,"Samaritan Daytop Village, Inc. SRh 1",Queens,412,88‐83 Van Wyck Expy,Jamaica,11435,Residential,820 Stabil and Rehab,Operational,70
+2010,18000,"Child Center of NY, Inc.",6308,Jamaica Family Center‐CD OP,Queens,412,115‐15 Sutphin Blvd,Jamaica,11434,Outpatient,Outpatient Clinic,Operational,93
+2015,18000,"Child Center of NY, Inc.",6308,Jamaica Family Center‐CD OP,Queens,412,115‐15 Sutphin Blvd,Jamaica,11434,Outpatient,Outpatient Clinic,Operational,86
+2019,18000,"Child Center of NY, Inc.",6308,Jamaica Family Center‐CD OP,Queens,412,115‐15 Sutphin Blvd,Jamaica,11434,Outpatient,Outpatient Clinic,Operational,183
+2010,18000,"Child Center of NY, Inc.",51686,"Child Center of NY, Inc. OP",Queens,407,140‐15B Sanford Ave,Flushing,11355,Outpatient,Outpatient Clinic,Operational,70
+2015,18000,"Child Center of NY, Inc.",51686,"Child Center of NY, Inc. OP",Queens,407,140‐15B Sanford Ave,Flushing,11355,Outpatient,Outpatient Clinic,Operational,47
+2019,18000,"Child Center of NY, Inc.",51686,"Child Center of NY, Inc. OP",Queens,407,140‐15B Sanford Ave,Flushing,11355,Outpatient,Outpatient Clinic,Operational,93
+2010,18040,Riverdale Mental Health Association,2016,Riverdale Mental Health Association OP,Bronx,208,5676 Riverdale Ave,Bronx,10471,Outpatient,Outpatient Clinic,Operational,43
+2015,18040,Riverdale Mental Health Association,2016,Riverdale Mental Health Association OP,Bronx,208,5676 Riverdale Ave,Bronx,10471,Outpatient,Outpatient Clinic,Operational,31
+2019,18040,Riverdale Mental Health Association,2016,Riverdale Mental Health Association OP,Bronx,208,5676 Riverdale Ave,Bronx,10471,Outpatient,Outpatient Clinic,Operational,30
+2010,18130,"The Bridge, Inc.",7371,"The Bridge, Inc. OP",New York,107,248‐250 W 108th St,New York,10025,Outpatient,Outpatient Clinic,Operational,92
+2015,18130,"The Bridge, Inc.",7371,"The Bridge, Inc. OP",New York,107,248‐250 W 108th St,New York,10025,Outpatient,Outpatient Clinic,Operational,36
+2019,18130,"The Bridge, Inc.",7371,"The Bridge, Inc. OP",New York,107,248‐250 W 108th St,New York,10025,Outpatient,Outpatient Clinic,Operational,20
+2015,18130,"The Bridge, Inc.",52639,"The Bridge, Inc. OP R",New York,107,248‐250 W 108th St,New York,10025,Outpatient,Outpatient Rehabilitation,Closed,45
+2019,18130,"The Bridge, Inc.",52639,"The Bridge, Inc. OP R",New York,107,248‐250 W 108th St,New York,10025,Outpatient,Outpatient Rehabilitation,Closed,41
+2010,18230,ICD International Center for Disabled,50329,ICD Addiction Recovery Services,New York,106,340 East 24th Street,New York,10010,Outpatient,Outpatient Clinic,Closed,72
+2019,18270,Postgraduate Center for Mental Health,53437,Bronx Recovery Support Center OP,Bronx,205,1775 Grand Concourse,Bronx,10453,Outpatient,Outpatient Clinic,Operational,6
+2019,19360,GMHC,52842,GMHC OP,New York,104,307 W 38th St,New York,10018,Outpatient,Outpatient Clinic,Closed,24
+2010,19400,"Odyssey House, Inc.",957,"Odyssey House, Inc. IR",New York,103,309‐311 E 6th St,New York,10003,Residential,Intensive Residential,Operational,61
+2015,19400,"Odyssey House, Inc.",957,"Odyssey House, Inc. IR",New York,103,309‐311 E 6th St,New York,10003,Residential,Intensive Residential,Operational,58
+2019,19400,"Odyssey House, Inc.",957,"Odyssey House, Inc. IR",New York,103,309‐311 E 6th St,New York,10003,Residential,Intensive Residential,Operational,47
+2010,19400,"Odyssey House, Inc.",1368,Odyssey Manor IR 1,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Closed,42
+2015,19400,"Odyssey House, Inc.",1368,Odyssey Manor IR 1,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Closed,35
+2019,19400,"Odyssey House, Inc.",1368,Odyssey Manor IR 1,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Closed,50
+2010,19400,"Odyssey House, Inc.",6817,Odyssey Manor IR 2,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Operational,140
+2015,19400,"Odyssey House, Inc.",6817,Odyssey Manor IR 2,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Operational,151
+2019,19400,"Odyssey House, Inc.",6817,Odyssey Manor IR 2,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Operational,170
+2010,19400,"Odyssey House, Inc.",7159,Odyssey‐Family Reentry‐CD Int Res Reh,Bronx,203,1322‐1328 Clinton Avenue,Bronx,10456,Residential,Intensive Residential,Closed,20
+2010,19400,"Odyssey House, Inc.",7219,Odyssey‐ Family/Adults IR 3,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Closed,49
+2015,19400,"Odyssey House, Inc.",7219,Odyssey‐ Family/Adults IR 3,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Closed,35
+2010,19400,"Odyssey House, Inc.",7221,Odyssey House(Family) IR 4,New York,111,Wards Island,New York,10035,Residential,Intensive Residential,Closed,23
+2015,19400,"Odyssey House, Inc.",7221,Odyssey House(Family) IR 4,New York,111,Wards Island,New York,10035,Residential,Intensive Residential,Closed,30
+2010,19400,"Odyssey House, Inc.",7222,"Odyssey House, Inc.(Adult) IR 5",New York,111,Wards Island,New York,10035,Residential,Intensive Residential,Closed,83
+2015,19400,"Odyssey House, Inc.",7222,"Odyssey House, Inc.(Adult) IR 5",New York,111,Wards Island,New York,10035,Residential,Intensive Residential,Closed,80
+2010,19400,"Odyssey House, Inc.",7392,"Odyssey House, Inc. OP",Bronx,202,953 Southern Blvd,Bronx,10459,Outpatient,Outpatient Clinic,Operational,122
+2015,19400,"Odyssey House, Inc.",7392,"Odyssey House, Inc. OP",Bronx,202,953 Southern Blvd,Bronx,10459,Outpatient,Outpatient Clinic,Operational,113
+2019,19400,"Odyssey House, Inc.",7392,"Odyssey House, Inc. OP",Bronx,202,953 Southern Blvd,Bronx,10459,Outpatient,Outpatient Clinic,Operational,111
+2010,19400,"Odyssey House, Inc.",52031,Odyssey House Eldercare Program IR 7,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Closed,76
+2015,19400,"Odyssey House, Inc.",52031,Odyssey House Eldercare Program IR 7,New York,111,219‐233  E 121st St,New York,10035,Residential,Intensive Residential,Closed,79
+2010,19400,"Odyssey House, Inc.",52056,Odyssey House IR 6,Bronx,202,1264 Lafayette Ave,Bronx,10474,Residential,Intensive Residential,Operational,14
+2015,19400,"Odyssey House, Inc.",52056,Odyssey House IR 6,Bronx,202,1264 Lafayette Ave,Bronx,10474,Residential,Intensive Residential,Operational,13
+2019,19400,"Odyssey House, Inc.",52056,Odyssey House IR 6,Bronx,202,1264 Lafayette Ave,Bronx,10474,Residential,Intensive Residential,Operational,15
+2010,19400,"Odyssey House, Inc.",52184,"Odyssey House, Inc. Edgecomb SpOP‐Re",New York,112,611 Edgecombe Avenue,New York,10032,Outpatient,Specialized Services Outpt Rehab,Operational,93
+2015,19400,"Odyssey House, Inc.",52184,"Odyssey House, Inc. Edgecomb SpOP‐Re",New York,112,611 Edgecombe Avenue,New York,10032,Outpatient,Specialized Services Outpt Rehab,Operational,68
+2015,19400,"Odyssey House, Inc.",52659,"Odyssey House, Inc. CR",Bronx,203,1328 Clinton Ave,Bronx,10456,Residential,Community Residential,Operational,56
+2019,19400,"Odyssey House, Inc.",52659,"Odyssey House, Inc. CR",Bronx,203,1328 Clinton Ave,Bronx,10456,Residential,Community Residential,Operational,53
+2015,19400,"Odyssey House, Inc.",52848,George Rosenfeld Ctr for Recovery IR,New York,111,13 Hell Gate Circle,Ward's Island,10035,Residential,Intensive Residential,Closeout,85
+2019,19400,"Odyssey House, Inc.",52848,George Rosenfeld Ctr for Recovery IR,New York,111,13 Hell Gate Circle,Ward's Island,10035,Residential,Intensive Residential,Closeout,96
+2019,19400,"Odyssey House, Inc.",53066,George Rosenfeld Ctr for Recovery IR 1,New York,111,13 Hell Gate Circle,New York,10035,Residential,Intensive Residential,Closeout,72
+2010,19430,Community Counseling/Mediation Service,7277,C.C.M.S. OP,Kings,308,810 Classon Ave,Brooklyn,11238,Outpatient,Outpatient Clinic,Operational,50
+2015,19430,Community Counseling/Mediation Service,7277,C.C.M.S. OP,Kings,308,810 Classon Ave,Brooklyn,11238,Outpatient,Outpatient Clinic,Operational,52
+2019,19430,Community Counseling/Mediation Service,7277,C.C.M.S. OP,Kings,308,810 Classon Ave,Brooklyn,11238,Outpatient,Outpatient Clinic,Operational,24
+2010,19660,Reality House Inc.,52219,"Reality House, Inc. OP",Queens,401,8‐13 Astoria Blvd,Astoria,11102,Outpatient,Outpatient Clinic,Operational,36
+2015,19660,Reality House Inc.,52219,"Reality House, Inc. OP",Queens,401,8‐13 Astoria Blvd,Astoria,11102,Outpatient,Outpatient Clinic,Operational,49
+2019,19660,Reality House Inc.,52219,"Reality House, Inc. OP",Queens,401,8‐13 Astoria Blvd,Astoria,11102,Outpatient,Outpatient Clinic,Operational,60
+2015,19660,Reality House Inc.,52642,Reality House Veterans CR,Queens,401,8‐13 Astoria Blvd,Astoria,11102,Residential,Community Residential,Operational,24
+2019,19660,Reality House Inc.,52642,Reality House Veterans CR,Queens,401,8‐13 Astoria Blvd,Astoria,11102,Residential,Community Residential,Operational,30
+2010,19900,"Project Hospitality, Inc.",51157,"Project Hospitality, Inc. OP",Richmond,501,14 Slosson Ter,Staten Island,10301,Outpatient,Outpatient Clinic,Operational,83
+2015,19900,"Project Hospitality, Inc.",51157,"Project Hospitality, Inc. OP",Richmond,501,14 Slosson Ter,Staten Island,10301,Outpatient,Outpatient Clinic,Operational,64
+2019,19900,"Project Hospitality, Inc.",51157,"Project Hospitality, Inc. OP",Richmond,501,14 Slosson Ter,Staten Island,10301,Outpatient,Outpatient Clinic,Operational,52
+2015,19900,"Project Hospitality, Inc.",52684,PREP MMW,Richmond,501,75 Vanderbilt Ave,Staten Island,10304,Crisis,Medically Monitored Withdrawal,Closed,11
+2019,19900,"Project Hospitality, Inc.",53232,PREP SRh,Richmond,501,75 Vanderbilt Ave,Staten Island,10304,Residential,820 Stabil and Rehab,Operational,19
+2010,19920,Neighborhood Coalition for Shelter Inc,52103,Chance for Change OP,New York,108,921‐923 Madison Ave,New York,10021,Outpatient,Outpatient Clinic,Operational,28
+2015,19920,Neighborhood Coalition for Shelter Inc,52103,Chance for Change OP,New York,108,921‐923 Madison Ave,New York,10021,Outpatient,Outpatient Clinic,Operational,8
+2019,19920,Neighborhood Coalition for Shelter Inc,52103,Chance for Change OP,New York,108,921‐923 Madison Ave,New York,10021,Outpatient,Outpatient Clinic,Operational,24
+2010,20490,Paul J. Cooper Ctr for Human Services,50328,Paul J. Cooper Center OP,Kings,303,510 Gates Ave,Brooklyn,11216,Outpatient,Outpatient Clinic,Closed,30
+2015,20490,Paul J. Cooper Ctr for Human Services,50328,Paul J. Cooper Center OP,Kings,303,510 Gates Ave,Brooklyn,11216,Outpatient,Outpatient Clinic,Closed,35
+2010,20490,Paul J. Cooper Ctr for Human Services,51885,Paul J. Cooper Center OP R,Kings,303,510 Gates Ave,Brooklyn,11216,Outpatient,Outpatient Rehabilitation,Closed,79
+2015,20490,Paul J. Cooper Ctr for Human Services,51885,Paul J. Cooper Center OP R,Kings,303,510 Gates Ave,Brooklyn,11216,Outpatient,Outpatient Rehabilitation,Closed,51
+2010,20860,YMCA of Greater New York,7209,Staten Island YMCA Cnsling Service OP,Richmond,503,3911 Richmond Ave,Staten Island,10312,Outpatient,Outpatient Clinic,Operational,147
+2015,20860,YMCA of Greater New York,7209,Staten Island YMCA Cnsling Service OP,Richmond,503,3911 Richmond Ave,Staten Island,10312,Outpatient,Outpatient Clinic,Operational,169
+2019,20860,YMCA of Greater New York,7209,Staten Island YMCA Cnsling Service OP,Richmond,503,3911 Richmond Ave,Staten Island,10312,Outpatient,Outpatient Clinic,Operational,167
+2010,20860,YMCA of Greater New York,52144,YMCA of Greater NY,Kings,306,357 9th Street,Brooklyn,11215,Outpatient,Outpatient Clinic,Closed,8
+2015,20860,YMCA of Greater New York,52604,Staten Island YMCA Cnsling Srvce OP 1,Richmond,501,285 Vanderbilt Ave,Staten Island,10304,Outpatient,Outpatient Clinic,Operational,58
+2019,20860,YMCA of Greater New York,52604,Staten Island YMCA Cnsling Srvce OP 1,Richmond,501,285 Vanderbilt Ave,Staten Island,10304,Outpatient,Outpatient Clinic,Operational,53
+2010,22250,New York Foundling Hospital,6070,Pathway Center for Family Treatment OP,New York,110,2090 Adam Clayton Powell Jr Blvd,New York,10027,Outpatient,Outpatient Clinic,Closed,32
+2015,22250,New York Foundling Hospital,6070,Pathway Center for Family Treatment OP,New York,110,2090 Adam Clayton Powell Jr Blvd,New York,10027,Outpatient,Outpatient Clinic,Closed,12
+2010,22300,"St. Vincent's Services, Inc.",7310,"St. Vincent's Services, Inc. OP",Kings,302,66 Boerum Pl,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,81
+2015,22300,"St. Vincent's Services, Inc.",7310,"St. Vincent's Services, Inc. OP",Kings,302,66 Boerum Pl,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,38
+2019,22300,"St. Vincent's Services, Inc.",7310,"St. Vincent's Services, Inc. OP",Kings,302,66 Boerum Pl,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,20
+2010,22300,"St. Vincent's Services, Inc.",7311,"St. Vincent's Services, Inc. OP 1",Richmond,501,56 Bay St,Staten Island,10301,Outpatient,Outpatient Clinic,Closed,39
+2015,22300,"St. Vincent's Services, Inc.",7311,"St. Vincent's Services, Inc. OP 1",Richmond,501,56 Bay St,Staten Island,10301,Outpatient,Outpatient Clinic,Closed,22
+2010,22300,"St. Vincent's Services, Inc.",7312,"St. Vincent's Services, Inc. OP 2",Queens,412,89‐31 161st St,Jamaica,11432,Outpatient,Outpatient Clinic,Closed,76
+2015,22300,"St. Vincent's Services, Inc.",7312,"St. Vincent's Services, Inc. OP 2",Queens,412,89‐31 161st St,Jamaica,11432,Outpatient,Outpatient Clinic,Closed,24
+2010,22730,Urban Resources Institute,50998,Marguerite T Saunders Urban Ctr OP,Kings,305,2639 Atlantic Avenue,Brooklyn,11207,Outpatient,Outpatient Clinic,Closed,44
+2015,22730,Urban Resources Institute,50998,Marguerite T Saunders Urban Ctr OP,Kings,305,2639 Atlantic Avenue,Brooklyn,11207,Outpatient,Outpatient Clinic,Closed,60
+2010,23720,"Lower East Side Service Center, Inc.",311,Lower East Side Srvce Center Inc.MTA‐R,New York,103,7 Gouverneur Slip E,New York,10002,Opioid Treatment Program,MAOT‐A‐Residential,Operational,91
+2015,23720,"Lower East Side Service Center, Inc.",311,Lower East Side Srvce Center Inc.MTA‐R,New York,103,7 Gouverneur Slip E,New York,10002,Opioid Treatment Program,MAOT‐A‐Residential,Operational,95
+2019,23720,"Lower East Side Service Center, Inc.",311,Lower East Side Srvce Center Inc.MTA‐R,New York,103,7 Gouverneur Slip E,New York,10002,Opioid Treatment Program,MAOT‐A‐Residential,Operational,73
+2010,23720,"Lower East Side Service Center, Inc.",644,"Lower East Side Service Ctr, Inc. OTP",New York,103,46 E Broadway,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,463
+2015,23720,"Lower East Side Service Center, Inc.",644,"Lower East Side Service Ctr, Inc. OTP",New York,103,46 E Broadway,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,453
+2019,23720,"Lower East Side Service Center, Inc.",644,"Lower East Side Service Ctr, Inc. OTP",New York,103,46 E Broadway,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,401
+2010,23720,"Lower East Side Service Center, Inc.",646,Clinic III OTP,New York,103,46 E Broadway,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,336
+2015,23720,"Lower East Side Service Center, Inc.",646,Clinic III OTP,New York,103,46 E Broadway,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,295
+2019,23720,"Lower East Side Service Center, Inc.",646,Clinic III OTP,New York,103,46 E Broadway,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,267
+2010,23720,"Lower East Side Service Center, Inc.",3096,Lower East Side Service Cntr Inc. M‐IR,New York,103,7 Gouverneur Slip E,New York,10002,Opioid Treatment Program,Intensive Residential,Operational,38
+2015,23720,"Lower East Side Service Center, Inc.",3096,Lower East Side Service Cntr Inc. M‐IR,New York,103,7 Gouverneur Slip E,New York,10002,Opioid Treatment Program,Intensive Residential,Operational,37
+2019,23720,"Lower East Side Service Center, Inc.",3096,Lower East Side Service Cntr Inc. M‐IR,New York,103,7 Gouverneur Slip E,New York,10002,Opioid Treatment Program,Intensive Residential,Operational,39
+2010,23720,"Lower East Side Service Center, Inc.",7294,"Lower East Side Service Center, Inc OP",New York,103,46 E Broadway,New York,10002,Outpatient,Outpatient Clinic,Operational,126
+2015,23720,"Lower East Side Service Center, Inc.",7294,"Lower East Side Service Center, Inc OP",New York,103,46 E Broadway,New York,10002,Outpatient,Outpatient Clinic,Operational,103
+2019,23720,"Lower East Side Service Center, Inc.",7294,"Lower East Side Service Center, Inc OP",New York,103,46 E Broadway,New York,10002,Outpatient,Outpatient Clinic,Operational,97
+2010,23720,"Lower East Side Service Center, Inc.",52063,Lower East Side Service Cntr Inc M‐IR1,New York,103,7 Gouverneur Slip E,New York,10002,Opioid Treatment Program,Intensive Residential,Operational,8
+2015,23720,"Lower East Side Service Center, Inc.",52063,Lower East Side Service Cntr Inc M‐IR1,New York,103,7 Gouverneur Slip E,New York,10002,Opioid Treatment Program,Intensive Residential,Operational,7
+2019,23720,"Lower East Side Service Center, Inc.",52063,Lower East Side Service Cntr Inc M‐IR1,New York,103,7 Gouverneur Slip E,New York,10002,Opioid Treatment Program,Intensive Residential,Operational,5
+2010,24570,Canarsie A.W.A.R.E. Inc,1269,Canarsie AWARE OP,Kings,318,1285 Rockaway Avenue,Brooklyn,11236,Outpatient,Outpatient Clinic,Closed,244
+2015,24570,Canarsie A.W.A.R.E. Inc,1269,Canarsie AWARE OP,Kings,318,1285 Rockaway Avenue,Brooklyn,11236,Outpatient,Outpatient Clinic,Closed,154
+2010,26360,Interline Employee Assistance Program,51698,Interline EAP Program OP,Queens,408,148‐41A Hillside Ave,Jamaica,11435,Outpatient,Outpatient Clinic,Closed,262
+2015,26360,Interline Employee Assistance Program,51698,Interline EAP Program OP,Queens,408,148‐41A Hillside Ave,Jamaica,11435,Outpatient,Outpatient Clinic,Closed,308
+2010,27270,"Realization Center, Inc.",7073,"Realization Center Clinic, Inc. OP",New York,105,19 Union Sq W,New York,10003,Outpatient,Outpatient Clinic,Operational,334
+2015,27270,"Realization Center, Inc.",7073,"Realization Center Clinic, Inc. OP",New York,105,19 Union Sq W,New York,10003,Outpatient,Outpatient Clinic,Operational,293
+2019,27270,"Realization Center, Inc.",7073,"Realization Center Clinic, Inc. OP",New York,105,19 Union Sq W,New York,10003,Outpatient,Outpatient Clinic,Operational,325
+2010,27270,"Realization Center, Inc.",7393,"Realization Center, Inc. OP 1",Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,354
+2015,27270,"Realization Center, Inc.",7393,"Realization Center, Inc. OP 1",Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,318
+2019,27270,"Realization Center, Inc.",7393,"Realization Center, Inc. OP 1",Kings,302,175 Remsen St,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,283
+2010,27480,Brooklyn Hospital Center,8033,Brooklyn Hospital Center MMD,Kings,302,121 DeKalb Avenue,Brooklyn,11201,Crisis,Medical Managed Detoxification,Operational,8
+2015,27480,Brooklyn Hospital Center,8033,Brooklyn Hospital Center MMD,Kings,302,121 DeKalb Avenue,Brooklyn,11201,Crisis,Medical Managed Detoxification,Operational,5
+2019,27480,Brooklyn Hospital Center,8033,Brooklyn Hospital Center MMD,Kings,302,121 DeKalb Avenue,Brooklyn,11201,Crisis,Medical Managed Detoxification,Operational,4
+2010,27660,"New Spirit II, Inc.",50823,New Spirit II OP,Queens,412,107‐33 Sutphin Blvd,Jamaica,11435,Outpatient,Outpatient Clinic,Closed,91
+2015,27660,"New Spirit II, Inc.",50823,New Spirit II OP,Queens,412,107‐33 Sutphin Blvd,Jamaica,11435,Outpatient,Outpatient Clinic,Closed,52
+2010,28130,Albert Einstein College of Medicine,209,EinsteinWaters Place WellnessCntr OTP,Bronx,211,1510 Waters Pl ‐ Trlr #1,Bronx,10461,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,"1,000"
+2015,28130,Albert Einstein College of Medicine,209,EinsteinWaters Place WellnessCntr OTP,Bronx,211,1510 Waters Pl ‐ Trlr #1,Bronx,10461,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,"1,014"
+2010,28130,Albert Einstein College of Medicine,214,Einstein‐Port Morris Wellness Cntr OTP,Bronx,201,804 E 138th St,Bronx,10454,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,971
+2015,28130,Albert Einstein College of Medicine,214,Einstein‐Port Morris Wellness Cntr OTP,Bronx,201,804 E 138th St,Bronx,10454,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,"1,142"
+2010,28130,Albert Einstein College of Medicine,215,Einstein College ‐ MMTP Clinic/OPD #II,Bronx,204,260 E 161st  Street,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,2
+2010,28130,Albert Einstein College of Medicine,217,Einstein College/Medicine‐ MMTP Clinic,Bronx,211,1510 Waters Pl,Bronx,10461,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,255
+2010,28130,Albert Einstein College of Medicine,4167,Next Steps South OP,Bronx,204,260 E 161st St,Bronx,10451,Outpatient,Outpatient Clinic,Closed,111
+2015,28130,Albert Einstein College of Medicine,4167,Next Steps South OP,Bronx,204,260 E 161st St,Bronx,10451,Outpatient,Outpatient Clinic,Closed,102
+2010,28130,Albert Einstein College of Medicine,6703,Einstein ‐ Melrose Wellness Center OTP,Bronx,204,260 East 161st St (Track Level),Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,841
+2015,28130,Albert Einstein College of Medicine,6703,Einstein ‐ Melrose Wellness Center OTP,Bronx,204,260 East 161st St (Track Level),Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,844
+2010,28130,Albert Einstein College of Medicine,7242,Einstein OTP‐MM,Bronx,211,1300 Morris Park Ave,Bronx,10461,Opioid Treatment Program,Medical Maintenance,Closed,122
+2015,28130,Albert Einstein College of Medicine,7242,Einstein OTP‐MM,Bronx,211,1300 Morris Park Ave,Bronx,10461,Opioid Treatment Program,Medical Maintenance,Closed,119
+2010,28130,Albert Einstein College of Medicine,50211,Next Steps North OP,Bronx,211,1510 Waters Pl,Bronx,10461,Outpatient,Outpatient Clinic,Closed,132
+2015,28130,Albert Einstein College of Medicine,50211,Next Steps North OP,Bronx,211,1510 Waters Pl,Bronx,10461,Outpatient,Outpatient Clinic,Closed,83
+2010,28130,Albert Einstein College of Medicine,52541,Next Steps East,Bronx,201,804 E 138th St,Bronx,10454,Outpatient,Outpatient Clinic,Closed,48
+2010,28880,New York City Department of Police,52068,NYC Department of Police OP,Kings,302,25 Elm Pl,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,63
+2015,28880,New York City Department of Police,52068,NYC Department of Police OP,Kings,302,25 Elm Pl,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,41
+2019,28880,New York City Department of Police,52068,NYC Department of Police OP,Kings,302,25 Elm Pl,Brooklyn,11201,Outpatient,Outpatient Clinic,Operational,25
+2010,29070,"Success Counseling Services, Inc.",51788,Success Counseling Services OP,Bronx,204,1015‐1017 Ogden Ave,Bronx,10452,Outpatient,Outpatient Clinic,Operational,120
+2015,29070,"Success Counseling Services, Inc.",51788,Success Counseling Services OP,Bronx,204,1015‐1017 Ogden Ave,Bronx,10452,Outpatient,Outpatient Clinic,Operational,124
+2019,29070,"Success Counseling Services, Inc.",51788,Success Counseling Services OP,Bronx,204,1015‐1017 Ogden Ave,Bronx,10452,Outpatient,Outpatient Clinic,Operational,158
+2010,29520,"West Midtown Management Group, Inc.",1482,West Midtown Management Group OTP,New York,104,311 W 35th St,New York,10001,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,397
+2015,29520,"West Midtown Management Group, Inc.",1482,West Midtown Management Group OTP,New York,104,311 W 35th St,New York,10001,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,410
+2019,29520,"West Midtown Management Group, Inc.",1482,West Midtown Management Group OTP,New York,104,311 W 35th St,New York,10001,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,419
+2010,29520,"West Midtown Management Group, Inc.",1483,West Midtown Management Group OTP 1,New York,104,311 W 35th St,New York,10001,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,406
+2015,29520,"West Midtown Management Group, Inc.",1483,West Midtown Management Group OTP 1,New York,104,311 W 35th St,New York,10001,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,410
+2019,29520,"West Midtown Management Group, Inc.",1483,West Midtown Management Group OTP 1,New York,104,311 W 35th St,New York,10001,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,412
+2010,29520,"West Midtown Management Group, Inc.",51843,West Midtown Management Group OP 1,New York,104,505 8th Ave,New York,10018,Outpatient,Outpatient Clinic,Operational,62
+2015,29520,"West Midtown Management Group, Inc.",51843,West Midtown Management Group OP 1,New York,104,505 8th Ave,New York,10018,Outpatient,Outpatient Clinic,Operational,63
+2019,29520,"West Midtown Management Group, Inc.",51843,West Midtown Management Group OP 1,New York,104,505 8th Ave,New York,10018,Outpatient,Outpatient Clinic,Operational,53
+2010,30520,NRI Group L.L.C.,4490,NRI Group L.L.C. OP,New York,104,301 West 37th Street,New York,10019,Outpatient,Outpatient Clinic,Closed,73
+2015,30520,NRI Group L.L.C.,4490,NRI Group L.L.C. OP,New York,104,301 West 37th Street,New York,10019,Outpatient,Outpatient Clinic,Closed,155
+2010,30520,NRI Group L.L.C.,7250,NRI Group L.L.C. ‐ CD OP,New York,104,339 West 51st Street ‐ Basement,New York,10019,Outpatient,Outpatient Clinic,Closed,145
+2010,30520,NRI Group L.L.C.,7332,NRI Group L.L.C. OP 1,Bronx,203,1385 Fulton Avenue,Bronx,10456,Outpatient,Outpatient Clinic,Closed,56
+2015,30520,NRI Group L.L.C.,7332,NRI Group L.L.C. OP 1,Bronx,203,1385 Fulton Avenue,Bronx,10456,Outpatient,Outpatient Clinic,Closed,51
+2010,31030,"Greenhope Services for Women, Inc.",1809,"Greenhope Services for Women, Inc. IR",New York,111,435‐439 E 119th St,New York,10035,Residential,Intensive Residential,Closed,37
+2015,31030,"Greenhope Services for Women, Inc.",1809,"Greenhope Services for Women, Inc. IR",New York,111,435‐439 E 119th St,New York,10035,Residential,Intensive Residential,Closed,56
+2010,31030,"Greenhope Services for Women, Inc.",6072,"Greenhope Services for Women, Inc. OP",New York,111,435‐439 E 119th St,New York,10035,Outpatient,Outpatient Clinic,Closed,29
+2015,31030,"Greenhope Services for Women, Inc.",6072,"Greenhope Services for Women, Inc. OP",New York,111,435‐439 E 119th St,New York,10035,Outpatient,Outpatient Clinic,Closed,31
+2019,31030,"Greenhope Services for Women, Inc.",53120,"Greenhope Services for Women, Inc. IR1",New York,111,435‐439 E 119th St,New York,10035,Residential,Intensive Residential,Closed,61
+2019,31030,"Greenhope Services for Women, Inc.",53121,"Greenhope Services for Women, Inc. OP1",New York,111,435‐439 E 119th St,New York,10035,Outpatient,Outpatient Clinic,Closed,23
+2019,31030,"Greenhope Services for Women, Inc.",53353,"Greenhope Services for Women, Inc. SRR",New York,111,435‐439 E 119th St,New York,10035,Residential,820 Stabil Rehab Reintegration,Operational,58
+2010,31130,Central Harlem Sobering Up Station,50133,Cnt'l Harlem Sober Up‐ Med. Mont. With,New York,109,419 West 126th Street,New York,10027,Crisis,Medically Monitored Withdrawal,Closed,37
+2010,31180,Dr. Martin Luther King Jr. Health Ctr.,50033,Dr. ML King‐Bronx Leb  CD OP Rehab,Bronx,205,321 East Tremont Avenue,Bronx,10457,Outpatient,Outpatient Rehabilitation,Closed,91
+2010,31180,Dr. Martin Luther King Jr. Health Ctr.,51801,Dr. ML King Bronx Lebanon Hosp ‐ CD OP,Bronx,205,321 East Tremont Avenue,Bronx,10457,Outpatient,Outpatient Clinic,Closed,99
+2010,31330,Amethyst House Inc.,51041,Amethyst House CR,Richmond,501,280 Richmond Ter,Staten Island,10301,Residential,Community Residential,Operational,20
+2015,31330,Amethyst House Inc.,51041,Amethyst House CR,Richmond,501,280 Richmond Ter,Staten Island,10301,Residential,Community Residential,Operational,19
+2019,31330,Amethyst House Inc.,51041,Amethyst House CR,Richmond,501,280 Richmond Ter,Staten Island,10301,Residential,Community Residential,Operational,16
+2010,31340,Queens Village Committee for MH/J‐CAP,1256,Queens Village Committee  MH/J‐CAP IR,Queens,412,116‐30 Sutphin Blvd,Jamaica,11434,Residential,Intensive Residential,Operational,152
+2015,31340,Queens Village Committee for MH/J‐CAP,1256,Queens Village Committee  MH/J‐CAP IR,Queens,412,116‐30 Sutphin Blvd,Jamaica,11434,Residential,Intensive Residential,Operational,176
+2019,31340,Queens Village Committee for MH/J‐CAP,1256,Queens Village Committee  MH/J‐CAP IR,Queens,412,116‐30 Sutphin Blvd,Jamaica,11434,Residential,Intensive Residential,Operational,113
+2010,31340,Queens Village Committee for MH/J‐CAP,3799,Queens Village/J‐CAP ‐ CD Int Res,Queens,412,177‐33 Baisley Boulevard,St Albans,11434,Residential,Intensive Residential,Closed,87
+2010,31340,Queens Village Committee for MH/J‐CAP,4297,J‐CAP ‐ CD Int Res Orientation,Queens,412,177‐33 Baisley Boulevard,St Albans,11434,Residential,Intensive Residential,Closed,44
+2010,31360,Outreach Development Corporation,3621,Outreach Develop. IR,Queens,405,16‐12/14 Weirfield Street,Ridgewood,11385,Residential,Intensive Residential,Closed,36
+2015,31360,Outreach Development Corporation,3621,Outreach Develop. IR,Queens,405,16‐12/14 Weirfield Street,Ridgewood,11385,Residential,Intensive Residential,Closed,37
+2010,31360,Outreach Development Corporation,7210,The Outreach Project OP,Queens,409,117‐11 Myrtle Ave,Richmond Hill,11418,Outpatient,Outpatient Clinic,Operational,203
+2015,31360,Outreach Development Corporation,7210,The Outreach Project OP,Queens,409,117‐11 Myrtle Ave,Richmond Hill,11418,Outpatient,Outpatient Clinic,Operational,192
+2019,31360,Outreach Development Corporation,7210,The Outreach Project OP,Queens,409,117‐11 Myrtle Ave,Richmond Hill,11418,Outpatient,Outpatient Clinic,Operational,122
+2010,31360,Outreach Development Corporation,51847,Outreach Development Corporation OP,Kings,301,960 Manhattan Ave,Brooklyn,11222,Outpatient,Outpatient Clinic,Operational,80
+2015,31360,Outreach Development Corporation,51847,Outreach Development Corporation OP,Kings,301,960 Manhattan Ave,Brooklyn,11222,Outpatient,Outpatient Clinic,Operational,96
+2019,31360,Outreach Development Corporation,51847,Outreach Development Corporation OP,Kings,301,960 Manhattan Ave,Brooklyn,11222,Outpatient,Outpatient Clinic,Operational,76
+2019,31360,Outreach Development Corporation,53003,Outreach Development Corp. RRSY 1,Queens,405,16‐14 Weirfield St,Ridgewood,11385,Residential,Residential Rehab for Youth,Operational,25
+2010,31420,"Women In Need, Inc.",7154,Women's Center for SA & Wellness OP,Bronx,201,391 E 149th St,Bronx,10455,Outpatient,Outpatient Clinic,Closed,61
+2015,31420,"Women In Need, Inc.",7154,Women's Center for SA & Wellness OP,Bronx,201,391 E 149th St,Bronx,10455,Outpatient,Outpatient Clinic,Closed,27
+2010,31420,"Women In Need, Inc.",7155,"Women In Need, Inc. ‐ CD OP Clinic",New York,105,115 W 31st St,New York,10001,Outpatient,Outpatient Clinic,Closed,44
+2010,31450,Lesbian/Gay Community Services Center,52109,Center CARE Recovery OP,New York,102,208 W 13th St,New York,10011,Outpatient,Outpatient Clinic,Operational,50
+2015,31450,Lesbian/Gay Community Services Center,52109,Center CARE Recovery OP,New York,102,208 W 13th St,New York,10011,Outpatient,Outpatient Clinic,Operational,67
+2019,31450,Lesbian/Gay Community Services Center,52109,Center CARE Recovery OP,New York,102,208 W 13th St,New York,10011,Outpatient,Outpatient Clinic,Operational,91
+2019,31450,Lesbian/Gay Community Services Center,52950,Center CARE Recovery OP 1,New York,102,208 W 13th St,New York,10011,Outpatient,Outpatient Clinic,Operational,28
+2010,31470,"Inwood Community Services, Inc",50985,"Inwood Community Services, Inc. OP",New York,112,651 Academy St,New York,10034,Outpatient,Outpatient Clinic,Operational,137
+2015,31470,"Inwood Community Services, Inc",50985,"Inwood Community Services, Inc. OP",New York,112,651 Academy St,New York,10034,Outpatient,Outpatient Clinic,Operational,154
+2019,31470,"Inwood Community Services, Inc",50985,"Inwood Community Services, Inc. OP",New York,112,651 Academy St,New York,10034,Outpatient,Outpatient Clinic,Operational,161
+2010,31480,"Faith Mission Alcohol Crisis Ctr, Inc.",51265,Faith Mission Alcohol Crisis Ctr MMW,Queens,410,114‐40 Van Wyck Expy,South Ozone Park,11420,Crisis,Medically Monitored Withdrawal,Closed,30
+2015,31480,"Faith Mission Alcohol Crisis Ctr, Inc.",51265,Faith Mission Alcohol Crisis Ctr MMW,Queens,410,114‐40 Van Wyck Expy,South Ozone Park,11420,Crisis,Medically Monitored Withdrawal,Closed,33
+2010,31640,"Bridging Access to Care, Inc.",7275,"Bridging Access to Care, Inc. OP",Kings,314,2261 Church Ave,Brooklyn,11226,Outpatient,Outpatient Clinic,Operational,31
+2015,31640,"Bridging Access to Care, Inc.",7275,"Bridging Access to Care, Inc. OP",Kings,314,2261 Church Ave,Brooklyn,11226,Outpatient,Outpatient Clinic,Operational,46
+2019,31640,"Bridging Access to Care, Inc.",7275,"Bridging Access to Care, Inc. OP",Kings,314,2261 Church Ave,Brooklyn,11226,Outpatient,Outpatient Clinic,Operational,47
+2010,32106,"Freedom Institute,  Inc.",51015,Freedom Institute Inc. OP,New York,105,515 Madison Ave,New York,10022,Outpatient,Outpatient Clinic,Operational,70
+2015,32106,"Freedom Institute,  Inc.",51015,Freedom Institute Inc. OP,New York,105,515 Madison Ave,New York,10022,Outpatient,Outpatient Clinic,Operational,30
+2019,32106,"Freedom Institute,  Inc.",51015,Freedom Institute Inc. OP,New York,105,515 Madison Ave,New York,10022,Outpatient,Outpatient Clinic,Operational,16
+2010,32130,"Brooklyn Center for Psychotherapy, Inc",50337,New Directions OP,Kings,302,500 Atlantic Ave,Brooklyn,11217,Outpatient,Outpatient Clinic,Operational,407
+2015,32130,"Brooklyn Center for Psychotherapy, Inc",50337,New Directions OP,Kings,302,500 Atlantic Ave,Brooklyn,11217,Outpatient,Outpatient Clinic,Operational,349
+2019,32130,"Brooklyn Center for Psychotherapy, Inc",50337,New Directions OP,Kings,302,500 Atlantic Ave,Brooklyn,11217,Outpatient,Outpatient Clinic,Operational,240
+2010,32412,"Arms Acres, Inc.",7248,"Arms Acres, Inc. OP",Queens,409,80‐02 Kew Gardens Rd,Kew Gardens,11415,Outpatient,Outpatient Clinic,Operational,172
+2015,32412,"Arms Acres, Inc.",7248,"Arms Acres, Inc. OP",Queens,409,80‐02 Kew Gardens Rd,Kew Gardens,11415,Outpatient,Outpatient Clinic,Operational,196
+2019,32412,"Arms Acres, Inc.",7248,"Arms Acres, Inc. OP",Queens,409,80‐02 Kew Gardens Rd,Kew Gardens,11415,Outpatient,Outpatient Clinic,Operational,212
+2010,32412,"Arms Acres, Inc.",52100,"Arms Acres, Inc. OP 2",Bronx,207,3584 Jerome Ave,Bronx,10467,Outpatient,Outpatient Clinic,Operational,160
+2015,32412,"Arms Acres, Inc.",52100,"Arms Acres, Inc. OP 2",Bronx,207,3584 Jerome Ave,Bronx,10467,Outpatient,Outpatient Clinic,Operational,126
+2019,32412,"Arms Acres, Inc.",52100,"Arms Acres, Inc. OP 2",Bronx,207,3584 Jerome Ave,Bronx,10467,Outpatient,Outpatient Clinic,Operational,144
+2019,34370,Sun River Health,53298,Alpha School 822 Program OP,Kings,305,2400 Linden Blvd,Brooklyn,11208,Outpatient,Outpatient Clinic,Operational,74
+2019,34370,Sun River Health,53300,Bay Street 822 Program OP,Richmond,501,56 Bay St,Staten Island,10301,Outpatient,Outpatient Clinic,Operational,87
+2010,35210,"820 River St., Inc.",51760,"820 River Street, Inc. OP",Kings,308,1140 Pacific St,Brooklyn,11216,Outpatient,Outpatient Clinic,Closed,86
+2015,35210,"820 River St., Inc.",51760,"820 River Street, Inc. OP",Kings,308,1140 Pacific St,Brooklyn,11216,Outpatient,Outpatient Clinic,Closed,66
+2010,35210,"820 River St., Inc.",51820,820 River St. SL 1,Queens,412,145‐53 South Road,Jamaica,11435,Residential,Supportive Living,Closed,12
+2015,35210,"820 River St., Inc.",51820,820 River St. SL 1,Queens,412,145‐53 South Road,Jamaica,11435,Residential,Supportive Living,Closed,6
+2010,35210,"820 River St., Inc.",52238,820 River Street CD OP,Kings,308,1140 Pacific St,Brooklyn,11216,Outpatient,Outpatient Clinic,Closed,15
+2010,35210,"820 River St., Inc.",52546,"820 River St., Inc. IR",Kings,308,1140 Pacific St,Brooklyn,11216,Residential,Intensive Residential,Closed,18
+2010,39050,"Palladia, Inc.",1656,Starhill IR,Bronx,205,1600 Macombs Rd,Bronx,10452,Residential,Intensive Residential,Closed,330
+2015,39050,"Palladia, Inc.",1656,Starhill IR,Bronx,205,1600 Macombs Rd,Bronx,10452,Residential,Intensive Residential,Closed,192
+2010,39050,"Palladia, Inc.",4296,"Palladia, Inc Community Residence",New York,111,1806‐08 Third Avenue,New York,10029,Residential,Community Residential,Closed,72
+2010,39050,"Palladia, Inc.",5475,CTI Harlem  OP,New York,111,177 E 122nd St,New York,10035,Outpatient,Outpatient Clinic,Closed,207
+2015,39050,"Palladia, Inc.",5475,CTI Harlem  OP,New York,111,177 E 122nd St,New York,10035,Outpatient,Outpatient Clinic,Closed,208
+2010,39050,"Palladia, Inc.",6494,Dreitzer Women/Childrens Ctr‐Int Res,New York,111,315‐317 East 115th Street,New York,10029,Residential,Intensive Residential,Closed,22
+2010,39050,"Palladia, Inc.",7102,Continuing Care Treatment CD OP,New York,109,360 West 125th Street,New York,10027,Outpatient,Outpatient Clinic,Closed,103
+2010,39050,"Palladia, Inc.",7133,CTI Bronx OP,Bronx,204,1366 Inwood Ave,Bronx,10452,Outpatient,Outpatient Clinic,Closed,149
+2015,39050,"Palladia, Inc.",7133,CTI Bronx OP,Bronx,204,1366 Inwood Ave,Bronx,10452,Outpatient,Outpatient Clinic,Closed,73
+2010,39050,"Palladia, Inc.",7146,Esperanza Transitional Shelter CR,New York,111,170 E 107th St,New York,10029,Residential,Community Residential,Closed,76
+2015,39050,"Palladia, Inc.",7146,Esperanza Transitional Shelter CR,New York,111,170 E 107th St,New York,10029,Residential,Community Residential,Closed,74
+2015,39050,"Palladia, Inc.",52664,Ujima House CR,New York,111,1806‐08 3rd Ave,New York,10029,Residential,Community Residential,Closed,59
+2015,39050,"Palladia, Inc.",52854,CTI Bronx OP,Bronx,204,1366 Inwood Ave,Bronx,10452,Outpatient,Outpatient Clinic,Closed,63
+2015,39050,"Palladia, Inc.",52855,Starhill IR,Bronx,205,1600 Macombs Rd,Bronx,10452,Residential,Intensive Residential,Closed,181
+2019,39050,"Palladia, Inc.",52855,Starhill IR,Bronx,205,1600 Macombs Rd,Bronx,10452,Residential,Intensive Residential,Closed,185
+2015,39050,"Palladia, Inc.",52856,Ujima House CR,New York,111,1806‐08 3rd Ave,New York,10029,Residential,Community Residential,Operational,59
+2019,39050,"Palladia, Inc.",52856,Ujima House CR,New York,111,1806‐08 3rd Ave,New York,10029,Residential,Community Residential,Operational,69
+2015,39050,"Palladia, Inc.",52857,CTI Harlem OP,New York,111,177‐185 E 122nd St,New York,10035,Outpatient,Outpatient Clinic,Operational,187
+2019,39050,"Palladia, Inc.",52857,CTI Harlem OP,New York,111,177‐185 E 122nd St,New York,10035,Outpatient,Outpatient Clinic,Operational,141
+2015,39050,"Palladia, Inc.",52858,Esperanza Transitional Shelter CR,New York,111,170 E 107th St,New York,10029,Residential,Community Residential,Closed,71
+2010,40490,Catholic Charities Neighborhood Svcs.,51149,Catholic Charities Neighborhood Svc OP,Kings,317,1623 Flatbush Ave,Brooklyn,11210,Outpatient,Outpatient Clinic,Operational,41
+2015,40490,Catholic Charities Neighborhood Svcs.,51149,Catholic Charities Neighborhood Svc OP,Kings,317,1623 Flatbush Ave,Brooklyn,11210,Outpatient,Outpatient Clinic,Operational,26
+2019,40490,Catholic Charities Neighborhood Svcs.,51149,Catholic Charities Neighborhood Svc OP,Kings,317,1623 Flatbush Ave,Brooklyn,11210,Outpatient,Outpatient Clinic,Operational,40
+2010,40490,Catholic Charities Neighborhood Svcs.,52078,Flatbush Addictions TreatmentCntr OP R,Kings,314,1463 Flatbush Ave,Brooklyn,11210,Outpatient,Outpatient Rehabilitation,Closed,35
+2015,40490,Catholic Charities Neighborhood Svcs.,52078,Flatbush Addictions TreatmentCntr OP R,Kings,314,1463 Flatbush Ave,Brooklyn,11210,Outpatient,Outpatient Rehabilitation,Closed,33
+2010,41860,"Silver Lake Support Services, Inc.",51829,Silver Lake Support Services OP,Richmond,501,201 Forest Ave,Staten Island,10301,Outpatient,Outpatient Clinic,Operational,68
+2015,41860,"Silver Lake Support Services, Inc.",51829,Silver Lake Support Services OP,Richmond,501,201 Forest Ave,Staten Island,10301,Outpatient,Outpatient Clinic,Operational,112
+2019,41860,"Silver Lake Support Services, Inc.",51829,Silver Lake Support Services OP,Richmond,501,201 Forest Ave,Staten Island,10301,Outpatient,Outpatient Clinic,Operational,197
+2010,42000,"Community Health Action of SI, Inc.",7318,Community Health Action of SI OP,Richmond,501,56 Bay St,Staten Island,10301,Outpatient,Outpatient Clinic,Closed,60
+2015,42000,"Community Health Action of SI, Inc.",7318,Community Health Action of SI OP,Richmond,501,56 Bay St,Staten Island,10301,Outpatient,Outpatient Clinic,Closed,106
+2010,42170,"New York Service Network, Inc.",51845,"New York Service Network, Inc. OP",Kings,314,198 Foster Ave,Brooklyn,11230,Outpatient,Outpatient Clinic,Closed,168
+2015,42170,"New York Service Network, Inc.",51845,"New York Service Network, Inc. OP",Kings,314,198 Foster Ave,Brooklyn,11230,Outpatient,Outpatient Clinic,Closed,72
+2010,42570,Alpha School Center,7301,Alpha School Center OP,Kings,305,2400 Linden Boulevard,Brooklyn,11208,Outpatient,Outpatient Clinic,Closed,95
+2010,42660,"Advanced Human Services, Inc.",51859,Advanced Human Services OP,Queens,406,112‐15 72nd Rd,Forest Hills,11375,Outpatient,Outpatient Clinic,Operational,112
+2015,42660,"Advanced Human Services, Inc.",51859,Advanced Human Services OP,Queens,406,112‐15 72nd Rd,Forest Hills,11375,Outpatient,Outpatient Clinic,Operational,131
+2019,42660,"Advanced Human Services, Inc.",51859,Advanced Human Services OP,Queens,406,112‐15 72nd Rd,Forest Hills,11375,Outpatient,Outpatient Clinic,Operational,114
+2015,42660,"Advanced Human Services, Inc.",52612,"Advanced Human Services, Inc. MSW‐OP",Queens,406,112‐15 72nd Rd,Forest Hills,11375,Crisis,Med Sup Withdrawal‐Outpatient,Operational,30
+2019,42660,"Advanced Human Services, Inc.",52612,"Advanced Human Services, Inc. MSW‐OP",Queens,406,112‐15 72nd Rd,Forest Hills,11375,Crisis,Med Sup Withdrawal‐Outpatient,Operational,26
+2010,42830,"Phoenix House Foundation, Inc.",7198,IMPACT Adolescent Program OP,New York,107,164 West 74th St,New York,10023,Outpatient,Outpatient Clinic,Closed,61
+2015,42830,"Phoenix House Foundation, Inc.",7198,IMPACT Adolescent Program OP,New York,107,164 West 74th St,New York,10023,Outpatient,Outpatient Clinic,Closed,27
+2010,42830,"Phoenix House Foundation, Inc.",52161,Phoenix House Jack Aron Ctr OP,New York,107,164 West 74th Street,New York,10023,Outpatient,Outpatient Clinic,Closed,166
+2015,42830,"Phoenix House Foundation, Inc.",52161,Phoenix House Jack Aron Ctr OP,New York,107,164 West 74th Street,New York,10023,Outpatient,Outpatient Clinic,Closed,182
+2010,42870,Access Community Health Center,51470,Access Community Health Center OP,New York,101,83 Maiden Ln,New York,10038,Outpatient,Outpatient Clinic,Closed,44
+2015,42870,Access Community Health Center,51470,Access Community Health Center OP,New York,101,83 Maiden Ln,New York,10038,Outpatient,Outpatient Clinic,Closed,49
+2010,42930,N. Crown Heights Family Outreach Ctr,51973,N. Crown Heights Family Outreach OP,Kings,308,763‐765 Nostrand Ave,Brooklyn,11216,Outpatient,Outpatient Clinic,Operational,64
+2015,42930,N. Crown Heights Family Outreach Ctr,51973,N. Crown Heights Family Outreach OP,Kings,308,763‐765 Nostrand Ave,Brooklyn,11216,Outpatient,Outpatient Clinic,Operational,78
+2019,42930,N. Crown Heights Family Outreach Ctr,51973,N. Crown Heights Family Outreach OP,Kings,308,763‐765 Nostrand Ave,Brooklyn,11216,Outpatient,Outpatient Clinic,Operational,32
+2010,43050,"Concourse Medical Center, Inc.",829,"Concourse Medical Center, Inc. OTP",Bronx,204,880 Morris Ave,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,488
+2015,43050,"Concourse Medical Center, Inc.",829,"Concourse Medical Center, Inc. OTP",Bronx,204,880 Morris Ave,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,432
+2019,43050,"Concourse Medical Center, Inc.",829,"Concourse Medical Center, Inc. OTP",Bronx,204,880 Morris Ave,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,400
+2010,43710,"AAA Health, Inc.",51953,"AAA Health, Inc. OP",Kings,314,1090 Coney Island Ave,Brooklyn,11230,Outpatient,Outpatient Clinic,Operational,74
+2015,43710,"AAA Health, Inc.",51953,"AAA Health, Inc. OP",Kings,314,1090 Coney Island Ave,Brooklyn,11230,Outpatient,Outpatient Clinic,Operational,74
+2019,43710,"AAA Health, Inc.",51953,"AAA Health, Inc. OP",Kings,314,1090 Coney Island Ave,Brooklyn,11230,Outpatient,Outpatient Clinic,Operational,88
+2010,43750,Joan And Sanford I. Weill Med College,6098,Midtown Ctr for Trtment & Research OP,New York,105,56 W 45th St,New York,10036,Outpatient,Outpatient Clinic,Operational,64
+2015,43750,Joan And Sanford I. Weill Med College,6098,Midtown Ctr for Trtment & Research OP,New York,105,56 W 45th St,New York,10036,Outpatient,Outpatient Clinic,Operational,51
+2019,43750,Joan And Sanford I. Weill Med College,6098,Midtown Ctr for Trtment & Research OP,New York,105,56 W 45th St,New York,10036,Outpatient,Outpatient Clinic,Operational,48
+2019,43750,Joan And Sanford I. Weill Med College,52946,Midtown Ctr for Trtment & Research OP1,New York,105,56 W 45th St,New York,10036,Outpatient,Outpatient Clinic,Closed,4
+2010,44120,"VERTEX, LLC",51992,VERTEX OP,Bronx,212,1080 E Gun Hill Rd,Bronx,10469,Outpatient,Outpatient Clinic,Operational,186
+2015,44120,"VERTEX, LLC",51992,VERTEX OP,Bronx,212,1080 E Gun Hill Rd,Bronx,10469,Outpatient,Outpatient Clinic,Operational,159
+2019,44120,"VERTEX, LLC",51992,VERTEX OP,Bronx,212,1080 E Gun Hill Rd,Bronx,10469,Outpatient,Outpatient Clinic,Operational,155
+2010,44510,The PAC Program of Queens,51997,The PAC Program OP,Queens,404,40‐11 Warren St,Elmhurst,11373,Outpatient,Outpatient Clinic,Operational,62
+2015,44510,The PAC Program of Queens,51997,The PAC Program OP,Queens,404,40‐11 Warren St,Elmhurst,11373,Outpatient,Outpatient Clinic,Operational,42
+2019,44510,The PAC Program of Queens,51997,The PAC Program OP,Queens,404,40‐11 Warren St,Elmhurst,11373,Outpatient,Outpatient Clinic,Operational,34
+2010,44570,Metropolitan Corporation Life Skills,51998,Metro Corp For Life Skills CD OP,New York,101,90 Maiden Lane,New York,10038,Outpatient,Outpatient Clinic,Closed,124
+2010,44640,Counseling Services of New York LLC,52002,Counseling Services of New York LLC OP,Bronx,204,911 Walton Ave,Bronx,10452,Outpatient,Outpatient Clinic,Operational,100
+2015,44640,Counseling Services of New York LLC,52002,Counseling Services of New York LLC OP,Bronx,204,911 Walton Ave,Bronx,10452,Outpatient,Outpatient Clinic,Operational,90
+2019,44640,Counseling Services of New York LLC,52002,Counseling Services of New York LLC OP,Bronx,204,911 Walton Ave,Bronx,10452,Outpatient,Outpatient Clinic,Operational,84
+2010,44840,The PAC Program of Brooklyn,52021,The PAC Program of Brooklyn OP,Kings,301,7 Debevoise St,Brooklyn,11206,Outpatient,Outpatient Clinic,Operational,94
+2015,44840,The PAC Program of Brooklyn,52021,The PAC Program of Brooklyn OP,Kings,301,7 Debevoise St,Brooklyn,11206,Outpatient,Outpatient Clinic,Operational,30
+2019,44840,The PAC Program of Brooklyn,52021,The PAC Program of Brooklyn OP,Kings,301,7 Debevoise St,Brooklyn,11206,Outpatient,Outpatient Clinic,Operational,30
+2010,44980,"Taylormayd, Inc.",52046,"Taylormayd, Inc. OP",Bronx,210,2500 Saint Raymonds Ave,Bronx,10461,Outpatient,Outpatient Clinic,Closed,25
+2015,44980,"Taylormayd, Inc.",52046,"Taylormayd, Inc. OP",Bronx,210,2500 Saint Raymonds Ave,Bronx,10461,Outpatient,Outpatient Clinic,Closed,42
+2010,45160,"New York Center for Living, Inc.",52192,New York Center for Living OCDY,New York,106,224‐226 E 52nd St,New York,10022,Chemical Dependency Youth,Outpat Chem Depend for Youth,Closed,18
+2015,45160,"New York Center for Living, Inc.",52192,New York Center for Living OCDY,New York,106,224‐226 E 52nd St,New York,10022,Chemical Dependency Youth,Outpat Chem Depend for Youth,Closed,4
+2010,45160,"New York Center for Living, Inc.",52540,Center for Living Spec OP‐Mobile,New York,106,224‐226 E 52nd St,New York,10022,Outpatient,Specialized Outpatient ‐ Mobile,Closed,2
+2015,45160,"New York Center for Living, Inc.",52540,Center for Living Spec OP‐Mobile,New York,106,224‐226 E 52nd St,New York,10022,Outpatient,Specialized Outpatient ‐ Mobile,Closed,21
+2019,45160,"New York Center for Living, Inc.",53007,"New York Center for Living, Inc. OP",New York,106,224‐226 E 52nd St,New York,10022,Outpatient,Outpatient Clinic,Operational,23
+2010,45250,"Brownsville Comm Develop.Corp., Inc.",51330,Brownsville Community Development CR,Kings,316,657‐663 E 98th St,Brooklyn,11236,Residential,Community Residential,Operational,19
+2015,45250,"Brownsville Comm Develop.Corp., Inc.",51330,Brownsville Community Development CR,Kings,316,657‐663 E 98th St,Brooklyn,11236,Residential,Community Residential,Operational,17
+2019,45250,"Brownsville Comm Develop.Corp., Inc.",51330,Brownsville Community Development CR,Kings,316,657‐663 E 98th St,Brooklyn,11236,Residential,Community Residential,Operational,13
+2015,45580,"Lafayette Medical Approach, LLC",52692,"Lafayette Medical Approach, LLC OTP",New York,102,233‐235 LaFayette St,New York,10012,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,540
+2019,45580,"Lafayette Medical Approach, LLC",52692,"Lafayette Medical Approach, LLC OTP",New York,102,233‐235 LaFayette St,New York,10012,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,538
+2010,45670,"JNS Counseling Services, Inc.",52141,JNS Counseling Services OP,Kings,315,1300 Avenue P,Brooklyn,11229,Outpatient,Outpatient Clinic,Closed,124
+2015,45670,"JNS Counseling Services, Inc.",52141,JNS Counseling Services OP,Kings,315,1300 Avenue P,Brooklyn,11229,Outpatient,Outpatient Clinic,Closed,79
+2010,45700,"S.A.F.E. Foundation, Inc.",52129,SAFE Foundation OP,Kings,315,255 Avenue W,Brooklyn,11223,Outpatient,Outpatient Clinic,Operational,48
+2015,45700,"S.A.F.E. Foundation, Inc.",52129,SAFE Foundation OP,Kings,315,255 Avenue W,Brooklyn,11223,Outpatient,Outpatient Clinic,Operational,66
+2019,45700,"S.A.F.E. Foundation, Inc.",52129,SAFE Foundation OP,Kings,315,255 Avenue W,Brooklyn,11223,Outpatient,Outpatient Clinic,Operational,64
+2010,45720,Richmond University Medical Center,52124,RUMC Bayley Seton Crisis Center,Richmond,501,75 Vanderbilt Avenue,Staten Island,10304,Crisis,Medically Monitored Withdrawal,Closed,14
+2010,45720,Richmond University Medical Center,52125,Richmond University Medical Center OP1,Richmond,502,1130 South Ave,Staten Island,10314,Outpatient,Outpatient Clinic,Operational,57
+2015,45720,Richmond University Medical Center,52125,Richmond University Medical Center OP1,Richmond,502,1130 South Ave,Staten Island,10314,Outpatient,Outpatient Clinic,Operational,104
+2019,45720,Richmond University Medical Center,52125,Richmond University Medical Center OP1,Richmond,502,1130 South Ave,Staten Island,10314,Outpatient,Outpatient Clinic,Operational,142
+2010,45720,Richmond University Medical Center,52126,RUMC CD OP Rehab,Richmond,501,427 Forest Avenue,Staten Island,10301,Outpatient,Outpatient Rehabilitation,Closed,41
+2015,45720,Richmond University Medical Center,52126,RUMC CD OP Rehab,Richmond,501,427 Forest Avenue,Staten Island,10301,Outpatient,Outpatient Rehabilitation,Closed,7
+2010,45720,Richmond University Medical Center,52198,RUMC Medically Managed Detox,Richmond,501,75 Vanderbilt Avenue,Staten Island,10310,Crisis,Medical Managed Detoxification,Closed,24
+2019,45720,Richmond University Medical Center,53050,Richmond University Medical Center OP2,Richmond,502,1130 South Ave,Staten Island,10314,Outpatient,Outpatient Clinic,Operational,1
+2019,45720,Richmond University Medical Center,53235,Richmond University Medical Center OP,Richmond,501,444 Saint Mark's Pl,Staten Island,10301,Outpatient,Outpatient Clinic,Operational,54
+2010,45980,"Housing Works, Inc.",52213,"Housing Works, Inc. OP",Kings,305,2640 Pitkin Ave,Brooklyn,11208,Outpatient,Outpatient Clinic,Closed,42
+2015,45980,"Housing Works, Inc.",52213,"Housing Works, Inc. OP",Kings,305,2640 Pitkin Ave,Brooklyn,11208,Outpatient,Outpatient Clinic,Closed,152
+2010,46260,"Queens Center for Change, LLP",52202,"Queens Center for Change, Inc.",Queens,403,37‐20 74th Street,Jackson Heights,11372,Outpatient,Outpatient Clinic,Closed,45
+2015,46430,The Resource Counseling Center,52554,The Resource Counseling Center OP,Kings,307,449 39th St,Brooklyn,11232,Outpatient,Outpatient Clinic,Operational,140
+2019,46430,The Resource Counseling Center,52554,The Resource Counseling Center OP,Kings,307,449 39th St,Brooklyn,11232,Outpatient,Outpatient Clinic,Operational,98
+2019,46430,The Resource Counseling Center,53241,Christopher's Reason OP,Richmond,503,4521 Arthur Kill Rd,Staten Island,10309,Outpatient,Outpatient Clinic,Operational,56
+2010,47080,"The PAC Program of the Bronx, Inc.",52233,"The PAC Program of the Bronx, Inc OP",Bronx,209,1215‐1217 Stratford Ave,Bronx,10472,Outpatient,Outpatient Clinic,Operational,29
+2015,47080,"The PAC Program of the Bronx, Inc.",52233,"The PAC Program of the Bronx, Inc OP",Bronx,209,1215‐1217 Stratford Ave,Bronx,10472,Outpatient,Outpatient Clinic,Operational,99
+2019,47080,"The PAC Program of the Bronx, Inc.",52233,"The PAC Program of the Bronx, Inc OP",Bronx,209,1215‐1217 Stratford Ave,Bronx,10472,Outpatient,Outpatient Clinic,Operational,75
+2010,47130,North General Hospital and D and TC,52243,Addiction Treatment Center,New York,111,1824 Madison Avenue,New York,10035,Outpatient,Outpatient Clinic,Closed,17
+2010,47130,North General Hospital and D and TC,52244,Addiction Treatment Center,New York,111,1824 Madison Avenue,New York,10035,Outpatient,Outpatient Rehabilitation,Closed,13
+2010,47370,"Gramercy Park Services, LLC",52527,"Gramercy Park Services, LLC MMTP",New York,106,255 Third Avenue,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,182
+2010,47570,START Treatment & Recovery Centers,6,Starting Point Clinic OTP,New York,110,119‐121 W 124th St,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,304
+2015,47570,START Treatment & Recovery Centers,6,Starting Point Clinic OTP,New York,110,119‐121 W 124th St,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,310
+2019,47570,START Treatment & Recovery Centers,6,Starting Point Clinic OTP,New York,110,119‐121 W 124th St,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,335
+2010,47570,START Treatment & Recovery Centers,7,Fort Greene Clinic OTP,Kings,302,937 Fulton St,Brooklyn,11238,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,489
+2015,47570,START Treatment & Recovery Centers,7,Fort Greene Clinic OTP,Kings,302,937 Fulton St,Brooklyn,11238,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,547
+2019,47570,START Treatment & Recovery Centers,7,Fort Greene Clinic OTP,Kings,302,937 Fulton St,Brooklyn,11238,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,504
+2010,47570,START Treatment & Recovery Centers,8,Kaleidoscope Clinic OTP,New York,110,119‐121 W 124th St,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,303
+2015,47570,START Treatment & Recovery Centers,8,Kaleidoscope Clinic OTP,New York,110,119‐121 W 124th St,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,296
+2019,47570,START Treatment & Recovery Centers,8,Kaleidoscope Clinic OTP,New York,110,119‐121 W 124th St,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,330
+2010,47570,START Treatment & Recovery Centers,77,Third Horizon Clinic OTP,New York,111,2191 Third Ave,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,339
+2015,47570,START Treatment & Recovery Centers,77,Third Horizon Clinic OTP,New York,111,2191 Third Ave,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,360
+2019,47570,START Treatment & Recovery Centers,77,Third Horizon Clinic OTP,New York,111,2191 Third Ave,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,324
+2010,47570,START Treatment & Recovery Centers,78,East New York Clinic OTP,Kings,305,494 Dumont Ave,Brooklyn,11207,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,459
+2015,47570,START Treatment & Recovery Centers,78,East New York Clinic OTP,Kings,305,494 Dumont Ave,Brooklyn,11207,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,537
+2019,47570,START Treatment & Recovery Centers,78,East New York Clinic OTP,Kings,305,494 Dumont Ave,Brooklyn,11207,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,500
+2010,47570,START Treatment & Recovery Centers,80,ARTC Bushwick MMTP OTP,Kings,304,1149‐55 Myrtle Ave,Brooklyn,11206,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,499
+2015,47570,START Treatment & Recovery Centers,80,ARTC Bushwick MMTP OTP,Kings,304,1149‐55 Myrtle Ave,Brooklyn,11206,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,563
+2019,47570,START Treatment & Recovery Centers,80,ARTC Bushwick MMTP OTP,Kings,304,1149‐55 Myrtle Ave,Brooklyn,11206,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,510
+2010,47570,START Treatment & Recovery Centers,1302,START Txt & Recovery Cntrs OTP,New York,112,2406 Amsterdam Ave,New York,10033,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,325
+2015,47570,START Treatment & Recovery Centers,1302,START Txt & Recovery Cntrs OTP,New York,112,2406 Amsterdam Ave,New York,10033,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,314
+2019,47570,START Treatment & Recovery Centers,1302,START Txt & Recovery Cntrs OTP,New York,112,2406 Amsterdam Ave,New York,10033,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,250
+2010,47570,START Treatment & Recovery Centers,6450,Addiction Resrch/Trmt Co ‐ CD OP,New York,111,2195 3rd Ave,New York,10035,Outpatient,Outpatient Clinic,Closed,23
+2010,47570,START Treatment & Recovery Centers,52059,REACH Program OP,New York,110,119‐121 W 124th St,New York,10027,Outpatient,Outpatient Clinic,Operational,39
+2015,47570,START Treatment & Recovery Centers,52059,REACH Program OP,New York,110,119‐121 W 124th St,New York,10027,Outpatient,Outpatient Clinic,Operational,36
+2019,47570,START Treatment & Recovery Centers,52059,REACH Program OP,New York,110,119‐121 W 124th St,New York,10027,Outpatient,Outpatient Clinic,Operational,55
+2015,47720,New York Counseling for Change,52588,New York Counseling for Change OP,Queens,403,37‐20 74th St,Jackson Heights,11372,Outpatient,Outpatient Clinic,Closed,72
+2019,48040,"Hands On Health Associates, LLC",52619,"Hands On Health Associates, LLC OP",Kings,305,249 Pennsylvania Ave,Brooklyn,11207,Outpatient,Outpatient Clinic,Operational,163
+2015,48060,"Housing Plus Solutions, Inc",52626,"Housing Plus Solutions, Inc SL",Kings,305,755 Liberty Avenue,Brooklyn,11208,Residential,Supportive Living,Closed,6
+2015,48140,Brightpoint Health,52765,Brightpoint Health OP,Kings,305,2400 Linden Blvd,Brooklyn,11208,Outpatient,Outpatient Clinic,Closed,68
+2015,48370,"Reborn for New Life, LLC",52748,"Reborn for New Life, LLC OP",Kings,305,400 Liberty Ave,Brooklyn,11207,Outpatient,Outpatient Clinic,Closed,52
+2019,48370,"Reborn for New Life, LLC",52748,"Reborn for New Life, LLC OP",Kings,305,400 Liberty Ave,Brooklyn,11207,Outpatient,Outpatient Clinic,Closed,289
+2015,48400,"One World Counseling, LLC",52690,"One World Counseling, LLC OP",Kings,315,1670 E 17th St,Brooklyn,11229,Outpatient,Outpatient Clinic,Closed,68
+2019,48400,"One World Counseling, LLC",52690,"One World Counseling, LLC OP",Kings,315,1670 E 17th St,Brooklyn,11229,Outpatient,Outpatient Clinic,Closed,69
+2019,48730,"MIH Experience, LTD.",52945,MIH Experience OP,New York,112,4580 Broadway,New York,10040,Outpatient,Outpatient Clinic,Operational,52
+2015,48850,Care Counseling Center LLC,52795,Care Counseling Center LLC OP,New York,110,214‐216 W 116th St,New York,10026,Outpatient,Outpatient Clinic,Operational,72
+2019,48850,Care Counseling Center LLC,52795,Care Counseling Center LLC OP,New York,110,214‐216 W 116th St,New York,10026,Outpatient,Outpatient Clinic,Operational,208
+2015,48900,Alliance for Positive Change,52799,CASA Washington Heights OP,New York,112,2036 Amsterdam Ave,New York,10032,Outpatient,Outpatient Clinic,Operational,10
+2019,48900,Alliance for Positive Change,52799,CASA Washington Heights OP,New York,112,2036 Amsterdam Ave,New York,10032,Outpatient,Outpatient Clinic,Operational,28
+2019,48960,Housing Works Community Healthcare,52958,Housing Works Community Healthcare OP,Kings,305,2640 Pitkin Ave,Brooklyn,11208,Outpatient,Outpatient Clinic,Operational,110
+2019,49050,"Exodus Transitional Community, Inc.",52922,"Exodus Transitional Community, Inc. OP",New York,111,2271 3rd Ave,New York,10035,Outpatient,Outpatient Clinic,Operational,68
+2015,49060,"LSA Recovery, Inc.",52880,"LSA Recovery, Inc. OP",Kings,315,1664 E 14th St,Brooklyn,11229,Outpatient,Outpatient Clinic,Closed,54
+2019,49060,"LSA Recovery, Inc.",52880,"LSA Recovery, Inc. OP",Kings,315,1664 E 14th St,Brooklyn,11229,Outpatient,Outpatient Clinic,Closed,151
+2015,49130,"RevCore Recovery Ctr / Manhattan, LLC",52928,RevCore Recovery Ctr / Manhattan OP,New York,102,181 Canal St,New York,10013,Outpatient,Outpatient Clinic,Operational,210
+2019,49130,"RevCore Recovery Ctr / Manhattan, LLC",52928,RevCore Recovery Ctr / Manhattan OP,New York,102,181 Canal St,New York,10013,Outpatient,Outpatient Clinic,Operational,357
+2015,49130,"RevCore Recovery Ctr / Manhattan, LLC",52929,RevCore Recovery Ctr / Manhattan OP 1,Queens,403,37‐20 74th St,Jackson Heights,11372,Outpatient,Outpatient Clinic,Operational,47
+2019,49130,"RevCore Recovery Ctr / Manhattan, LLC",52929,RevCore Recovery Ctr / Manhattan OP 1,Queens,403,37‐20 74th St,Jackson Heights,11372,Outpatient,Outpatient Clinic,Operational,60
+2019,49240,"MIH Victory, Inc.",52940,"MIH Victory, Inc. OP",New York,112,560 W 180th St,New York,10033,Outpatient,Outpatient Clinic,Closed,1
+2019,49320,Journeys,52957,Journeys OP,Kings,312,1049 38th St,Brooklyn,11219,Outpatient,Outpatient Clinic,Operational,54
+2019,49600,"Genesis Detox of Brooklyn, LLC",53059,"Genesis Detox of Brooklyn, LLC MSW IP",Kings,307,449 39th St,Brooklyn,11232,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,13
+2019,49820,South Richmond Hill Recovery,53167,South Richmond Hill Recovery OP,Queens,410,88‐08 Liberty Ave,Ozone Park,11417,Outpatient,Outpatient Clinic,Operational,110
+2019,49900,Ascendant New York,53204,Ascendant New York MSW‐IP,New York,108,113 E 60th St,New York,10022,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,4
+"",49900,Ascendant New York,53264,Ascendant New York OP,New York,108,113 E 60th St,New York,,Outpatient,Outpatient Clinic,Operational,
+"",49900,Ascendant New York,53520,Ascendant NY IP,New York,108,113 E 60th St,New York,,Inpatient Treatment,Inpatient Rehabilitation,Operational,
+2019,49950,"HealthCare Choices NY, Inc.",53210,"HealthCare Choices NY, Inc. OP",Kings,311,6209 16th Ave,Brooklyn,11204,Outpatient,Outpatient Clinic,Operational,7
+2019,50200,"Elev8 Center New York, LLC",53268,"Elev8 Center New York, LLC IP",New York,110,151 W 136th St,New York,10030,Inpatient Treatment,Inpatient Rehabilitation,Operational,43
+2019,50200,"Elev8 Center New York, LLC",53270,"Elev8 Center New York, LLC MSW IP",New York,110,151 W 136th St,New York,10030,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,21
+2010,50340,"Hunts Point Multi Service Center, Inc.",334,Hunt's Point Multi‐Srv Ctr‐MMTP Clinic,Bronx,201,785 Westchester Avenue,Bronx,10455,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,484
+2010,50340,"Hunts Point Multi Service Center, Inc.",50016,Hunts Pt Multi‐Servs Ctr‐ CD OP,Bronx,201,630 Jackson Avenue,Bronx,10455,Outpatient,Outpatient Clinic,Closed,95
+2010,50340,"Hunts Point Multi Service Center, Inc.",51144,Francisco Cotto Crisis Center,Bronx,201,409‐411 East 154th Street,Bronx,10455,Crisis,Medically Monitored Withdrawal,Closed,13
+2010,50340,"Hunts Point Multi Service Center, Inc.",51145,Hunts Point Srvs Ctr‐CD Comm Resid Srv,Bronx,201,409‐411 East 154th Street,Bronx,10455,Residential,Community Residential,Closed,9
+2010,50370,"Hamilton‐Madison House, Inc.",50049,Asian American Recovery Svcs OP,New York,103,253 South St,New York,10002,Outpatient,Outpatient Clinic,Operational,76
+2015,50370,"Hamilton‐Madison House, Inc.",50049,Asian American Recovery Svcs OP,New York,103,253 South St,New York,10002,Outpatient,Outpatient Clinic,Operational,47
+2019,50370,"Hamilton‐Madison House, Inc.",50049,Asian American Recovery Svcs OP,New York,103,253 South St,New York,10002,Outpatient,Outpatient Clinic,Operational,53
+2010,50470,"Project Renewal, Inc.",50052,Project Renewal Chemical Dependence OP,New York,103,8 E 3rd St,New York,10003,Outpatient,Outpatient Clinic,Operational,50
+2015,50470,"Project Renewal, Inc.",50052,Project Renewal Chemical Dependence OP,New York,103,8 E 3rd St,New York,10003,Outpatient,Outpatient Clinic,Operational,57
+2019,50470,"Project Renewal, Inc.",50052,Project Renewal Chemical Dependence OP,New York,103,8 E 3rd St,New York,10003,Outpatient,Outpatient Clinic,Operational,88
+2010,50470,"Project Renewal, Inc.",51112,Project Renewal MMW,New York,103,8 E 3rd St,New York,10003,Crisis,Medically Monitored Withdrawal,Operational,27
+2015,50470,"Project Renewal, Inc.",51112,Project Renewal MMW,New York,103,8 E 3rd St,New York,10003,Crisis,Medically Monitored Withdrawal,Operational,26
+2019,50470,"Project Renewal, Inc.",51112,Project Renewal MMW,New York,103,8 E 3rd St,New York,10003,Crisis,Medically Monitored Withdrawal,Operational,27
+2010,50470,"Project Renewal, Inc.",52081,Project Renewal MSW‐OP,New York,103,8 E 3rd St,New York,10003,Crisis,Med Sup Withdrawal‐Outpatient,Operational,28
+2015,50470,"Project Renewal, Inc.",52081,Project Renewal MSW‐OP,New York,103,8 E 3rd St,New York,10003,Crisis,Med Sup Withdrawal‐Outpatient,Operational,24
+2019,50470,"Project Renewal, Inc.",52081,Project Renewal MSW‐OP,New York,103,8 E 3rd St,New York,10003,Crisis,Med Sup Withdrawal‐Outpatient,Operational,25
+"",50470,"Project Renewal, Inc.",53475,Project Renewal Support/Connection DC,New York,111,179 E 116 St,New York,,Outpatient,Diversion Center,Operational,
+2010,50490,"Bowery Residents' Committee, Inc.",50012,"Bowery Residents' Committee, Inc. OP",New York,104,127 W 25th St,New York,10001,Outpatient,Outpatient Clinic,Operational,127
+2015,50490,"Bowery Residents' Committee, Inc.",50012,"Bowery Residents' Committee, Inc. OP",New York,104,127 W 25th St,New York,10001,Outpatient,Outpatient Clinic,Operational,161
+2019,50490,"Bowery Residents' Committee, Inc.",50012,"Bowery Residents' Committee, Inc. OP",New York,104,127 W 25th St,New York,10001,Outpatient,Outpatient Clinic,Operational,148
+2010,50490,"Bowery Residents' Committee, Inc.",50014,Bowery Residents Comm‐Med. Monit. With,New York,104,127 W 25th St,New York,10001,Crisis,Medically Monitored Withdrawal,Closed,26
+2015,50490,"Bowery Residents' Committee, Inc.",52756,"Bowery Residents Committee, Inc. MMW",New York,104,127 W 25th St,New York,10001,Crisis,Medically Monitored Withdrawal,Closed,21
+2015,50490,"Bowery Residents' Committee, Inc.",52757,Bowery Residents' Committee Inc MSW‐IP,New York,104,127 W 25th St,New York,10001,Crisis,Med Sup Withdrawal ‐ Inpatient,Closed,7
+2019,50490,"Bowery Residents' Committee, Inc.",52757,Bowery Residents' Committee Inc MSW‐IP,New York,104,127 W 25th St,New York,10001,Crisis,Med Sup Withdrawal ‐ Inpatient,Closed,8
+2019,50490,"Bowery Residents' Committee, Inc.",53160,Bowery Residents' Committee SRh,New York,104,127 W 25th St,New York,10001,Residential,820 Stabil and Rehab,Operational,18
+2010,50500,"South Bronx Mental Health Council, Inc",50288,South Bronx M.H. Council,Bronx,202,1241 Lafayette Avenue,Bronx,10474,Outpatient,Outpatient Rehabilitation,Closed,57
+2010,50500,"South Bronx Mental Health Council, Inc",52236,"South Bronx Mental Council, Inc.",Bronx,202,1241 Lafayette Avenue,Bronx,10474,Outpatient,Outpatient Clinic,Closed,35
+"",50550,Shiloh Psychological Consulting PLLC,53293,Shiloh Psychological Consulting OP,New York,105,566 7th Ave,New York,,Outpatient,Outpatient Clinic,Operational,
+2019,50560,Urban Recovery House LLC,53294,Urban Recovery House LLC IP,Kings,306,411 Van Brunt St,Brooklyn,11231,Inpatient Treatment,Inpatient Rehabilitation,Operational,5
+2019,50560,Urban Recovery House LLC,53295,Urban Recovery House LLC MSW‐IP,Kings,306,411 Van Brunt St,Brooklyn,11231,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,1
+2019,50570,"Phoenix Houses of Long Island, Inc.",53073,Phoenix Houses of Long Island SRR,Queens,401,34‐25 Vernon Blvd,Long Island City,11106,Residential,820 Stabil Rehab Reintegration,Operational,136
+2019,50570,"Phoenix Houses of Long Island, Inc.",53318,Parkside Outpatient Program,Queens,401,34‐11 Vernon Blvd,Long Island City,11106,Outpatient,Outpatient Clinic,Operational,27
+2010,50730,"Greenwich House, Inc.",18,Greenwich House East OTP,New York,102,190 Mercer St,New York,10012,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,708
+2015,50730,"Greenwich House, Inc.",18,Greenwich House East OTP,New York,102,190 Mercer St,New York,10012,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,571
+2019,50730,"Greenwich House, Inc.",18,Greenwich House East OTP,New York,102,190 Mercer St,New York,10012,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,720
+2010,50730,"Greenwich House, Inc.",586,Greenwich House Counseling Center OP,New York,105,122 W 27th St,New York,10001,Outpatient,Outpatient Clinic,Operational,226
+2015,50730,"Greenwich House, Inc.",586,Greenwich House Counseling Center OP,New York,105,122 W 27th St,New York,10001,Outpatient,Outpatient Clinic,Operational,112
+2019,50730,"Greenwich House, Inc.",586,Greenwich House Counseling Center OP,New York,105,122 W 27th St,New York,10001,Outpatient,Outpatient Clinic,Operational,92
+"",50840,"Wholeview Wellness, LLC",53321,"Wholeview Wellness, LLC OP",New York,106,369 Lexington Ave,New York,,Outpatient,Outpatient Clinic,Operational,
+"",51310,Rego Park Counseling LLC,53489,Rego Park Counseling LLC OP,Queens,406,63‐36 99th St,Rego Park,,Outpatient,Outpatient Clinic,Operational,
+2010,70490,Upper Manhattan Mental Health Center,50962,Alcoholism & Sub. Abuse Treatment OP,New York,109,1727 Amsterdam Ave,New York,10031,Outpatient,Outpatient Clinic,Operational,93
+2015,70490,Upper Manhattan Mental Health Center,50962,Alcoholism & Sub. Abuse Treatment OP,New York,109,1727 Amsterdam Ave,New York,10031,Outpatient,Outpatient Clinic,Operational,78
+2019,70490,Upper Manhattan Mental Health Center,50962,Alcoholism & Sub. Abuse Treatment OP,New York,109,1727 Amsterdam Ave,New York,10031,Outpatient,Outpatient Clinic,Operational,108
+2010,70490,Upper Manhattan Mental Health Center,51809,Upper Manhattan MH Center CR,New York,111,2009 3rd Ave,New York,10029,Residential,Community Residential,Operational,18
+2015,70490,Upper Manhattan Mental Health Center,51809,Upper Manhattan MH Center CR,New York,111,2009 3rd Ave,New York,10029,Residential,Community Residential,Operational,18
+2019,70490,Upper Manhattan Mental Health Center,51809,Upper Manhattan MH Center CR,New York,111,2009 3rd Ave,New York,10029,Residential,Community Residential,Operational,19
+2010,70590,"The Educational Alliance, Inc.",53,"Educational Alliance, Inc. IR",New York,103,371 E 10th St,New York,10009,Residential,Intensive Residential,Closed,55
+2015,70590,"The Educational Alliance, Inc.",53,"Educational Alliance, Inc. IR",New York,103,371 E 10th St,New York,10009,Residential,Intensive Residential,Closed,54
+2010,70590,"The Educational Alliance, Inc.",55,Project Contact OP,New York,103,25‐29 Avenue D,New York,10009,Outpatient,Outpatient Clinic,Operational,227
+2015,70590,"The Educational Alliance, Inc.",55,Project Contact OP,New York,103,25‐29 Avenue D,New York,10009,Outpatient,Outpatient Clinic,Operational,91
+2019,70590,"The Educational Alliance, Inc.",55,Project Contact OP,New York,103,25‐29 Avenue D,New York,10009,Outpatient,Outpatient Clinic,Operational,77
+2010,70590,"The Educational Alliance, Inc.",6884,Pride Site II IR,New York,103,25‐29 Avenue D,New York,10009,Residential,Intensive Residential,Closed,92
+2015,70590,"The Educational Alliance, Inc.",6884,Pride Site II IR,New York,103,25‐29 Avenue D,New York,10009,Residential,Intensive Residential,Closed,86
+2019,70590,"The Educational Alliance, Inc.",53069,Pride Site SRR,New York,103,25‐29 Avenue D,New York,10009,Residential,820 Stabil Rehab Reintegration,Operational,94
+2010,70770,Staten Island Mental Health Society,51008,Staten Island Mental Health Society OP,Richmond,501,444 Saint Marks Pl,Staten Island,10301,Outpatient,Outpatient Clinic,Closed,71
+2015,70770,Staten Island Mental Health Society,51008,Staten Island Mental Health Society OP,Richmond,501,444 Saint Marks Pl,Staten Island,10301,Outpatient,Outpatient Clinic,Closed,57
+2010,81050,"St. Joseph's Hospital, Yonkers",52562,"St. Joseph's Hospital, Yonkers",Kings,308,635‐639 Classon Avenue,Brooklyn,11238,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,338
+2010,81050,"St. Joseph's Hospital, Yonkers",52566,"St. Joseph's Hospital, Yonkers OTP 1",Kings,316,211‐221 Powell St,Brooklyn,11212,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,489
+2015,81050,"St. Joseph's Hospital, Yonkers",52566,"St. Joseph's Hospital, Yonkers OTP 1",Kings,316,211‐221 Powell St,Brooklyn,11212,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,408
+2019,81050,"St. Joseph's Hospital, Yonkers",52566,"St. Joseph's Hospital, Yonkers OTP 1",Kings,316,211‐221 Powell St,Brooklyn,11212,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,374
+2010,81050,"St. Joseph's Hospital, Yonkers",52567,"St. Joseph's Hospital, Yonkers OTP 2",Kings,308,1480 Prospect Pl,Brooklyn,11213,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,359
+2015,81050,"St. Joseph's Hospital, Yonkers",52567,"St. Joseph's Hospital, Yonkers OTP 2",Kings,308,1480 Prospect Pl,Brooklyn,11213,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,311
+2019,81050,"St. Joseph's Hospital, Yonkers",52567,"St. Joseph's Hospital, Yonkers OTP 2",Kings,308,1480 Prospect Pl,Brooklyn,11213,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,269
+2010,81050,"St. Joseph's Hospital, Yonkers",52568,"St. Joseph's Hospital, Yonkers",Queens,412,147‐20 Archer Avenue,Jamaica,11435,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,370
+2010,81050,"St. Joseph's Hospital, Yonkers",52569,Queens Opioid Treatment Clinic OTP,Queens,412,175‐20 Hillside Ave,Jamaica,11432,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,487
+2015,81050,"St. Joseph's Hospital, Yonkers",52569,Queens Opioid Treatment Clinic OTP,Queens,412,175‐20 Hillside Ave,Jamaica,11432,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,760
+2019,81050,"St. Joseph's Hospital, Yonkers",52569,Queens Opioid Treatment Clinic OTP,Queens,412,175‐20 Hillside Ave,Jamaica,11432,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,803
+2010,81050,"St. Joseph's Hospital, Yonkers",52570,Alabama Clinic OTP,Kings,305,480 Alabama Ave,Brooklyn,11207,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,453
+2015,81050,"St. Joseph's Hospital, Yonkers",52570,Alabama Clinic OTP,Kings,305,480 Alabama Ave,Brooklyn,11207,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,627
+2019,81050,"St. Joseph's Hospital, Yonkers",52570,Alabama Clinic OTP,Kings,305,480 Alabama Ave,Brooklyn,11207,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,618
+2010,81170,The New York and Presbyterian Hospital,331,New York & Presbyterian Hospital OTP,New York,108,503 E 70th St,New York,10021,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,190
+2015,81170,The New York and Presbyterian Hospital,331,New York & Presbyterian Hospital OTP,New York,108,503 E 70th St,New York,10021,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,193
+2019,81170,The New York and Presbyterian Hospital,331,New York & Presbyterian Hospital OTP,New York,108,503 E 70th St,New York,10021,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,174
+2010,81170,The New York and Presbyterian Hospital,7338,NY/Presbyterian Hosp ‐ MMTP/Medication,New York,108,503 East 70th Street,New York,10021,Opioid Treatment Program,Medical Maintenance,Closed,12
+2010,81170,The New York and Presbyterian Hospital,52205,New York & Presbyterian Hospital OMM,New York,108,503 E 70th St,New York,10021,Opioid Treatment Program,Medical Maintenance,Operational,34
+2015,81170,The New York and Presbyterian Hospital,52205,New York & Presbyterian Hospital OMM,New York,108,503 E 70th St,New York,10021,Opioid Treatment Program,Medical Maintenance,Operational,27
+2019,81170,The New York and Presbyterian Hospital,52205,New York & Presbyterian Hospital OMM,New York,108,503 E 70th St,New York,10021,Opioid Treatment Program,Medical Maintenance,Operational,22
+2010,81210,Metropolitan Hospital Center (HHC),669,Metropolitan Hospital Center OTP,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,244
+2015,81210,Metropolitan Hospital Center (HHC),669,Metropolitan Hospital Center OTP,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,237
+2019,81210,Metropolitan Hospital Center (HHC),669,Metropolitan Hospital Center OTP,New York,111,1900 2nd Ave,New York,10029,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,248
+2010,81210,Metropolitan Hospital Center (HHC),1346,Metropolitan Hospital Center MMD,New York,111,1901 1st Ave,New York,10029,Crisis,Medical Managed Detoxification,Closed,14
+2015,81210,Metropolitan Hospital Center (HHC),1346,Metropolitan Hospital Center MMD,New York,111,1901 1st Ave,New York,10029,Crisis,Medical Managed Detoxification,Closed,12
+2019,81210,Metropolitan Hospital Center (HHC),1346,Metropolitan Hospital Center MMD,New York,111,1901 1st Ave,New York,10029,Crisis,Medical Managed Detoxification,Closed,8
+2010,81210,Metropolitan Hospital Center (HHC),52530,Metropolitan Hospital Center (HHC,New York,111,1900 2nd Ave,New York,10029,Outpatient,Outpatient Clinic,Closed,12
+2010,81630,St. Barnabas Hospital,6962,St. Barnabas Hospital OTP,Bronx,206,4535 3rd Ave,Bronx,10458,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,503
+2015,81630,St. Barnabas Hospital,6962,St. Barnabas Hospital OTP,Bronx,206,4535 3rd Ave,Bronx,10458,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,564
+2019,81630,St. Barnabas Hospital,6962,St. Barnabas Hospital OTP,Bronx,206,4535 3rd Ave,Bronx,10458,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,554
+2010,81630,St. Barnabas Hospital,7256,St. Barnabas Hospital KEEP,Bronx,206,4535 3rd Ave,Bronx,10458,Opioid Treatment Program,Methadone KEEP,Closed,20
+2010,81630,St. Barnabas Hospital,50717,St. Barnabas Hospital MMD,Bronx,206,4422 3rd Ave,Bronx,10457,Crisis,Medical Managed Detoxification,Operational,33
+2015,81630,St. Barnabas Hospital,50717,St. Barnabas Hospital MMD,Bronx,206,4422 3rd Ave,Bronx,10457,Crisis,Medical Managed Detoxification,Operational,12
+2019,81630,St. Barnabas Hospital,50717,St. Barnabas Hospital MMD,Bronx,206,4422 3rd Ave,Bronx,10457,Crisis,Medical Managed Detoxification,Operational,12
+2010,81630,St. Barnabas Hospital,50718,St. Barnabas Hospital OP,Bronx,206,4441‐4451 3rd Ave,Bronx,10457,Outpatient,Outpatient Clinic,Operational,95
+2015,81630,St. Barnabas Hospital,50718,St. Barnabas Hospital OP,Bronx,206,4441‐4451 3rd Ave,Bronx,10457,Outpatient,Outpatient Clinic,Operational,86
+2019,81630,St. Barnabas Hospital,50718,St. Barnabas Hospital OP,Bronx,206,4441‐4451 3rd Ave,Bronx,10457,Outpatient,Outpatient Clinic,Operational,48
+2010,81770,Cornerstone of Medical Arts Center,9,Cornerstone of Medical Arts Ctr MSW IP,Queens,408,159‐05 Union Tpke,Fresh Meadows,11366,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,91
+2015,81770,Cornerstone of Medical Arts Center,9,Cornerstone of Medical Arts Ctr MSW IP,Queens,408,159‐05 Union Tpke,Fresh Meadows,11366,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,93
+2019,81770,Cornerstone of Medical Arts Center,9,Cornerstone of Medical Arts Ctr MSW IP,Queens,408,159‐05 Union Tpke,Fresh Meadows,11366,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,76
+2010,81770,Cornerstone of Medical Arts Center,51379,Cornerstone of Medical Arts Center IP,Queens,408,159‐05 Union Tpke,Fresh Meadows,11366,Inpatient Treatment,Inpatient Rehabilitation,Operational,51
+2015,81770,Cornerstone of Medical Arts Center,51379,Cornerstone of Medical Arts Center IP,Queens,408,159‐05 Union Tpke,Fresh Meadows,11366,Inpatient Treatment,Inpatient Rehabilitation,Operational,57
+2019,81770,Cornerstone of Medical Arts Center,51379,Cornerstone of Medical Arts Center IP,Queens,408,159‐05 Union Tpke,Fresh Meadows,11366,Inpatient Treatment,Inpatient Rehabilitation,Operational,81
+2010,81770,Cornerstone of Medical Arts Center,51594,Cornerstone Continuous Care OP,New York,110,214 West 116th Street,New York,10026,Outpatient,Outpatient Clinic,Closed,142
+2010,82070,Flushing Hospital and Medical Center,51644,Flushing Hospital and Medical Ctr. MMD,Queens,407,4500 Parsons Blvd,Flushing,11355,Crisis,Medical Managed Detoxification,Operational,17
+2015,82070,Flushing Hospital and Medical Center,51644,Flushing Hospital and Medical Ctr. MMD,Queens,407,4500 Parsons Blvd,Flushing,11355,Crisis,Medical Managed Detoxification,Operational,28
+2019,82070,Flushing Hospital and Medical Center,51644,Flushing Hospital and Medical Ctr. MMD,Queens,407,4500 Parsons Blvd,Flushing,11355,Crisis,Medical Managed Detoxification,Operational,27
+2010,82070,Flushing Hospital and Medical Center,51827,Reflections OP,Queens,407,4500 Parsons Blvd,Flushing,11355,Outpatient,Outpatient Clinic,Operational,93
+2015,82070,Flushing Hospital and Medical Center,51827,Reflections OP,Queens,407,4500 Parsons Blvd,Flushing,11355,Outpatient,Outpatient Clinic,Operational,107
+2019,82070,Flushing Hospital and Medical Center,51827,Reflections OP,Queens,407,4500 Parsons Blvd,Flushing,11355,Outpatient,Outpatient Clinic,Operational,96
+2010,83040,Beth Israel Medical Center,291,Gouverneur Clinic OTP,New York,103,109‐11 Delancey St,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,364
+2015,83040,Beth Israel Medical Center,291,Gouverneur Clinic OTP,New York,103,109‐11 Delancey St,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,452
+2010,83040,Beth Israel Medical Center,292,BIMC St. Vincents OTP,New York,102,201 West 13th Street,New York,10011,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,236
+2010,83040,Beth Israel Medical Center,924,MMTP Avenue A  Clinic OTP 1,New York,103,26 Avenue A,New York,10009,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,395
+2015,83040,Beth Israel Medical Center,924,MMTP Avenue A  Clinic OTP 1,New York,103,26 Avenue A,New York,10009,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,392
+2010,83040,Beth Israel Medical Center,925,Cumberland Clinic OTP 2,Kings,302,100 Flatbush Ave,Brooklyn,11217,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,515
+2015,83040,Beth Israel Medical Center,925,Cumberland Clinic OTP 2,Kings,302,100 Flatbush Ave,Brooklyn,11217,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,390
+2010,83040,Beth Israel Medical Center,926,Clinic 1 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,411
+2015,83040,Beth Israel Medical Center,926,Clinic 1 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,742
+2010,83040,Beth Israel Medical Center,927,Harlem No. 2 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,578
+2015,83040,Beth Israel Medical Center,927,Harlem No. 2 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,586
+2010,83040,Beth Israel Medical Center,928,BIMC ‐Harlem No. 3 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,380
+2010,83040,Beth Israel Medical Center,930,BIMC ‐Harlem OPD 8 OTP,New York,110,140 W 125th St,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,315
+2015,83040,Beth Israel Medical Center,930,BIMC ‐Harlem OPD 8 OTP,New York,110,140 W 125th St,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,746
+2010,83040,Beth Israel Medical Center,932,BIMC ‐Harlem # 8D OTP,New York,110,140 W. 125th Street,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,418
+2010,83040,Beth Israel Medical Center,935,Vincent P. Dole Clinic OTP,Kings,306,25 12th St,Brooklyn,11215,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,384
+2015,83040,Beth Israel Medical Center,935,Vincent P. Dole Clinic OTP,Kings,306,25 12th St,Brooklyn,11215,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,396
+2010,83040,Beth Israel Medical Center,938,Clinic 1E OTP,New York,106,429 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,333
+2015,83040,Beth Israel Medical Center,938,Clinic 1E OTP,New York,106,429 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,288
+2010,83040,Beth Israel Medical Center,939,Beth Israel Medical Ctr Clinic 3G OTP,New York,106,429‐435 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,302
+2015,83040,Beth Israel Medical Center,939,Beth Israel Medical Ctr Clinic 3G OTP,New York,106,429‐435 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,609
+2010,83040,Beth Israel Medical Center,941,BIMC ‐ MMTP‐ Nyswander Clinic,New York,111,103 East 125th Street,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,103
+2010,83040,Beth Israel Medical Center,946,Clinic 2C OTP,New York,106,429‐435 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,314
+2015,83040,Beth Israel Medical Center,946,Clinic 2C OTP,New York,106,429‐435 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,586
+2010,83040,Beth Israel Medical Center,947,BIMC Clinic 2F OTP,New York,106,429 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,304
+2010,83040,Beth Israel Medical Center,948,Beth Israel Med Ctr ‐3C OTP,New York,106,435 Second Avenue,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,273
+2010,83040,Beth Israel Medical Center,952,Harlem No. 6/7 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,397
+2015,83040,Beth Israel Medical Center,952,Harlem No. 6/7 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,461
+2010,83040,Beth Israel Medical Center,3868,Vincent P. Dole Clinic OTP 1,Kings,306,25 12th St,Brooklyn,11215,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,12
+2010,83040,Beth Israel Medical Center,3870,BIMC ‐ Gouverneur ‐S OTP,New York,103,109‐11 Delancey St,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,16
+2010,83040,Beth Israel Medical Center,3871,BIMC Clinic 2F OTP 1,New York,106,429 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,24
+2010,83040,Beth Israel Medical Center,4565,Stuyvesant Square CD Treatment Prog IP,New York,106,10 Nathan D. Perlman Pl,New York,10003,Inpatient Treatment,Inpatient Rehabilitation,Closed,28
+2015,83040,Beth Israel Medical Center,4565,Stuyvesant Square CD Treatment Prog IP,New York,106,10 Nathan D. Perlman Pl,New York,10003,Inpatient Treatment,Inpatient Rehabilitation,Closed,28
+2010,83040,Beth Israel Medical Center,5825,Beth Israel Medical Center OP,New York,106,1‐9 Nathan D. Perlman Pl,New York,10003,Outpatient,Outpatient Clinic,Closed,40
+2015,83040,Beth Israel Medical Center,5825,Beth Israel Medical Center OP,New York,106,1‐9 Nathan D. Perlman Pl,New York,10003,Outpatient,Outpatient Clinic,Closed,51
+2010,83040,Beth Israel Medical Center,6074,Beth Israel Med Center MMD,New York,106,10 Nathan D. Perlman Pl,New York,10003,Crisis,Medical Managed Detoxification,Closed,33
+2015,83040,Beth Israel Medical Center,6074,Beth Israel Med Center MMD,New York,106,10 Nathan D. Perlman Pl,New York,10003,Crisis,Medical Managed Detoxification,Closed,28
+2010,83040,Beth Israel Medical Center,7279,BIMC Billie's Place OTP,New York,111,103 East 125th Street,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,49
+2010,83040,Beth Israel Medical Center,8048,Beth Israel Medical Center MSW‐OP,New York,106,1‐9 Nathan D. Perlman Place,New York,10003,Crisis,Med Sup Withdrawal‐Outpatient,Closed,1
+2015,83040,Beth Israel Medical Center,8048,Beth Israel Medical Center MSW‐OP,New York,106,1‐9 Nathan D. Perlman Place,New York,10003,Crisis,Med Sup Withdrawal‐Outpatient,Closed,3
+2010,83040,Beth Israel Medical Center,51113,Beth Israel Medical Center OP R,New York,106,1‐9 Nathan D. Perlman Pl,New York,10003,Outpatient,Outpatient Rehabilitation,Closed,72
+2015,83040,Beth Israel Medical Center,51113,Beth Israel Medical Center OP R,New York,106,1‐9 Nathan D. Perlman Pl,New York,10003,Outpatient,Outpatient Rehabilitation,Closed,105
+2019,83040,Beth Israel Medical Center,53125,Gouverneur Clinic OTP,New York,103,109‐11 Delancey St,New York,10002,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,478
+2019,83040,Beth Israel Medical Center,53126,MMTP Avenue A Clinic OTP,New York,103,26 Avenue A,New York,10009,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,354
+2019,83040,Beth Israel Medical Center,53128,Clinic 1 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,717
+2019,83040,Beth Israel Medical Center,53129,Harlem No. 2 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,614
+2019,83040,Beth Israel Medical Center,53130,Clinic 8 OTP,New York,110,140 W 125th St,New York,10027,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,612
+2019,83040,Beth Israel Medical Center,53131,Vincent P. Dole Clinic OTP,Kings,306,25 12th St,Brooklyn,11215,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,647
+2019,83040,Beth Israel Medical Center,53132,Clinic 1E OTP,New York,106,429 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,317
+2019,83040,Beth Israel Medical Center,53133,Clinic 3G OTP,New York,106,429 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,552
+2019,83040,Beth Israel Medical Center,53134,Clinic 2C OTP,New York,106,435 2nd Ave,New York,10010,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,623
+2019,83040,Beth Israel Medical Center,53135,Harlem No. 6/7 OTP,New York,111,103 E 125th St,New York,10035,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,348
+2019,83040,Beth Israel Medical Center,53136,Stuyvesant Square CD Treatment Prog IP,New York,106,10 Nathan D. Perlman Pl,New York,10003,Inpatient Treatment,Inpatient Rehabilitation,Operational,23
+2019,83040,Beth Israel Medical Center,53137,Beth Israel Medical Center OP,New York,106,1‐9 Nathan D. Perlman Pl,New York,10003,Outpatient,Outpatient Clinic,Operational,52
+2019,83040,Beth Israel Medical Center,53138,Beth Israel Medical Center MMD,New York,106,1‐9 Nathan D. Perlman Place,New York,10003,Crisis,Medical Managed Detoxification,Operational,21
+2019,83040,Beth Israel Medical Center,53139,Beth Israel Medical Center MSW‐OP,New York,106,1‐9 Nathan D. Perlman Place,New York,10003,Crisis,Med Sup Withdrawal‐Outpatient,Operational,2
+2019,83040,Beth Israel Medical Center,53140,Beth Israel Medical Center OP R,New York,106,1‐9 Nathan D. Perlman Pl,New York,10003,Outpatient,Outpatient Rehabilitation,Operational,79
+2010,83070,North General Hospital,50249,North General Hospital‐Med. Mgd. Detox,New York,111,1879 Madison Avenue ‐ 3rd/4th Flr,New York,10035,Crisis,Medical Managed Detoxification,Closed,13
+2010,84150,Lincoln Medical & MHC (HHC),6813,Rec Ctr at Belvis Diagnostic & TC OP,Bronx,201,545 East 142nd St,Bronx,10454,Outpatient,Outpatient Clinic,Operational,165
+2015,84150,Lincoln Medical & MHC (HHC),6813,Rec Ctr at Belvis Diagnostic & TC OP,Bronx,201,545 East 142nd St,Bronx,10454,Outpatient,Outpatient Clinic,Operational,56
+2019,84150,Lincoln Medical & MHC (HHC),6813,Rec Ctr at Belvis Diagnostic & TC OP,Bronx,201,545 East 142nd St,Bronx,10454,Outpatient,Outpatient Clinic,Operational,25
+2010,85110,Lutheran Medical Center,50018,Lutheran Medical Ctr ‐ Med. Mgd. Detox,Kings,307,150 55th Street ‐ 5th Flr,Brooklyn,11220,Crisis,Medical Managed Detoxification,Closed,8
+2010,85110,Lutheran Medical Center,50019,Sunset Terrace Family Health Center,Kings,307,514 49th Street,Brooklyn,11220,Outpatient,Outpatient Clinic,Closed,95
+2010,85120,Bellevue Hospital Center (HHC),422,Bellevue Hospital Center (HHC) OTP,New York,106,462 1st Ave,New York,10016,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,309
+2015,85120,Bellevue Hospital Center (HHC),422,Bellevue Hospital Center (HHC) OTP,New York,106,462 1st Ave,New York,10016,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,369
+2019,85120,Bellevue Hospital Center (HHC),422,Bellevue Hospital Center (HHC) OTP,New York,106,462 1st Ave,New York,10016,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,236
+2010,85120,Bellevue Hospital Center (HHC),5961,Bellevue Hospital Ctr ‐ CD OP,New York,106,462 1st Ave,New York,10016,Outpatient,Outpatient Clinic,Closed,59
+2010,85120,Bellevue Hospital Center (HHC),50285,Detoxification Unit MMD,New York,106,462 1st Ave,New York,10016,Crisis,Medical Managed Detoxification,Closed,17
+2015,85120,Bellevue Hospital Center (HHC),50285,Detoxification Unit MMD,New York,106,462 1st Ave,New York,10016,Crisis,Medical Managed Detoxification,Closed,13
+2019,85120,Bellevue Hospital Center (HHC),50285,Detoxification Unit MMD,New York,106,462 1st Ave,New York,10016,Crisis,Medical Managed Detoxification,Closed,11
+2010,85120,Bellevue Hospital Center (HHC),51912,Bellevue Hospital Center (HHC) OP,New York,106,462 1st Ave,New York,10016,Outpatient,Outpatient Clinic,Operational,92
+2015,85120,Bellevue Hospital Center (HHC),51912,Bellevue Hospital Center (HHC) OP,New York,106,462 1st Ave,New York,10016,Outpatient,Outpatient Clinic,Operational,110
+2019,85120,Bellevue Hospital Center (HHC),51912,Bellevue Hospital Center (HHC) OP,New York,106,462 1st Ave,New York,10016,Outpatient,Outpatient Clinic,Operational,117
+2010,85130,Harlem Hospital Center (HHC),956,Harlem Hospital Ctr‐Methadone Clinic 1,New York,110,264 West 118th Street,New York,10026,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,7
+2010,85130,Harlem Hospital Center (HHC),50315,Harlem Hospital Ctr ‐ MMD,New York,110,506 Lenox Ave,New York,10037,Crisis,Medical Managed Detoxification,Closed,8
+2015,85130,Harlem Hospital Center (HHC),50315,Harlem Hospital Ctr ‐ MMD,New York,110,506 Lenox Ave,New York,10037,Crisis,Medical Managed Detoxification,Closed,6
+2019,85130,Harlem Hospital Center (HHC),50315,Harlem Hospital Ctr ‐ MMD,New York,110,506 Lenox Ave,New York,10037,Crisis,Medical Managed Detoxification,Closed,3
+2010,85130,Harlem Hospital Center (HHC),50316,Harlem Hospital Ctr OP,New York,110,506 Lenox Ave,New York,10037,Outpatient,Outpatient Clinic,Operational,45
+2015,85130,Harlem Hospital Center (HHC),50316,Harlem Hospital Ctr OP,New York,110,506 Lenox Ave,New York,10037,Outpatient,Outpatient Clinic,Operational,28
+2019,85130,Harlem Hospital Center (HHC),50316,Harlem Hospital Ctr OP,New York,110,506 Lenox Ave,New York,10037,Outpatient,Outpatient Clinic,Operational,13
+2010,85140,Jacobi Medical Center (HHC),50456,Jacobi Medical Center MMD,Bronx,211,1400 Pelham Pkwy S,Bronx,10461,Crisis,Medical Managed Detoxification,Closed,10
+2015,85140,Jacobi Medical Center (HHC),50456,Jacobi Medical Center MMD,Bronx,211,1400 Pelham Pkwy S,Bronx,10461,Crisis,Medical Managed Detoxification,Closed,8
+2019,85140,Jacobi Medical Center (HHC),50456,Jacobi Medical Center MMD,Bronx,211,1400 Pelham Pkwy S,Bronx,10461,Crisis,Medical Managed Detoxification,Closed,6
+2010,85140,Jacobi Medical Center (HHC),51889,Jacobi Medical Center (HHC) OP,Bronx,211,1400 Pelham Pkwy S,Bronx,10461,Outpatient,Outpatient Clinic,Operational,50
+2015,85140,Jacobi Medical Center (HHC),51889,Jacobi Medical Center (HHC) OP,Bronx,211,1400 Pelham Pkwy S,Bronx,10461,Outpatient,Outpatient Clinic,Operational,48
+2019,85140,Jacobi Medical Center (HHC),51889,Jacobi Medical Center (HHC) OP,Bronx,211,1400 Pelham Pkwy S,Bronx,10461,Outpatient,Outpatient Clinic,Operational,47
+2010,85140,Jacobi Medical Center (HHC),52088,NYC HHC Jacobi Medical Center,Bronx,211,1400 Pelham Parkway South,Bronx,10461,Chemical Dependency Youth,Outpat Chem Depend for Youth,Closed,42
+2010,85180,Woodhull Medical/Mental Health Ctr‐HHC,6096,Woodhull Medical/MH Center‐HHC MMD,Kings,303,760 Broadway,Brooklyn,11206,Crisis,Medical Managed Detoxification,Closed,17
+2015,85180,Woodhull Medical/Mental Health Ctr‐HHC,6096,Woodhull Medical/MH Center‐HHC MMD,Kings,303,760 Broadway,Brooklyn,11206,Crisis,Medical Managed Detoxification,Closed,13
+2019,85180,Woodhull Medical/Mental Health Ctr‐HHC,6096,Woodhull Medical/MH Center‐HHC MMD,Kings,303,760 Broadway,Brooklyn,11206,Crisis,Medical Managed Detoxification,Closed,10
+2010,85180,Woodhull Medical/Mental Health Ctr‐HHC,50911,Woodhull Medical & MH Ctr‐HHC OP,Kings,303,760 Broadway,Brooklyn,11206,Outpatient,Outpatient Clinic,Operational,78
+2015,85180,Woodhull Medical/Mental Health Ctr‐HHC,50911,Woodhull Medical & MH Ctr‐HHC OP,Kings,303,760 Broadway,Brooklyn,11206,Outpatient,Outpatient Clinic,Operational,47
+2019,85180,Woodhull Medical/Mental Health Ctr‐HHC,50911,Woodhull Medical & MH Ctr‐HHC OP,Kings,303,760 Broadway,Brooklyn,11206,Outpatient,Outpatient Clinic,Operational,37
+2010,85190,BronxCare Health System,309,BronxCare OTP,Bronx,203,1276 Fulton Ave,Bronx,10456,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,539
+2015,85190,BronxCare Health System,309,BronxCare OTP,Bronx,203,1276 Fulton Ave,Bronx,10456,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,563
+2019,85190,BronxCare Health System,309,BronxCare OTP,Bronx,203,1276 Fulton Ave,Bronx,10456,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,499
+2010,85190,BronxCare Health System,50036,BronxCare Life Recovery CR,Bronx,203,1285 Fulton Ave,Bronx,10456,Residential,Community Residential,Operational,22
+2015,85190,BronxCare Health System,50036,BronxCare Life Recovery CR,Bronx,203,1285 Fulton Ave,Bronx,10456,Residential,Community Residential,Operational,20
+2019,85190,BronxCare Health System,50036,BronxCare Life Recovery CR,Bronx,203,1285 Fulton Ave,Bronx,10456,Residential,Community Residential,Operational,22
+2010,85190,BronxCare Health System,51115,Bronx Lebanon Hosp Ctr‐Med. Mgd. Detox,Bronx,203,1265 Franklin Avenue ‐ 4th Flr,Bronx,10456,Crisis,Medical Managed Detoxification,Closed,18
+2010,85190,BronxCare Health System,51116,BronxCare Addictions Rehab Prog IP,Bronx,203,1285 Fulton Ave,Bronx,10456,Inpatient Treatment,Inpatient Rehabilitation,Operational,27
+2015,85190,BronxCare Health System,51116,BronxCare Addictions Rehab Prog IP,Bronx,203,1285 Fulton Ave,Bronx,10456,Inpatient Treatment,Inpatient Rehabilitation,Operational,29
+2019,85190,BronxCare Health System,51116,BronxCare Addictions Rehab Prog IP,Bronx,203,1285 Fulton Ave,Bronx,10456,Inpatient Treatment,Inpatient Rehabilitation,Operational,27
+2010,85190,BronxCare Health System,51697,Bronx‐Lebanon Hospital Center CR 1,Bronx,202,742‐44 Kelly St,Bronx,10455,Residential,Community Residential,Closed,18
+2015,85190,BronxCare Health System,51697,Bronx‐Lebanon Hospital Center CR 1,Bronx,202,742‐44 Kelly St,Bronx,10455,Residential,Community Residential,Closed,12
+2015,85190,BronxCare Health System,52763,BronxCare Addictions Detox Prog MSW‐IP,Bronx,203,1285 Fulton Ave,Bronx,10456,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,8
+2019,85190,BronxCare Health System,52763,BronxCare Addictions Detox Prog MSW‐IP,Bronx,203,1285 Fulton Ave,Bronx,10456,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,6
+2015,85190,BronxCare Health System,52764,BronxCare Chemical Dependence OP,Bronx,203,1285 Fulton Ave,Bronx,10456,Outpatient,Outpatient Clinic,Operational,122
+2019,85190,BronxCare Health System,52764,BronxCare Chemical Dependence OP,Bronx,203,1285 Fulton Ave,Bronx,10456,Outpatient,Outpatient Clinic,Operational,94
+2010,85200,Staten Island University Hospital,304,Staten Island University Hosp. OTP,Richmond,503,392 Seguine Ave,Staten Island,10309,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,443
+2015,85200,Staten Island University Hospital,304,Staten Island University Hosp. OTP,Richmond,503,392 Seguine Ave,Staten Island,10309,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,478
+2019,85200,Staten Island University Hospital,304,Staten Island University Hosp. OTP,Richmond,503,392 Seguine Ave,Staten Island,10309,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,506
+2010,85200,Staten Island University Hospital,944,Staten Island University Hosp. OTP 1,Richmond,501,111 Water St,Staten Island,10304,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,171
+2015,85200,Staten Island University Hospital,944,Staten Island University Hosp. OTP 1,Richmond,501,111 Water St,Staten Island,10304,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,220
+2019,85200,Staten Island University Hospital,944,Staten Island University Hosp. OTP 1,Richmond,501,111 Water St,Staten Island,10304,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,218
+2010,85200,Staten Island University Hospital,4358,Staten Island University Hospital KEEP,Richmond,503,392 Seguine Ave,Staten Island,10309,Opioid Treatment Program,Methadone KEEP,Closed,35
+2015,85200,Staten Island University Hospital,4358,Staten Island University Hospital KEEP,Richmond,503,392 Seguine Ave,Staten Island,10309,Opioid Treatment Program,Methadone KEEP,Closed,18
+2010,85200,Staten Island University Hospital,6975,Staten Island University Hospital MMD,Richmond,503,375 Seguine Ave,Staten Island,10309,Crisis,Medical Managed Detoxification,Operational,27
+2015,85200,Staten Island University Hospital,6975,Staten Island University Hospital MMD,Richmond,503,375 Seguine Ave,Staten Island,10309,Crisis,Medical Managed Detoxification,Operational,18
+2019,85200,Staten Island University Hospital,6975,Staten Island University Hospital MMD,Richmond,503,375 Seguine Ave,Staten Island,10309,Crisis,Medical Managed Detoxification,Operational,17
+2010,85200,Staten Island University Hospital,7148,Staten Island University Hosp. OTP 2,Kings,314,425 Coney Island Ave,Brooklyn,11218,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,374
+2015,85200,Staten Island University Hospital,7148,Staten Island University Hosp. OTP 2,Kings,314,425 Coney Island Ave,Brooklyn,11218,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,374
+2019,85200,Staten Island University Hospital,7148,Staten Island University Hosp. OTP 2,Kings,314,425 Coney Island Ave,Brooklyn,11218,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,350
+2010,85200,Staten Island University Hospital,7150,Staten Island University Hosp. OTP 3,Kings,318,567 E 105th St,Brooklyn,11236,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,357
+2015,85200,Staten Island University Hospital,7150,Staten Island University Hosp. OTP 3,Kings,318,567 E 105th St,Brooklyn,11236,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,349
+2019,85200,Staten Island University Hospital,7150,Staten Island University Hosp. OTP 3,Kings,318,567 E 105th St,Brooklyn,11236,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,312
+2010,85200,Staten Island University Hospital,51422,Staten Island University Hospital OP,Richmond,503,392 Seguine Ave,Staten Island,10309,Outpatient,Outpatient Clinic,Operational,240
+2015,85200,Staten Island University Hospital,51422,Staten Island University Hospital OP,Richmond,503,392 Seguine Ave,Staten Island,10309,Outpatient,Outpatient Clinic,Operational,158
+2019,85200,Staten Island University Hospital,51422,Staten Island University Hospital OP,Richmond,503,392 Seguine Ave,Staten Island,10309,Outpatient,Outpatient Clinic,Operational,188
+2010,85200,Staten Island University Hospital,51623,Staten Island University Hospital IP,Richmond,503,375 Seguine Ave,Staten Island,10309,Inpatient Treatment,Inpatient Rehabilitation,Operational,21
+2015,85200,Staten Island University Hospital,51623,Staten Island University Hospital IP,Richmond,503,375 Seguine Ave,Staten Island,10309,Inpatient Treatment,Inpatient Rehabilitation,Operational,23
+2019,85200,Staten Island University Hospital,51623,Staten Island University Hospital IP,Richmond,503,375 Seguine Ave,Staten Island,10309,Inpatient Treatment,Inpatient Rehabilitation,Operational,19
+2010,85210,Long Island Jewish Medical Center,307,Long Island Jewish Medical Center OTP,Queens,413,75‐59 263rd St,Glen Oaks,11004,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,299
+2015,85210,Long Island Jewish Medical Center,307,Long Island Jewish Medical Center OTP,Queens,413,75‐59 263rd St,Glen Oaks,11004,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,360
+2019,85210,Long Island Jewish Medical Center,307,Long Island Jewish Medical Center OTP,Queens,413,75‐59 263rd St,Glen Oaks,11004,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,417
+2010,85210,Long Island Jewish Medical Center,3089,Long Island Jewish Medical Center OP,Queens,413,75‐59 263rd St,Glen Oaks,11004,Outpatient,Outpatient Clinic,Operational,128
+2015,85210,Long Island Jewish Medical Center,3089,Long Island Jewish Medical Center OP,Queens,413,75‐59 263rd St,Glen Oaks,11004,Outpatient,Outpatient Clinic,Operational,159
+2019,85210,Long Island Jewish Medical Center,3089,Long Island Jewish Medical Center OP,Queens,413,75‐59 263rd St,Glen Oaks,11004,Outpatient,Outpatient Clinic,Operational,258
+2010,85210,Long Island Jewish Medical Center,50021,Long Island Jewish Medical Center OP1,Queens,414,1600 Central Ave,Far Rockaway,11691,Outpatient,Outpatient Clinic,Operational,130
+2015,85210,Long Island Jewish Medical Center,50021,Long Island Jewish Medical Center OP1,Queens,414,1600 Central Ave,Far Rockaway,11691,Outpatient,Outpatient Clinic,Operational,80
+2019,85210,Long Island Jewish Medical Center,50021,Long Island Jewish Medical Center OP1,Queens,414,1600 Central Ave,Far Rockaway,11691,Outpatient,Outpatient Clinic,Operational,113
+2010,85270,Episcopal Health Services  Inc.,50020,Episcopal Health Srvs‐ Med. Mgd. Detox,Queens,414,327 Beach 19th Street,Far Rockaway,11691,Crisis,Medical Managed Detoxification,Closed,20
+2010,85420,Montefiore Medical Center,327,Montefiore Medical Center OTP,Bronx,207,3550 Jerome Ave,Bronx,10467,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,356
+2015,85420,Montefiore Medical Center,327,Montefiore Medical Center OTP,Bronx,207,3550 Jerome Ave,Bronx,10467,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,352
+2019,85420,Montefiore Medical Center,327,Montefiore Medical Center OTP,Bronx,207,3550 Jerome Ave,Bronx,10467,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,350
+2010,85420,Montefiore Medical Center,420,Montefiore Medical Center OTP 1,Bronx,205,2058 Jerome Ave,Bronx,10453,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,700
+2015,85420,Montefiore Medical Center,420,Montefiore Medical Center OTP 1,Bronx,205,2058 Jerome Ave,Bronx,10453,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,696
+2019,85420,Montefiore Medical Center,420,Montefiore Medical Center OTP 1,Bronx,205,2058 Jerome Ave,Bronx,10453,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,699
+2010,85420,Montefiore Medical Center,51981,Montefiore Medical Center OP,Bronx,205,2058 Jerome Ave,Bronx,10453,Outpatient,Outpatient Clinic,Operational,41
+2015,85420,Montefiore Medical Center,51981,Montefiore Medical Center OP,Bronx,205,2058 Jerome Ave,Bronx,10453,Outpatient,Outpatient Clinic,Operational,49
+2019,85420,Montefiore Medical Center,51981,Montefiore Medical Center OP,Bronx,205,2058 Jerome Ave,Bronx,10453,Outpatient,Outpatient Clinic,Operational,44
+2010,85420,Montefiore Medical Center,52211,Montefiore Medical Cntr Wakefield MMD,Bronx,212,600 East 233 Street,Bronx,10466,Crisis,Medical Managed Detoxification,Closed,8
+2010,85420,Montefiore Medical Center,52212,Wakefield Recovery Center OP,Bronx,212,4401 Bronx Blvd,Bronx,10470,Outpatient,Outpatient Clinic,Operational,150
+2015,85420,Montefiore Medical Center,52212,Wakefield Recovery Center OP,Bronx,212,4401 Bronx Blvd,Bronx,10470,Outpatient,Outpatient Clinic,Operational,102
+2019,85420,Montefiore Medical Center,52212,Wakefield Recovery Center OP,Bronx,212,4401 Bronx Blvd,Bronx,10470,Outpatient,Outpatient Clinic,Operational,113
+2015,85420,Montefiore Medical Center,52786,Wellness Center at Waters Place OTP,Bronx,211,1510 Waters Pl,Bronx,10461,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,998
+2019,85420,Montefiore Medical Center,52786,Wellness Center at Waters Place OTP,Bronx,211,1510 Waters Pl,Bronx,10461,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,912
+2015,85420,Montefiore Medical Center,52787,Next Steps North OP,Bronx,211,1510 Waters Pl,Bronx,10461,Outpatient,Outpatient Clinic,Operational,88
+2019,85420,Montefiore Medical Center,52787,Next Steps North OP,Bronx,211,1510 Waters Pl,Bronx,10461,Outpatient,Outpatient Clinic,Operational,61
+"",85420,Montefiore Medical Center,52788,Montefiore Medical Center MSW‐OP,Bronx,211,1510 Waters Pl,Bronx,,Crisis,Med Sup Withdrawal‐Outpatient,Operational,
+2015,85420,Montefiore Medical Center,52789,Wellness Center at Waters Place OMM,Bronx,211,1510 Waters Pl,Bronx,10461,Opioid Treatment Program,Medical Maintenance,Operational,116
+2019,85420,Montefiore Medical Center,52789,Wellness Center at Waters Place OMM,Bronx,211,1510 Waters Pl,Bronx,10461,Opioid Treatment Program,Medical Maintenance,Operational,118
+2015,85420,Montefiore Medical Center,52790,Montefiore Medical Center OTP 2,Bronx,201,804 E 138th St,Bronx,10454,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,"1,128"
+2019,85420,Montefiore Medical Center,52790,Montefiore Medical Center OTP 2,Bronx,201,804 E 138th St,Bronx,10454,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,991
+2015,85420,Montefiore Medical Center,52791,Wellness Center at Melrose OTP,Bronx,204,260 E 161st St,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,836
+2019,85420,Montefiore Medical Center,52791,Wellness Center at Melrose OTP,Bronx,204,260 E 161st St,Bronx,10451,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,768
+2015,85420,Montefiore Medical Center,52792,Next Steps South OP,Bronx,204,260 E 161st St,Bronx,10451,Outpatient,Outpatient Clinic,Operational,98
+2019,85420,Montefiore Medical Center,52792,Next Steps South OP,Bronx,204,260 E 161st St,Bronx,10451,Outpatient,Outpatient Clinic,Operational,65
+2019,85420,Montefiore Medical Center,52915,Next Steps North OP 1,Bronx,211,1510 Waters Pl,Bronx,10461,Outpatient,Outpatient Clinic,Operational,21
+2010,85450,Cumberland D/TC (HHC),51910,Alcoholism Treatment Program OP,Kings,302,100 N Portland Ave,Brooklyn,11205,Outpatient,Outpatient Clinic,Operational,201
+2015,85450,Cumberland D/TC (HHC),51910,Alcoholism Treatment Program OP,Kings,302,100 N Portland Ave,Brooklyn,11205,Outpatient,Outpatient Clinic,Operational,80
+2019,85450,Cumberland D/TC (HHC),51910,Alcoholism Treatment Program OP,Kings,302,100 N Portland Ave,Brooklyn,11205,Outpatient,Outpatient Clinic,Operational,29
+2019,85450,Cumberland D/TC (HHC),53165,Alcoholism Treatment Program OP R,Kings,302,100 N Portland Ave,Brooklyn,11205,Outpatient,Outpatient Rehabilitation,Operational,7
+2010,85470,Brookdale Hospital,335,Interfaith Medical Ctr MMTP Clinic OTP,Kings,308,880 Bergen St,Brooklyn,11238,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,428
+2015,85470,Brookdale Hospital,335,Interfaith Medical Ctr MMTP Clinic OTP,Kings,308,880 Bergen St,Brooklyn,11238,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,433
+2019,85470,Brookdale Hospital,335,Interfaith Medical Ctr MMTP Clinic OTP,Kings,308,880 Bergen St,Brooklyn,11238,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,392
+2010,85470,Brookdale Hospital,7038,Brookdale Hospital IP,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Inpatient Treatment,Inpatient Rehabilitation,Operational,11
+2015,85470,Brookdale Hospital,7038,Brookdale Hospital IP,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Inpatient Treatment,Inpatient Rehabilitation,Operational,15
+2019,85470,Brookdale Hospital,7038,Brookdale Hospital IP,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Inpatient Treatment,Inpatient Rehabilitation,Operational,14
+2010,85470,Brookdale Hospital,50586,Brookdale Hospital MMD,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Crisis,Medical Managed Detoxification,Operational,12
+2015,85470,Brookdale Hospital,50586,Brookdale Hospital MMD,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Crisis,Medical Managed Detoxification,Operational,4
+2019,85470,Brookdale Hospital,50586,Brookdale Hospital MMD,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Crisis,Medical Managed Detoxification,Operational,12
+2010,85470,Brookdale Hospital,50587,Brookdale Hospital OP,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Outpatient,Outpatient Clinic,Operational,41
+2015,85470,Brookdale Hospital,50587,Brookdale Hospital OP,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Outpatient,Outpatient Clinic,Operational,19
+2019,85470,Brookdale Hospital,50587,Brookdale Hospital OP,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Outpatient,Outpatient Clinic,Operational,16
+2019,85470,Brookdale Hospital,53012,Brookdale Hospital OP R,Kings,303,1545 Atlantic Ave,Brooklyn,11213,Outpatient,Outpatient Rehabilitation,Operational,1
+2010,87030,Kings County Hospital Center (HHC),103,The Family Youth Center  CD OP Program,Kings,309,410 Winthrop Street,Brooklyn,11203,Outpatient,Outpatient Clinic,Closed,3
+2010,87030,Kings County Hospital Center (HHC),148,Kings Co. Hosp. MTP Clinic #3,Kings,309,648 Albany Avenue,Brooklyn,11203,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,168
+2010,87030,Kings County Hospital Center (HHC),414,Kings Co. Hosp. MTP Clinic #1,Kings,309,648 Albany Avenue.,Brooklyn,11203,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,252
+2010,87030,Kings County Hospital Center (HHC),643,Early Intervention and Polydrug OP,Kings,309,591 Kingston Ave,Brooklyn,11203,Outpatient,Outpatient Clinic,Closed,80
+2015,87030,Kings County Hospital Center (HHC),643,Early Intervention and Polydrug OP,Kings,309,591 Kingston Ave,Brooklyn,11203,Outpatient,Outpatient Clinic,Closed,48
+2010,87030,Kings County Hospital Center (HHC),920,Kings Co. Hosp. OTP 2,Kings,309,591 Kingston Ave,Brooklyn,11203,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,449
+2015,87030,Kings County Hospital Center (HHC),920,Kings Co. Hosp. OTP 2,Kings,309,591 Kingston Ave,Brooklyn,11203,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,595
+2019,87030,Kings County Hospital Center (HHC),920,Kings Co. Hosp. OTP 2,Kings,309,591 Kingston Ave,Brooklyn,11203,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,517
+2010,87030,Kings County Hospital Center (HHC),50152,Kings County Hospital Center (HHC) MMD,Kings,309,410 Winthrop St,Brooklyn,11203,Crisis,Medical Managed Detoxification,Closed,12
+2015,87030,Kings County Hospital Center (HHC),50152,Kings County Hospital Center (HHC) MMD,Kings,309,410 Winthrop St,Brooklyn,11203,Crisis,Medical Managed Detoxification,Closed,10
+2019,87030,Kings County Hospital Center (HHC),50152,Kings County Hospital Center (HHC) MMD,Kings,309,410 Winthrop St,Brooklyn,11203,Crisis,Medical Managed Detoxification,Closed,11
+2010,87030,Kings County Hospital Center (HHC),50202,Kings County Hospital Center CR,Kings,303,722 Myrtle Ave,Brooklyn,11205,Residential,Community Residential,Closed,22
+2015,87030,Kings County Hospital Center (HHC),50202,Kings County Hospital Center CR,Kings,303,722 Myrtle Ave,Brooklyn,11205,Residential,Community Residential,Closed,21
+2019,87030,Kings County Hospital Center (HHC),50202,Kings County Hospital Center CR,Kings,303,722 Myrtle Ave,Brooklyn,11205,Residential,Community Residential,Closed,7
+2010,87030,Kings County Hospital Center (HHC),51909,King Co. Hosp. Ctr. (HHC) OP,Kings,309,410 Winthrop St,Brooklyn,11203,Outpatient,Outpatient Clinic,Operational,121
+2015,87030,Kings County Hospital Center (HHC),51909,King Co. Hosp. Ctr. (HHC) OP,Kings,309,410 Winthrop St,Brooklyn,11203,Outpatient,Outpatient Clinic,Operational,75
+2019,87030,Kings County Hospital Center (HHC),51909,King Co. Hosp. Ctr. (HHC) OP,Kings,309,410 Winthrop St,Brooklyn,11203,Outpatient,Outpatient Clinic,Operational,17
+2010,87030,Kings County Hospital Center (HHC),51913,King Co. Hosp. Ctr. (HHC) OP 1,Kings,303,722 Myrtle Ave,Brooklyn,11205,Outpatient,Outpatient Clinic,Closed,54
+2015,87030,Kings County Hospital Center (HHC),51913,King Co. Hosp. Ctr. (HHC) OP 1,Kings,303,722 Myrtle Ave,Brooklyn,11205,Outpatient,Outpatient Clinic,Closed,42
+2019,87030,Kings County Hospital Center (HHC),51913,King Co. Hosp. Ctr. (HHC) OP 1,Kings,303,722 Myrtle Ave,Brooklyn,11205,Outpatient,Outpatient Clinic,Closed,8
+2019,87030,Kings County Hospital Center (HHC),53162,Kings County Hospital Center OP R,Kings,303,722 Myrtle Ave,Brooklyn,11205,Outpatient,Outpatient Rehabilitation,Closed,6
+2019,87030,Kings County Hospital Center (HHC),53163,Kings County Hosp. Cntr. (HHC) OP R 1,Kings,309,410 Winthrop St,Brooklyn,11203,Outpatient,Outpatient Rehabilitation,Operational,44
+2010,87040,Elmhurst Hospital Center (HHC),320,Elmhurst Hospital Center (HHC) OTP,Queens,404,79‐01 Broadway,Elmhurst,11373,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,309
+2015,87040,Elmhurst Hospital Center (HHC),320,Elmhurst Hospital Center (HHC) OTP,Queens,404,79‐01 Broadway,Elmhurst,11373,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,278
+2019,87040,Elmhurst Hospital Center (HHC),320,Elmhurst Hospital Center (HHC) OTP,Queens,404,79‐01 Broadway,Elmhurst,11373,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,256
+2010,87040,Elmhurst Hospital Center (HHC),50223,Elmhurst Hospital OP,Queens,404,79‐01 Broadway,Elmhurst,11373,Outpatient,Outpatient Clinic,Operational,158
+2015,87040,Elmhurst Hospital Center (HHC),50223,Elmhurst Hospital OP,Queens,404,79‐01 Broadway,Elmhurst,11373,Outpatient,Outpatient Clinic,Operational,122
+2019,87040,Elmhurst Hospital Center (HHC),50223,Elmhurst Hospital OP,Queens,404,79‐01 Broadway,Elmhurst,11373,Outpatient,Outpatient Clinic,Operational,116
+2010,87040,Elmhurst Hospital Center (HHC),50224,Elmhurst Hospital Center CR,Queens,404,81‐30 Baxter Ave,Elmhurst,11373,Residential,Community Residential,Closed,28
+2015,87040,Elmhurst Hospital Center (HHC),50224,Elmhurst Hospital Center CR,Queens,404,81‐30 Baxter Ave,Elmhurst,11373,Residential,Community Residential,Closed,28
+2010,87050,Coney Island Hospital (HHC),7080,Coney Island Hospital MMD,Kings,313,2601 Ocean Pkwy,Brooklyn,11235,Crisis,Medical Managed Detoxification,Closed,11
+2015,87050,Coney Island Hospital (HHC),7080,Coney Island Hospital MMD,Kings,313,2601 Ocean Pkwy,Brooklyn,11235,Crisis,Medical Managed Detoxification,Closed,13
+2019,87050,Coney Island Hospital (HHC),7080,Coney Island Hospital MMD,Kings,313,2601 Ocean Pkwy,Brooklyn,11235,Crisis,Medical Managed Detoxification,Closed,11
+2010,87050,Coney Island Hospital (HHC),50320,Coney Island Hospital (HHC) OP,Kings,313,2925 W 19th St,Brooklyn,11224,Outpatient,Outpatient Clinic,Operational,196
+2015,87050,Coney Island Hospital (HHC),50320,Coney Island Hospital (HHC) OP,Kings,313,2925 W 19th St,Brooklyn,11224,Outpatient,Outpatient Clinic,Operational,141
+2019,87050,Coney Island Hospital (HHC),50320,Coney Island Hospital (HHC) OP,Kings,313,2925 W 19th St,Brooklyn,11224,Outpatient,Outpatient Clinic,Operational,143
+2010,87060,Queens Hospital Center,50298,Queens Hospital Ctr ‐ Med. Mgd. Detox,Queens,408,82‐68 164th St,Jamaica,11432,Crisis,Medical Managed Detoxification,Closed,15
+2010,87060,Queens Hospital Center,51908,Comprehensive CD Program OP,Queens,408,82‐50 164th St,Jamaica,11432,Outpatient,Outpatient Clinic,Operational,88
+2015,87060,Queens Hospital Center,51908,Comprehensive CD Program OP,Queens,408,82‐50 164th St,Jamaica,11432,Outpatient,Outpatient Clinic,Operational,67
+2019,87060,Queens Hospital Center,51908,Comprehensive CD Program OP,Queens,408,82‐50 164th St,Jamaica,11432,Outpatient,Outpatient Clinic,Operational,57
+2010,87090,Mount Sinai Morningside,1487,St. Luke's‐Roosevelt Hosp Center OTP,New York,104,429 W 58th St,New York,10019,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,259
+2015,87090,Mount Sinai Morningside,1487,St. Luke's‐Roosevelt Hosp Center OTP,New York,104,429 W 58th St,New York,10019,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,318
+2010,87090,Mount Sinai Morningside,6273,St. Lukes‐Roosevelt Hospital OP R,New York,104,1000 10th Ave,New York,10019,Outpatient,Outpatient Rehabilitation,Closed,75
+2015,87090,Mount Sinai Morningside,6273,St. Lukes‐Roosevelt Hospital OP R,New York,104,1000 10th Ave,New York,10019,Outpatient,Outpatient Rehabilitation,Closed,130
+2010,87090,Mount Sinai Morningside,8046,St. Lukes‐Roosevelt Hosp‐M.S. With/Inp,New York,104,1000 10th Ave,New York,10019,Crisis,Med Sup Withdrawal ‐ Inpatient,Closed,3
+2010,87090,Mount Sinai Morningside,50205,St. Lukes/Roosevelt Hosp‐Med Mgd Detox,New York,109,1111 Amsterdam Avenue ‐ 6th Flr,New York,10025,Crisis,Medical Managed Detoxification,Closed,26
+2010,87090,Mount Sinai Morningside,50206,Trinity House OP R,New York,109,411 W 114th St,New York,10025,Outpatient,Outpatient Rehabilitation,Closed,106
+2015,87090,Mount Sinai Morningside,50206,Trinity House OP R,New York,109,411 W 114th St,New York,10025,Outpatient,Outpatient Rehabilitation,Closed,59
+2010,87090,Mount Sinai Morningside,50208,St. Luke's Roosevelt Hosp CR,New York,107,306 W 102nd St,New York,10025,Residential,Community Residential,Closed,22
+2015,87090,Mount Sinai Morningside,50208,St. Luke's Roosevelt Hosp CR,New York,107,306 W 102nd St,New York,10025,Residential,Community Residential,Closed,22
+2010,87090,Mount Sinai Morningside,50257,Addiction Institute  IP,New York,104,1000 10th Ave,New York,10019,Inpatient Treatment,Inpatient Rehabilitation,Closed,29
+2015,87090,Mount Sinai Morningside,50257,Addiction Institute  IP,New York,104,1000 10th Ave,New York,10019,Inpatient Treatment,Inpatient Rehabilitation,Closed,9
+2010,87090,Mount Sinai Morningside,50259,St. Luke's‐Roosevelt Hosp OP 1,New York,104,1000 10th Ave,New York,10019,Outpatient,Outpatient Clinic,Closed,157
+2015,87090,Mount Sinai Morningside,50259,St. Luke's‐Roosevelt Hosp OP 1,New York,104,1000 10th Ave,New York,10019,Outpatient,Outpatient Clinic,Closed,216
+2010,87090,Mount Sinai Morningside,51117,Addiction Institute OP,New York,104,1000 10th Ave,New York,10019,Outpatient,Outpatient Clinic,Closed,25
+2015,87090,Mount Sinai Morningside,51117,Addiction Institute OP,New York,104,1000 10th Ave,New York,10019,Outpatient,Outpatient Clinic,Closed,23
+2010,87090,Mount Sinai Morningside,51750,Trinity House OP,New York,109,411 W 114th St,New York,10025,Outpatient,Outpatient Clinic,Closed,109
+2015,87090,Mount Sinai Morningside,51750,Trinity House OP,New York,109,411 W 114th St,New York,10025,Outpatient,Outpatient Clinic,Closed,104
+2015,87090,Mount Sinai Morningside,52663,St. Luke's Roosevelt Hosp Center MMD,New York,104,1000 10th Ave,New York,10019,Crisis,Medical Managed Detoxification,Closed,7
+2019,87090,Mount Sinai Morningside,53141,Mt. Sinai West MMD,New York,104,1000 10th Ave,New York,10019,Crisis,Medical Managed Detoxification,Operational,6
+2019,87090,Mount Sinai Morningside,53142,Trinity House OP,New York,109,411 W 114th St,New York,10025,Outpatient,Outpatient Clinic,Closed,63
+2019,87090,Mount Sinai Morningside,53143,Mount Sinai Morningside OP,New York,104,1000 10th Ave,New York,10019,Outpatient,Outpatient Clinic,Operational,19
+2019,87090,Mount Sinai Morningside,53144,Mount Sinai Morningside OP 1,New York,104,1000 10th Ave,New York,10019,Outpatient,Outpatient Clinic,Operational,281
+2019,87090,Mount Sinai Morningside,53145,Mount Sinai Morningside IP,New York,104,1000 10th Ave,New York,10019,Inpatient Treatment,Inpatient Rehabilitation,Operational,15
+2019,87090,Mount Sinai Morningside,53146,St. Luke's Roosevelt Hosp Hlfwy Hse CR,New York,107,306 W 102nd St,New York,10025,Residential,Community Residential,Operational,21
+2019,87090,Mount Sinai Morningside,53147,Trinity House OP R,New York,109,411 W 114th St,New York,10025,Outpatient,Outpatient Rehabilitation,Closed,27
+2019,87090,Mount Sinai Morningside,53148,Mount Sinai Morningside OP R,New York,104,1000 10th Ave,New York,10019,Outpatient,Outpatient Rehabilitation,Operational,176
+2019,87090,Mount Sinai Morningside,53149,Mount Sinai Morningside OTP,New York,104,429 W 58th St,New York,10019,Opioid Treatment Program,Opioid Outpatient Treatment,Operational,291
+2010,87130,St. Vincent's Catholic Medical Centers,312,SVCMC/NY Westchester MMTP Clinic 1,Kings,308,1480 Prospect Place,Brooklyn,11213,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,332
+2010,87130,St. Vincent's Catholic Medical Centers,315,St. Vincent's Wstchstr MMTP Clinic #2,Kings,308,635‐639 Classon Avenue,Brooklyn,11238,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,330
+2010,87130,St. Vincent's Catholic Medical Centers,421,St. Vincents Westchester ‐ OTC #3,Kings,316,211‐221 Powell Street,Brooklyn,11212,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,457
+2010,87130,St. Vincent's Catholic Medical Centers,662,"SVCMC Westchester, Alabama Ave MMTP",Kings,305,480 Alabama Avenue,Brooklyn,11207,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,394
+2010,87130,St. Vincent's Catholic Medical Centers,50311,St. Vincents Cath Med Ctr‐ CD OP,New York,102,203 West 12th Street,New York,10011,Outpatient,Outpatient Clinic,Closed,26
+2010,87130,St. Vincent's Catholic Medical Centers,52220,Methadone Substance Abuse Treatment,Queens,412,147‐20 Archer Avenue,Jamaica,11435,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,342
+2010,87130,St. Vincent's Catholic Medical Centers,52221,Methadone Treatment Program,Queens,412,147‐18 Archer Avenue,Jamaica,11435,Opioid Treatment Program,Opioid Outpatient Treatment,Closed,469
+2010,90008,Bronx Addiction Treatment Center,50740,Bronx ATC IP,Bronx,211,1500 Waters Pl,Bronx,10461,Inpatient Treatment,Inpatient Rehabilitation,Operational,32
+2015,90008,Bronx Addiction Treatment Center,50740,Bronx ATC IP,Bronx,211,1500 Waters Pl,Bronx,10461,Inpatient Treatment,Inpatient Rehabilitation,Operational,30
+2019,90008,Bronx Addiction Treatment Center,50740,Bronx ATC IP,Bronx,211,1500 Waters Pl,Bronx,10461,Inpatient Treatment,Inpatient Rehabilitation,Operational,34
+2010,90009,Creedmoor Addiction Treatment Center,50742,Creedmoor ATC IP,Queens,413,80‐45 Winchester Blvd.,Queens Village,11427,Inpatient Treatment,Inpatient Rehabilitation,Closed,24
+2015,90009,Creedmoor Addiction Treatment Center,50742,Creedmoor ATC IP,Queens,413,80‐45 Winchester Blvd.,Queens Village,11427,Inpatient Treatment,Inpatient Rehabilitation,Closed,20
+2019,90009,Creedmoor Addiction Treatment Center,53203,Creedmoor ATC SRh,Queens,413,80‐45 Winchester Blvd,Queens Village,11427,Residential,820 Stabil and Rehab,Operational,24
+2010,90012,South Beach Addiction Treatment Center,50748,South Beach ATC IP,Richmond,502,777 Seaview Ave,Staten Island,10305,Inpatient Treatment,Inpatient Rehabilitation,Operational,28
+2015,90012,South Beach Addiction Treatment Center,50748,South Beach ATC IP,Richmond,502,777 Seaview Ave,Staten Island,10305,Inpatient Treatment,Inpatient Rehabilitation,Operational,27
+2019,90012,South Beach Addiction Treatment Center,50748,South Beach ATC IP,Richmond,502,777 Seaview Ave,Staten Island,10305,Inpatient Treatment,Inpatient Rehabilitation,Operational,26
+2010,90014,Kingsboro Addiction Treatment Center,50744,Kingsboro ATC IP,Kings,303,754 Lexington Ave,Brooklyn,11221,Inpatient Treatment,Inpatient Rehabilitation,Closed,81
+2015,90014,Kingsboro Addiction Treatment Center,50744,Kingsboro ATC IP,Kings,303,754 Lexington Ave,Brooklyn,11221,Inpatient Treatment,Inpatient Rehabilitation,Closed,57
+2010,90014,Kingsboro Addiction Treatment Center,51996,Kingsboro ATC MSW IP,Kings,303,754 Lexington Ave,Brooklyn,11221,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,8
+2015,90014,Kingsboro Addiction Treatment Center,51996,Kingsboro ATC MSW IP,Kings,303,754 Lexington Ave,Brooklyn,11221,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,6
+2019,90014,Kingsboro Addiction Treatment Center,51996,Kingsboro ATC MSW IP,Kings,303,754 Lexington Ave,Brooklyn,11221,Crisis,Med Sup Withdrawal ‐ Inpatient,Operational,6
+2019,90014,Kingsboro Addiction Treatment Center,52967,Kingsboro ATC IP,Kings,303,754 Lexington Ave,Brooklyn,11221,Inpatient Treatment,Inpatient Rehabilitation,Closed,54
+2019,90014,Kingsboro Addiction Treatment Center,53442,Kingsboro ATC IP,Kings,303,754 Lexington Ave,Brooklyn,11221,Inpatient Treatment,Inpatient Rehabilitation,Operational,56

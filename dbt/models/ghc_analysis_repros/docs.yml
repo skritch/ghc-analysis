@@ -1,0 +1,51 @@
+version: 2
+
+models:
+  - name: methadone_facilities
+    description: |
+      Harlem only. OASAS data circa 2019. Likely incomplete.
+
+      Reproduction of data at: https://docs.google.com/spreadsheets/d/1fQE9StKf0OkEWe3HdudbSTiJ0X5LTPH_WGDwNaOetpk/edit#gid=0
+  - name: opioid_admissions_shawn_repro
+    description: |
+      Reproduction of opioid_admissions dataset.
+
+      Opioid Treatment Program Patient Admission Totals and Locations
+      Source: https://www.datawrapper.de/_/PLEoI/
+
+      Agrees on all but a handful of rows; perhaps due to assignment
+      of clinics to zip codes. A few are small, a few are large.
+
+      Of these I can only explain 10010/11215—they differ
+      by the same amount due to clinic 53132.
+  
+  - name: opioid_capacity
+    description: |
+      Opioid Treatment Program Capacity by Community District
+
+      (Is this a perfect repro? I think so.)
+      
+      Reproduction of data at: https://www.datawrapper.de/_/data-PnjOn/
+  - name: opioid_commuters
+    description: |
+      Reproduces data on https://greaterharlem.nyc/75-of-patients-sent-to-harlem-for-opioid-treatment-do-not-live-in-harlem/
+      directly from Shawn foil data.
+      
+      Also found on:
+      Opioid Treatment Commuters: Daily Trips Into Harlem and East Harlem
+      Source: https://www.datawrapper.de/_/data-sPnvw/
+  - name: opioid_commuters_candace
+    description:
+      Reproducing 'opioid commuters' logic based on the Candace FOIL 
+      dataset. 
+  - name: daily_chemical_enrollment_repro
+    description: |
+      Average Daily Enrollment in OASAS-certified Chemical Dependence Treatment Programs in 2019
+      
+      Imperfect reproduction of the other 'daily_chemical_enrollment' table;
+      over half the rows underreport relative to that table.
+  - name: daily_residential_enrollment
+    description: |
+      Change in Average Daily Enrollment in OASAS-certified Residential Treatment Programs from 2010 to 2019
+
+      Reproduction of data at: https://www.datawrapper.de/_/data-Ewe5U/

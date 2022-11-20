@@ -1,0 +1,15 @@
+dbt-postgres
+psycopg2
+sqlalchemy
+jupyter
+notebook
+pymc
+arviz
+pandas
+matplotlib
+sklearn
+seaborn
+scipy
+altair
+numpy
+nbdev

@@ -1,0 +1,33 @@
+version: 2
+
+models:
+  - name: programs
+    description: |
+      Dimension table of treatment programs appearing in either Candace or Yoni foils, + a few patched
+        in by hand.
+      * Data quality varies between the two.
+      * Add Shawn? Why didn't I include this the first time?
+  - name: districts
+    description: |
+      Dimension table of community districts.
+
+      Maybe ought to be derived from `nyc_ct_mapping` instead.
+  - name: zip_codes
+    description: |
+      Zip code to Borough mapping, and demographics, for 
+      NYC zip codes.
+
+      Borough table and names from https://github.com/erikgregorywebb/nyc-housing/blob/master/Data/nyc-zip-codes.csv
+      Demographics from https://data.cityofnewyork.us/City-Government/Zip-code-breakdowns/6bic-qvek
+      See uhfs table for UHF data source.
+  - name: uhfs
+    description: | 
+      United Hospital Fund Codes, an annoying unit of geography
+      used by some government agencies.
+
+      Based on manual data entry from https://www.nyc.gov/assets/doh/downloads/pdf/ah/zipcodetable.pdf
+      and https://www1.nyc.gov/assets/doh/downloads/pdf/data/appb.pdf
+
+      Demographics are aggregated from Zip Code data, could be double-checked
+      against e.g. https://www.prisonpolicy.org/origin/ny/uhf_districts.html
+
