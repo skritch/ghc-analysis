@@ -67,7 +67,7 @@ select
     shawn_patients.total_admissions_3 AS patient_admissions_5_2019,
     shawn_patients.harlem_admissions_3 AS harlem_patient_admissions_3_2019,
     op.opioid_burden AS opioid_burden_2019
-from {{ ref('zip_codes') }} 
+from {{ ref('zip_codes') }}  
     left join programs_by_zip using (zip_code) 
     left outer join shawn_patients using (zip_code)
     left outer join candace_patients using (zip_code)
