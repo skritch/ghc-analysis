@@ -3,11 +3,10 @@ psycopg2
 sqlalchemy
 jupyter
 notebook
-pymc
 arviz
 pandas
 matplotlib
-sklearn
+scikit-learn
 seaborn
 scipy
 altair
