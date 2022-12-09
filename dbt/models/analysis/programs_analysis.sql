@@ -2,7 +2,7 @@ with y as (
     select 
         program_number,
         current_certified_capacity
-    from {{ ref('yoni_foil') }}
+    from {{ ref('program_capacities_2019') }}
 ), sh as (
     select
         program_number,
@@ -10,7 +10,7 @@ with y as (
         sum(coalesce(total_admissions, 1)) as total_admissions_1,
         sum(coalesce(total_admissions, 3)) as total_admissions_3,
         sum(coalesce(total_admissions, 5)) as total_admissions_5
-    from {{ ref('shawn_foil') }}
+    from {{ ref('program_admissions_2019') }}
     group by 1
 ), ca as (
     select
@@ -19,7 +19,7 @@ with y as (
         sum(coalesce(total_admissions, 1)) as total_admissions_1,
         sum(coalesce(total_admissions, 3)) as total_admissions_3,
         sum(coalesce(total_admissions, 5)) as total_admissions_5
-    from {{ ref('candace_foil') }}
+    from {{ ref('program_admissions_2017') }}
     group by 1
 ), ch as (
     select
@@ -27,7 +27,7 @@ with y as (
         sum(case when year = '2010' then avg_daily_enrollment end) as avg_daily_enrollment_2010,
         sum(case when year = '2015' then avg_daily_enrollment end) as avg_daily_enrollment_2015,
         sum(case when year = '2019' then avg_daily_enrollment end) as avg_daily_enrollment_2019
-    from {{ ref('chan_foil') }}
+    from {{ ref('enrollment_by_year') }}
     group by 1
 )
 select 

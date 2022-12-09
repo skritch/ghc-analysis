@@ -1,5 +1,6 @@
 select 
     borough_district_code,
+    borough_district_code % 100 AS district_code,
     borough_name,
     replace(community_board_name, '  ', ' ') AS community_board_name,
     replace(community_board_name_short, '  ', ' ') AS district_name,

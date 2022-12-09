@@ -6,7 +6,7 @@ WITH enrollments AS (
         borough_district_code,
         district_name,
         SUM(avg_daily_enrollment) AS enrollment
-    FROM {{ ref('chan_foil') }}
+    FROM {{ ref('enrollment_by_year') }}
     LEFT JOIN {{ ref('districts') }} using (borough_district_code)
     WHERE year IN ('2010', '2019')
         AND program_category IN ('Residential')

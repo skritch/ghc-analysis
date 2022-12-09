@@ -13,15 +13,17 @@ models:
   - name: community_beds_1999_2014
     description: |
       Source: https://council.nyc.gov/wp-content/uploads/2017/02/2017-Fair-Share-Report.pdf
-  - name: yoni_foil
+  - name: program_capacities_2019
     description: |
       From the "Yoni" dataset at https://docs.google.com/spreadsheets/d/1tviZSw2mquSho6HGktABbiv6nWvH478l/edit#gid=976139936
       Originally via FOIL request.
       This may not be the original dataset.
 
       I've separately seen this labeled as being from 2019 or 2020.
-  - name: shawn_foil
+  - name: program_admissions_2019
     description: |
+      Based on Shawn FOIL.
+      
       Title: Admission to OASAS‐certified OP and Opioid Treatment Programs in NYC by Zip Code of Residence.
         March 1, 2019 through February 29, 2020.
       Date: 11/1/2020
@@ -36,8 +38,10 @@ models:
       3. Some programs listed in the data table may no longer be in operation.
       4. Zip Code of Residence at Admission is the zip code reported by the client.
       5. Program level Zip Code admissions between 1 and 5 are redacted with the letter "R" for client confidentiality.
-  - name: candace_foil
+  - name: program_admissions_2017
     description: |
+      Base on Candace FOIL.
+
       Title: Admissions to OASAS‐certified Opioid Treatment Programs by Zip Code of Residence, Calendar Year 2017
       Date: Data Source: NYS OASAS Data Warehouse, CDS extract of 12/1/2018
 
@@ -52,8 +56,10 @@ models:
 
       Source: https://drive.google.com/drive/folders/1cOKh2AOyJHlGuTtUxJ5FWldWqWBj8m9S and there's a public link
       somewhere.
-  - name: chan_foil
+  - name: enrollment_by_year
     description: |
+      Base on Chan FOIL.
+
       Title: Average Daily Enrollment in NYC OASAS‐certified Chemical Dependence Treatment Programs During CY 2010, 2015,and 2019.
       Date: 6/23/2021
 
@@ -120,4 +126,18 @@ models:
       Source: https://drive.google.com/file/d/1qj_H38t9rRbi_xnmZh5umxpVS2kN4cfo/view
       With commentary at https://www1.nyc.gov/assets/doh/downloads/pdf/epi/databrief129.pdf
       via extract at https://docs.google.com/spreadsheets/d/1BFBdRYtOhDrqatyF02N8NWDGzDBSgyyAy5io01qk7NE/edit#gid=0
+  - name: shelter_census
+    description: |
+      Homeless shelter population data.
+
+      Source for census: https://data.cityofnewyork.us/Social-Services/Individual-Census-by-Borough-Community-District-an/veav-vj3r
+      Extracted 2022-12-07; updates monthly.
+
+      Source for cases / "associated address" (is this citing where the shelter population came from?)
+      https://data.cityofnewyork.us/Social-Services/Associated-Address-by-Borough-and-Community-Distri/ur7y-ziyb
+
+
+      Could join in:
+      https://data.cityofnewyork.us/Social-Services/Buildings-by-Borough-and-Community-District/3qem-6v3v
+
 

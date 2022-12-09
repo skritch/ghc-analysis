@@ -15,4 +15,4 @@ select
     current_certified_capacity,
     COALESCE(capacity_lift_indicator = 'TRUE', false) AS has_capacity_lift,
     TO_DATE(date_operational, 'FMMM/FMDD/YYYY') AS date_operational
-from {{ ref('yoni_2019_foil_raw') }}
+from {{ ref('yoni_foil') }}

@@ -1,4 +1,4 @@
-with shawn_patients as (
+with patients_2019 as (
     select
         patient_zip_code AS zip_code,
         sum(coalesce(total_admissions, 1)) as total_admissions_1,
@@ -6,11 +6,11 @@ with shawn_patients as (
         sum(coalesce(total_admissions, 5)) as total_admissions_5,
         sum(case when p.borough_district_code in (109, 110, 111) 
             then coalesce(total_admissions, 3) end) as harlem_admissions_3
-    from {{ ref('shawn_foil') }}
+    from {{ ref('program_admissions_2019') }}
         join {{ ref('programs') }} as p using (program_number)
     where p.program_category = 'Opioid Treatment Program'
     group by 1
-), candace_patients as (
+), patients_2017 as (
     select
         patient_zip_code AS zip_code,
         sum(coalesce(total_admissions, 1)) as total_admissions_1,
@@ -18,7 +18,7 @@ with shawn_patients as (
         sum(coalesce(total_admissions, 5)) as total_admissions_5,
         sum(case when p.borough_district_code in (109, 110, 111) 
             then coalesce(total_admissions, 3) end) as harlem_admissions_3
-    from {{ ref('candace_foil') }}
+    from {{ ref('program_admissions_2017') }}
         join {{ ref('programs') }} as p using (program_number)
     where p.program_category = 'Opioid Treatment Program'
     group by 1
@@ -58,17 +58,17 @@ select
     programs_by_zip.avg_daily_enrollment_2010,
     programs_by_zip.avg_daily_enrollment_2015,
     programs_by_zip.avg_daily_enrollment_2019,
-    candace_patients.total_admissions_3 AS patient_admissions_1_2017,
-    candace_patients.total_admissions_3 AS patient_admissions_3_2017,
-    candace_patients.total_admissions_3 AS patient_admissions_5_2017,
-    candace_patients.harlem_admissions_3 AS harlem_patient_admissions_3_2017,
-    shawn_patients.total_admissions_3 AS patient_admissions_1_2019,
-    shawn_patients.total_admissions_3 AS patient_admissions_3_2019,
-    shawn_patients.total_admissions_3 AS patient_admissions_5_2019,
-    shawn_patients.harlem_admissions_3 AS harlem_patient_admissions_3_2019,
+    patients_2017.total_admissions_3 AS patient_admissions_1_2017,
+    patients_2017.total_admissions_3 AS patient_admissions_3_2017,
+    patients_2017.total_admissions_3 AS patient_admissions_5_2017,
+    patients_2017.harlem_admissions_3 AS harlem_patient_admissions_3_2017,
+    patients_2019.total_admissions_3 AS patient_admissions_1_2019,
+    patients_2019.total_admissions_3 AS patient_admissions_3_2019,
+    patients_2019.total_admissions_3 AS patient_admissions_5_2019,
+    patients_2019.harlem_admissions_3 AS harlem_patient_admissions_3_2019,
     op.opioid_burden AS opioid_burden_2019
 from {{ ref('zip_codes') }}  
     left join programs_by_zip using (zip_code) 
-    left outer join shawn_patients using (zip_code)
-    left outer join candace_patients using (zip_code)
+    left outer join patients_2019 using (zip_code)
+    left outer join patients_2017 using (zip_code)
     left join {{ ref('ny_zip_opioid_burden_2019') }} op using (zip_code)

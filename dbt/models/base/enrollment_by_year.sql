@@ -13,7 +13,7 @@ WITH base as (
         "Zip Code" as address_zip_code,
         "County" as address_county,
         "Average Daily Enrollment" as avg_daily_enrollment
-    from {{ ref('chan_foil_full') }}
+    from {{ ref('chan_foil') }}
 )
 SELECT *
 FROM base

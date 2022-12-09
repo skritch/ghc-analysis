@@ -17,7 +17,7 @@ WITH cleaned AS (
         "Zip Code of Residence" as patient_zip_code,
         NULLIF("Total Admissions", 'R')::INT as total_admissions,
         COALESCE("Total Admissions" = 'R', True) as is_redacted
-    from {{ ref('candace_foil_full') }}
+    from {{ ref('candace_foil') }}
 )
 SELECT * FROM cleaned
 where 

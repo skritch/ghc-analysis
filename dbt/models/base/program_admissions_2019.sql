@@ -27,7 +27,7 @@ WITH cleaned as (
         "Zip Code of Residence at Admission" as patient_zip_code,
         "Admissions"::INT as total_admissions,
         "Admissions" IS NULL as is_redacted
-    from {{ ref('shawn_foil_raw') }}
+    from {{ ref('shawn_foil') }}
 )
 SELECT *
 FROM cleaned

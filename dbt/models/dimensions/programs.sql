@@ -16,7 +16,7 @@ WITH yoni_records as (
         longitude,
         date_operational,
         'yoni' AS _record_source
-    FROM {{ ref('yoni_foil') }}
+    FROM {{ ref('program_capacities_2019') }}
         LEFT JOIN {{ ref('missing_program_zip_codes') }} AS missing 
             USING (program_number)
     -- 2019 snapshot
@@ -39,7 +39,7 @@ chan_records as (
         address_county,
         COALESCE(address_zip_code, missing.zip_code) AS address_zip_code,
         'chan' as _record_source
-    from {{ ref('chan_foil') }}
+    from {{ ref('enrollment_by_year') }}
         LEFT JOIN {{ ref('missing_program_zip_codes') }} AS missing 
             USING (program_number)
 ),
@@ -91,7 +91,7 @@ combined AS (
         NULL :: REAL AS longitude,
         NULL :: DATE AS date_operational,
         'candace' AS _record_source
-    FROM {{ ref('candace_foil') }}
+    FROM {{ ref('program_admissions_2017') }}
     WHERE program_number NOT IN (select program_number from base)
 
 
@@ -114,7 +114,7 @@ combined AS (
         NULL :: REAL AS longitude,
         NULL :: DATE AS date_operational,
         'shawn' AS _record_source
-    FROM {{ ref('shawn_foil') }}
+    FROM {{ ref('program_admissions_2019') }}
     WHERE program_number NOT IN (select program_number from base)
 )
 SELECT

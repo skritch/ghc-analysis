@@ -40,16 +40,16 @@ seeds:
     missing_program_zip_codes:
       +column_types:
         zip_code: text
-    candace_foil_full:
+    candace_foil:
       +column_types:
         "Zip Code of Residence": text
-    chan_foil_full:
+    chan_foil:
       +column_types:
         "Zip Code": text
     data_methadone_facilities:
       +column_types:
         "Zip Code": text
-    shawn_foil_raw:
+    shawn_foil:
       +column_types:
         "Zip Code of Residence at Admission": text
     yoni_2019_foil_raw:
