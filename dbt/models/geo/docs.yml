@@ -1,0 +1,34 @@
+version: 2
+
+models:
+  - name: geo_codes
+    description: |
+      Boros, CDs (districts), 2020 NTAs (?), and 2020 CTs (census tracts) all stacked.
+      Source: https://www1.nyc.gov/site/planning/planning-level/nyc-population/2020-census.page
+        via https://docs.google.com/spreadsheets/d/1tviZSw2mquSho6HGktABbiv6nWvH478l/edit#gid=525369975
+  - name: census_blocks
+    description: |
+      2020 Census block geometries, with nta, cdta, boro dimensions joined in via census tracts.
+      The wkb_geometry is given in "esri projection 102718" (https://spatialreference.org/ref/esri/102718/)
+      Source: 
+        Tracts and blocks are from https://www.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page
+        loaded via script load_census_geo_data.sh
+  - name: nyc_ct_mapping
+    description: |
+      Unqiue Identifier for 2020 census tracts - the first digit is the County FIPS code, and the last 6 digits are the zero-filled census tract number. This can be used with BYTES of the Big Apple datasets: https://www1.nyc.gov/site/planning/data-maps/open-data.page#district_political
+      Federal unique ID for counties (005=Bronx, 047=Kings, 061=New York, 081=Queens, 085=Richmond)
+      Borough in which the census tract is located. (1=Manhattan, 2=The Bronx, 3=Brooklyn, 4=Queens, 5=Staten Island)
+      Borough name for the borough in which the census tract is located.
+      Unqiue Identifier for 2020 census tracts - merged string value of the BoroCode and census tract number
+      2020 census tract number
+      The census tract identifier. Each census tract number is unique to its borough
+      Unique alphanumeric identifier for each Neighborhood Tabulation Area (NTA). Includes  6 characters: 2 alpha for borough, 2 numeric matching CDTA number, 1 numberic indicating NTA Type, and 1 numeric to create unique ID
+      The NTA type differentiates between residential and various non-residential geographies. It is also the 5th character of the NTA code. [0 = Residential, 9 = Park, 8 = Airport, 7 = Cemetery, 6 = Other Special Areas (including forts, navy yard, etc), 5 = Rikers Island]
+      Full NTA name [e.g., East New York (North)]
+      Shortened version of NTA name (e.g., ENY_N)
+      Unique alphanumeric identifier representing Community District Tabulation Areas (CDTA). Includes 4 characters: 2 alpha characters representing the borough and 2 numeric characters matching the CD number
+      Differentiates between CDTAS which represent a community district (CD) or a joint interest area - areas outside of community districts (JIA)
+      Full name of CDTA [e.g., BK05 East New York-Cypress Hills (CD 5 Approximation)]
+      
+      Source: https://www1.nyc.gov/site/planning/planning-level/nyc-population/nyc-population-geographic-relationships.page
+      Source (I think): https://www1.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page

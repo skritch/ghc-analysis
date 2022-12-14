@@ -52,7 +52,7 @@ seeds:
     shawn_foil:
       +column_types:
         "Zip Code of Residence at Admission": text
-    yoni_2019_foil_raw:
+    yoni_foil:
       +column_types:
         "zip_code": text
     data-Um233:

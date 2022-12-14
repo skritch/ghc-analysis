@@ -6,7 +6,7 @@ models:
       Harlem only. OASAS data circa 2019. Likely incomplete.
 
       Reproduction of data at: https://docs.google.com/spreadsheets/d/1fQE9StKf0OkEWe3HdudbSTiJ0X5LTPH_WGDwNaOetpk/edit#gid=0
-  - name: opioid_admissions_shawn_repro
+  - name: opioid_admissions_2019
     description: |
       Reproduction of opioid_admissions dataset.
 

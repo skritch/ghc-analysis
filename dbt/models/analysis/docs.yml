@@ -1,10 +1,10 @@
 version: 2
 
 models:
-  - name: district_anaysis
+  - name: district_otp_anaysis
     description: |
       Fact table aggregating OTP FOIL data by community district.
-  - name: zip_code_analysis
+  - name: zip_code_otp_analysis
     description: |
       Fact table aggregating OTP FOIL data by zip code.
       Only includes NYC zip codes.
