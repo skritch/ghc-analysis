@@ -4,6 +4,8 @@ with patients_2019 as (
         sum(coalesce(total_admissions, 1)) as total_admissions_1,
         sum(coalesce(total_admissions, 3)) as total_admissions_3,
         sum(coalesce(total_admissions, 5)) as total_admissions_5,
+        sum(case when p.address_zip_code = patient_zip_code
+            then coalesce(total_admissions, 3) end) as in_zip_admissions_3,
         sum(case when p.borough_district_code in (109, 110, 111) 
             then coalesce(total_admissions, 3) end) as harlem_admissions_3
     from {{ ref('program_admissions_2019') }}
@@ -16,6 +18,8 @@ with patients_2019 as (
         sum(coalesce(total_admissions, 1)) as total_admissions_1,
         sum(coalesce(total_admissions, 3)) as total_admissions_3,
         sum(coalesce(total_admissions, 5)) as total_admissions_5,
+        sum(case when p.address_zip_code = patient_zip_code
+            then coalesce(total_admissions, 3) end) as in_zip_admissions_3,
         sum(case when p.borough_district_code in (109, 110, 111) 
             then coalesce(total_admissions, 3) end) as harlem_admissions_3
     from {{ ref('program_admissions_2017') }}
@@ -61,14 +65,16 @@ select
     patients_2017.total_admissions_3 AS patient_admissions_1_2017,
     patients_2017.total_admissions_3 AS patient_admissions_3_2017,
     patients_2017.total_admissions_3 AS patient_admissions_5_2017,
+    patients_2017.in_zip_admissions_3 AS in_zip_admissions_3_2017,
     patients_2017.harlem_admissions_3 AS harlem_patient_admissions_3_2017,
     patients_2019.total_admissions_3 AS patient_admissions_1_2019,
     patients_2019.total_admissions_3 AS patient_admissions_3_2019,
     patients_2019.total_admissions_3 AS patient_admissions_5_2019,
+    patients_2019.in_zip_admissions_3 AS in_zip_admissions_3_2019,
     patients_2019.harlem_admissions_3 AS harlem_patient_admissions_3_2019,
     op.opioid_burden AS opioid_burden_2019
 from {{ ref('zip_codes') }}  
-    left join programs_by_zip using (zip_code) 
+    left outer join programs_by_zip using (zip_code) 
     left outer join patients_2019 using (zip_code)
     left outer join patients_2017 using (zip_code)
-    left join {{ ref('ny_zip_opioid_burden_2019') }} op using (zip_code)
+    left outer join {{ ref('ny_zip_opioid_burden_2019') }} op using (zip_code)

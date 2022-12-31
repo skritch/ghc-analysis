@@ -2,7 +2,7 @@
 {{ config(
     materialized = 'table',
     indexes=[
-      {'columns': ['bounding_geography'], 'type': 'gist'},
+      {'columns': ['boundary'], 'type': 'gist'},
     ]
 )}}
 
@@ -19,7 +19,7 @@ SELECT
     cdtaname as cdta_name,
     shape_leng as shape_length,
     shape_area,
-    ST_Transform(ST_SetSRID(wkb_geometry, 102718), 4326) :: geography AS bounding_geography,
+    ST_Transform(ST_SetSRID(wkb_geometry, 102718), 4326) :: geography AS boundary,
 
     -- Note "approximation" or "equivalent"
     ({{ parse_district_code('cdtaname') }}) AS district_code,

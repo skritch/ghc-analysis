@@ -17,6 +17,8 @@ select
     sum(avg_daily_enrollment_2019) AS avg_daily_enrollment_2019,
     sum(patient_admissions_3_2017) AS patient_admissions_3_2017,
     sum(patient_admissions_3_2019) AS patient_admissions_3_2019,
+    sum(harlem_patient_admissions_3_2019) AS harlem_patient_admissions_3_2017,
+    sum(harlem_patient_admissions_3_2019) AS harlem_patient_admissions_3_2019,
     sum(opioid_burden_2019) AS opioid_burden_2019
 from {{ ref('zip_code_otp_analysis') }}
     left join {{ ref('zip_codes') }} AS z using (zip_code)

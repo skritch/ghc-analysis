@@ -9,12 +9,12 @@ WITH yoni_records as (
         provider_name,
         borough_district_code,
         address_full,
-        NULL AS address_street,
         address_county,
         COALESCE({{ parse_zip_code('address_full') }}, missing.zip_code) AS address_zip_code,
         latitude,
         longitude,
         date_operational,
+        current_certified_capacity AS capacity_estimate,
         'yoni' AS _record_source
     FROM {{ ref('program_capacities_2019') }}
         LEFT JOIN {{ ref('missing_program_zip_codes') }} AS missing 
@@ -34,10 +34,13 @@ chan_records as (
         provider_number,
         provider_name,
         borough_district_code,
-        NULL AS address_full,
-        address_street,
+        address_full,
         address_county,
         COALESCE(address_zip_code, missing.zip_code) AS address_zip_code,
+        latitude,
+        longitude,
+        MAX(avg_daily_enrollment) OVER (PARTITION BY program_number) as capacity_estimate,
+        _is_geocoded,
         'chan' as _record_source
     from {{ ref('enrollment_by_year') }}
         LEFT JOIN {{ ref('missing_program_zip_codes') }} AS missing 
@@ -45,7 +48,6 @@ chan_records as (
 ),
 base AS (
     SELECT 
-        -- TODO: this definitely risks having dupes if the DISTINCTs fail
         program_number,
         COALESCE(f.program_name, i.program_name) AS program_name,
         COALESCE(f.program_category, i.program_category) AS program_category,
@@ -57,12 +59,13 @@ base AS (
         COALESCE(f.provider_name, i.provider_name) AS provider_name,
         COALESCE(f.borough_district_code, i.borough_district_code) AS borough_district_code,
         COALESCE(f.address_full, i.address_full) AS address_full,
-        COALESCE(f.address_street, i.address_street) AS address_street,
         COALESCE(f.address_county, i.address_county) AS address_county,
         COALESCE(f.address_zip_code, i.address_zip_code) AS address_zip_code,
-        latitude,
-        longitude,
+        COALESCE(f.latitude, i.latitude) AS latitude,
+        COALESCE(f.longitude, i.longitude) AS longitude,
         date_operational,
+        COALESCE(f.capacity_estimate, i.capacity_estimate) AS capacity_estimate,
+        i._is_geocoded OR false AS _is_geocoded,
         COALESCE(f._record_source, i._record_source) AS _record_source
     FROM yoni_records f
     FULL OUTER JOIN chan_records i USING (program_number)
@@ -72,7 +75,8 @@ combined AS (
         *
     FROM base
 
-    UNION ALL 
+    UNION 
+    -- This definitely risks having dupes if the DISTINCTs fail
 
     SELECT DISTINCT
         program_number,
@@ -84,18 +88,19 @@ combined AS (
         NULL AS provider_name,
         NULL :: INT AS borough_district_code,
         NULL AS address_full,
-        NULL AS address_street,
         address_county,
         NULL AS address_zip_code,
         NULL :: REAL AS latitude,
         NULL :: REAL AS longitude,
         NULL :: DATE AS date_operational,
+        SUM(COALESCE(total_admissions, 3)) OVER (PARTITION BY program_number) AS capacity_estimate,
+        false AS _is_geocoded,
         'candace' AS _record_source
     FROM {{ ref('program_admissions_2017') }}
     WHERE program_number NOT IN (select program_number from base)
 
 
-    UNION ALL 
+    UNION 
 
     SELECT DISTINCT
         program_number,
@@ -107,12 +112,13 @@ combined AS (
         provider_name,
         NULL :: INT AS borough_district_code,
         NULL AS address_full,
-        NULL AS address_street,
         NULL AS address_county,
         NULL AS address_zip_code,
         NULL :: REAL AS latitude,
         NULL :: REAL AS longitude,
         NULL :: DATE AS date_operational,
+        SUM(COALESCE(total_admissions, 3)) OVER (PARTITION BY program_number) AS capacity_estimate,
+        false AS _is_geocoded,
         'shawn' AS _record_source
     FROM {{ ref('program_admissions_2019') }}
     WHERE program_number NOT IN (select program_number from base)

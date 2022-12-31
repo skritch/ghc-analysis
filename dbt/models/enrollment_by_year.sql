@@ -15,7 +15,13 @@ WITH base as (
         "Average Daily Enrollment" as avg_daily_enrollment
     from {{ ref('chan_foil') }}
 )
-SELECT *
+SELECT 
+    base.*,
+    address_street || ' ' || {{ nyc_county_to_city('address_county') }} || ', ' || address_zip_code AS address_full,
+    g.latitude,
+    g.longitude,
+    g.latitude IS NOT NULL AS _is_geocoded
 FROM base
 -- 9 rows, with nulls for enrollment as well
+    LEFT JOIN {{ ref('geocoded_otps') }} g USING (program_number)
 WHERE year IS NOT NULL

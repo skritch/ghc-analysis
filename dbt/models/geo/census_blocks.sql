@@ -1,7 +1,7 @@
 {{ config(
     materialized = 'table',
     indexes=[
-      {'columns': ['bounding_geography'], 'type': 'gist'},
+      {'columns': ['boundary'], 'type': 'gist'},
     ]
 )}}
 
@@ -14,7 +14,7 @@ SELECT
     b.boroname as borough_name,
     b.shape_leng as shape_length,
     b.shape_area,
-    ST_Transform(ST_SetSRID(b.wkb_geometry, 102718), 4326) :: geography AS bounding_geography,
+    ST_Transform(ST_SetSRID(b.wkb_geometry, 102718), 4326) :: geography AS boundary,
 
     -- Unique key for tract
     t.boroct2020,

@@ -112,7 +112,6 @@ models:
       Source for cases / "associated address" (is this citing where the shelter population came from?)
       https://data.cityofnewyork.us/Social-Services/Associated-Address-by-Borough-and-Community-Distri/ur7y-ziyb
 
-
       Could join in:
       https://data.cityofnewyork.us/Social-Services/Buildings-by-Borough-and-Community-District/3qem-6v3v
   - name: arrests
@@ -122,5 +121,13 @@ models:
       (PostGIS srid = 4326)
       Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data  
       Dictionary at https://drive.google.com/drive/folders/12Zmy0EjV3iSXnwhh24zsS93ptI0Qs-BR
+  - name: nypd_precincts
+    description: |
+      Geographic locations and bounding boxes of NYPD police precincts.
 
+      Locations come from https://www.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page 
+      geocoded with Here API via `geocode_csv.py` script, then hand-editing 3 lat/lons that appear 
+      way out in Long Island.
 
+      Geometries are from https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz 
+      loaded via `load_geo_data.sh` script.

@@ -9,10 +9,17 @@ models:
   - name: census_blocks
     description: |
       2020 Census block geometries, with nta, cdta, boro dimensions joined in via census tracts.
-      The wkb_geometry is given in "esri projection 102718" (https://spatialreference.org/ref/esri/102718/)
+      The wkb_geometry is given as "esri projection 102718" (https://spatialreference.org/ref/esri/102718/)
       Source: 
         Tracts and blocks are from https://www.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page
-        loaded via script load_census_geo_data.sh
+        loaded via script load_geo_data.sh
+  - name: census_tracts
+    description: |
+      2020 Census tract geometries.
+      The wkb_geometry is given as "esri projection 102718" (https://spatialreference.org/ref/esri/102718/)
+      Source: 
+        Tracts and blocks are from https://www.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page
+        loaded via script load_geo_data.sh
   - name: nyc_ct_mapping
     description: |
       Unqiue Identifier for 2020 census tracts - the first digit is the County FIPS code, and the last 6 digits are the zero-filled census tract number. This can be used with BYTES of the Big Apple datasets: https://www1.nyc.gov/site/planning/data-maps/open-data.page#district_political
