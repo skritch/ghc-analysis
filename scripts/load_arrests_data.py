@@ -29,7 +29,7 @@ def transform_row(row):
         row['Longitude']
     )
 
-def load(f, table):
+def load(f, table, replace):
     reader = csv.DictReader(f)
     create_table_sql = f"""
     CREATE TABLE IF NOT EXISTS {table} (
@@ -50,7 +50,8 @@ def load(f, table):
     with psycopg2.connect(db_url) as con, \
         con.cursor() as cur:
         cur.execute(create_table_sql)
-        cur.execute(f'DELETE FROM {table}')
+        if replace:
+            cur.execute(f'DELETE FROM {table}')
 
         psycopg2.extras.execute_values(
                 cur,
@@ -63,5 +64,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--table', type=str, default='nypd_arrests')
     parser.add_argument('file', type=argparse.FileType('r'))
+    parser.add_argument('--replace', action='store_true')
     args = parser.parse_args()
-    load(args.file, args.table)
+    load(args.file, args.table, args.replace)

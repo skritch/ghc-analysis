@@ -13,6 +13,12 @@ models:
   - name: community_beds_1999_2014
     description: |
       Source: https://council.nyc.gov/wp-content/uploads/2017/02/2017-Fair-Share-Report.pdf
+  - name: programs
+    description: |
+      Dimension table of treatment programs appearing in either Candace or Yoni foils, + a few patched
+        in by hand.
+      * Data quality varies between the two.
+      * Add Shawn? Why didn't I include this the first time?
   - name: program_capacities_2019
     description: |
       From the "Yoni" dataset at https://docs.google.com/spreadsheets/d/1tviZSw2mquSho6HGktABbiv6nWvH478l/edit#gid=976139936

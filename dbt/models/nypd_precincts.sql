@@ -1,3 +1,10 @@
+{{ config(
+    materialized = 'table',
+    indexes=[
+      {'columns': ['boundary'], 'type': 'gist'},
+    ]
+)}}
+
 WITH geometries AS (
     SELECT
         precinct,

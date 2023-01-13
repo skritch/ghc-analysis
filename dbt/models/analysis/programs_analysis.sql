@@ -1,3 +1,7 @@
+/*
+Note: includes non-OTPs!
+*/
+
 with y as (
     select 
         program_number,
