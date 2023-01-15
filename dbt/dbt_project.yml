@@ -73,3 +73,7 @@ seeds:
     uhf_to_zip_raw:
       +column_types:
         "zip_code": text
+    blocks_along_125:
+      +column_types:
+        "bctcb2020": text
+

@@ -12,6 +12,8 @@ Spreading arrests within 100M of the precinct.
     * Assign their arrest counts to the mean density
     * Spread the remainder over the entire precinct in proportion
         to the area from (2)
+
+This really needs to be yearly or something.
 */
 
 with blocks as (
@@ -35,7 +37,7 @@ arrests_by_block as (
             (offense_category in ('Property', 'Disorder', 'Drugs', 'Major'))::int
         ) as block_arrests
     from blocks
-        left join arrests using (bctcb2020, precinct)
+        left join {{ ref('arrests') }} using (bctcb2020, precinct)
     -- todo: filter maybe
     group by 1, 2
 ),
