@@ -7,6 +7,6 @@ SELECT
     100000 * sum(census_total) ::float / sum(population_2020) AS "Shelter Residents/100k",
     100000 * sum(adult_shelter) ::float / sum(population_2020) AS "Adult-only Shelter Residents/100k"
 FROM {{ ref('shelter_population') }}
-    JOIN {{ ref('districts') }} USING (borough_district_code)
+    JOIN {{ ref('community_districts') }} USING (borough_district_code)
 WHERE _is_most_recent_report
 GROUP BY 1

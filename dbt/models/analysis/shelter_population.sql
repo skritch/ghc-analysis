@@ -69,5 +69,5 @@ SELECT
     a.total_individuals_associated
 from census as c
     full outer join addresses as a using (report_date, borough_name, district_code)
-    left join districts d using (borough_name, district_code)
+    left join {{ ref('community_districts') }} d using (borough_name, district_code)
     full outer join buildings as b using (report_date, borough_district_code)

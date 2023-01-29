@@ -15,7 +15,7 @@ select
     sum(avg_daily_enrollment_2019) AS avg_daily_enrollment_2019
 from {{ ref('programs_analysis') }}
     left join {{ ref('programs') }} as p using (program_number)
-    left join {{ ref('districts') }} as d using (borough_district_code)
+    left join {{ ref('community_districts') }} as d using (borough_district_code)
 -- A couple of programs can't be match to a district
 where borough_district_code is not null
     and program_category = 'Opioid Treatment Program'

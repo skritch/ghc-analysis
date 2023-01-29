@@ -1,18 +1,11 @@
 version: 2
 
 models:
-  - name: homeless_shelters
-    description: |
-      Homeless Shelter Population by Community District
-      Source: https://www.datawrapper.de/_/data-qqf5E/
   - name: daily_chemical_enrollment
     description: |
       Average Daily Enrollment in OASAS-certified Chemical Dependence Treatment Programs in 2019
       
       Source: https://www.datawrapper.de/_/data-kw8ZS/
-  - name: community_beds_1999_2014
-    description: |
-      Source: https://council.nyc.gov/wp-content/uploads/2017/02/2017-Fair-Share-Report.pdf
   - name: programs
     description: |
       Dimension table of treatment programs appearing in either Candace or Yoni foils, + a few patched
@@ -77,15 +70,6 @@ models:
       3. ADE is calculated at the program level and takes into account the length of time a program was open within a given year (based on operational start and end dates).
       4. Data include Significant Others (Outpatient programs only).
       5. Current Status and Current Community District are based on the date of the data extract.
-  - name: ny_zcta_demographics
-    description: |
-      2020 *estimate*, could not find the full 2020 census results by ZCTA.
-
-      Populations by census tract are also available, and could be mapped
-      to neighborhoods that way.
-
-      Source: https://data.census.gov/cedsci/table?t=Populations%20and%20People&g=0400000US36%248600000&y=2020
-      Pre-cleaned to just populations and a few demographic columns in google docs.
   - name: ny_county_od_trend
     description: |
       County trend data export, indicator OP51, data for 2010-2019, downloaded Nov 2022.
@@ -108,32 +92,3 @@ models:
       Source: https://drive.google.com/file/d/1qj_H38t9rRbi_xnmZh5umxpVS2kN4cfo/view
       With commentary at https://www1.nyc.gov/assets/doh/downloads/pdf/epi/databrief129.pdf
       via extract at https://docs.google.com/spreadsheets/d/1BFBdRYtOhDrqatyF02N8NWDGzDBSgyyAy5io01qk7NE/edit#gid=0
-  - name: shelter_census
-    description: |
-      Homeless shelter population data.
-
-      Source for census: https://data.cityofnewyork.us/Social-Services/Individual-Census-by-Borough-Community-District-an/veav-vj3r
-      Extracted 2022-12-07; updates monthly.
-
-      Source for cases / "associated address" (is this citing where the shelter population came from?)
-      https://data.cityofnewyork.us/Social-Services/Associated-Address-by-Borough-and-Community-Distri/ur7y-ziyb
-
-      Could join in:
-      https://data.cityofnewyork.us/Social-Services/Buildings-by-Borough-and-Community-District/3qem-6v3v
-  - name: arrests
-    description: |
-      Loaded via load_arrest_data.py script.
-      Lat/lon are in Global Coordinate System WGS 1984 decimal degrees (EPSG 4326).
-      (PostGIS srid = 4326)
-      Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data  
-      Dictionary at https://drive.google.com/drive/folders/12Zmy0EjV3iSXnwhh24zsS93ptI0Qs-BR
-  - name: nypd_precincts
-    description: |
-      Geographic locations and bounding boxes of NYPD police precincts.
-
-      Locations come from https://www.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page 
-      geocoded with Here API via `geocode_csv.py` script, then hand-editing 3 lat/lons that appear 
-      way out in Long Island.
-
-      Geometries are from https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz 
-      loaded via `load_geo_data.sh` script.

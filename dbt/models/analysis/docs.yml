@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: district_otp_anaysis
+  - name: district_otp_analysis
     description: |
       Fact table aggregating OTP FOIL data by community district.
   - name: zip_code_otp_analysis
@@ -11,3 +11,16 @@ models:
   - name: programs_analysis
     description: |
       Fact table aggregating FOIL data by program.
+  - name: shelter_population
+    description: |
+      Homeless shelter population data.
+
+      Source for census: https://data.cityofnewyork.us/Social-Services/Individual-Census-by-Borough-Community-District-an/veav-vj3r
+      Extracted 2022-12-07; updates monthly.
+      
+      Source for cases / "associated address" (is this citing where the shelter population came from?)
+      https://data.cityofnewyork.us/Social-Services/Associated-Address-by-Borough-and-Community-Distri/ur7y-ziyb
+
+      Could join in:
+      https://data.cityofnewyork.us/Social-Services/Buildings-by-Borough-and-Community-District/3qem-6v3v
+

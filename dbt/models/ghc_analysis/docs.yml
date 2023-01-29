@@ -15,3 +15,10 @@ models:
       opioid commuters repro has no records. But the opposite doesn't hold. This implies
       it is based on a larger set of data than what's in the OC data.
       Only has records for NYC zip codes.
+  - name: homeless_shelters
+    description: |
+      Homeless Shelter Population by Community District
+      Source: https://www.datawrapper.de/_/data-qqf5E/
+  - name: community_beds_1999_2014
+    description: |
+      Source: https://council.nyc.gov/wp-content/uploads/2017/02/2017-Fair-Share-Report.pdf

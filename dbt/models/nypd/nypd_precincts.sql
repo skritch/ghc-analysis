@@ -12,7 +12,7 @@ WITH geometries AS (
         -- shape_area,
         ST_SetSRID(wkb_geometry, 4326) :: GEOGRAPHY 
             AS boundary
-        FROM nypd_precinct_geometries
+        FROM {{ source('nypd', 'nypd_precinct_geometries') }}
 ),
 locations AS (
 
@@ -24,7 +24,7 @@ locations AS (
         latitude,
         longitude,
         ST_SetSRID(ST_POINT(longitude, latitude), 4326) :: GEOGRAPHY AS location
-    FROM nypd_precinct_locations
+    FROM {{ source('nypd', 'nypd_precinct_locations') }}
 )
 SELECT
     *

@@ -5,7 +5,7 @@ with enrollment as (
         SUM(c.avg_daily_enrollment) AS enrollment
     from {{ ref('enrollment_by_year') }} c
         join {{ ref('programs') }} as p using (program_number)
-        join {{ ref('districts') }} as d on p.borough_district_code = d.borough_district_code
+        join {{ ref('community_districts') }} as d on p.borough_district_code = d.borough_district_code
     where p.program_category = 'Opioid Treatment Program'
     group by 1, 2
 )
@@ -16,7 +16,7 @@ select
     coalesce(e2019.enrollment, 0) as "2019 Daily Avg. Enrollment",
     coalesce(e2019.enrollment, 0) - coalesce(e2010.enrollment, 0) as "Change in Daily Avg. Enrollment",
     100 * (coalesce(e2019.enrollment, 0) - e2010.enrollment)::float / e2010.enrollment as "Pct Change in Daily Avg Enrollment"
-FROM {{ ref('districts') }} as d
+FROM {{ ref('community_districts') }} as d
     left join enrollment as e2010 
         on d.borough_district_code = e2010.borough_district_code
         and e2010.year = 2010

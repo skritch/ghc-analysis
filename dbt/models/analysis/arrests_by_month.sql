@@ -27,4 +27,4 @@ select
     "Felony Arrests",
     1000 * "Felony Arrests"::float / population_2020 AS "Felony Arrests per 1k"
 from t
-    join {{ ref('districts') }} as d using (borough_district_code)
+    join {{ ref('community_districts') }} as d using (borough_district_code)

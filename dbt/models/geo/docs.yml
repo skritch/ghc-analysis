@@ -39,9 +39,9 @@ models:
       
       Source: https://www1.nyc.gov/site/planning/planning-level/nyc-population/nyc-population-geographic-relationships.page
       Source (I think): https://www1.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page
-  - name: districts
+  - name: community_districts
     description: |
-      Dimension table of community districts.
+      Dimension table of community community_districts.
 
       Maybe ought to be derived from `nyc_ct_mapping` instead.
   - name: zip_codes
@@ -62,4 +62,12 @@ models:
 
       Demographics are aggregated from Zip Code data, could be double-checked
       against e.g. https://www.prisonpolicy.org/origin/ny/uhf_districts.html
+  - name: ny_zcta_demographics
+    description: |
+      2020 *estimate*, could not find the full 2020 census results by ZCTA.
 
+      Populations by census tract are also available, and could be mapped
+      to neighborhoods that way.
+
+      Source: https://data.census.gov/cedsci/table?t=Populations%20and%20People&g=0400000US36%248600000&y=2020
+      Pre-cleaned to just populations and a few demographic columns in google docs.

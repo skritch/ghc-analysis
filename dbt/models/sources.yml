@@ -1,0 +1,10 @@
+
+
+
+version: 2
+
+sources:
+  - name: nypd
+    tables:
+      - name: nypd_precinct_geometries
+      - name: nypd_precinct_locations

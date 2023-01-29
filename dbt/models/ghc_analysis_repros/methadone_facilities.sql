@@ -15,7 +15,7 @@ select
     address_full,
     sum(current_certified_capacity) AS capacity_certified
 from {{ref('program_capacities_2019')}}
-    join {{ref('districts')}} using (borough_district_code)
+    join {{ref('community_districts')}} using (borough_district_code)
 where borough_district_code in (110, 111) -- East and Central Harlem
 group by 1, 2, 3, 4, 5, 6
 order by provider_name
