@@ -13,18 +13,17 @@ OPENDATA_CSV_URL = f'{OPENDATA_URL}/api/views/{{id}}/rows.csv?accessType=DOWNLOA
 DATA_PATH = Path('./data')
 
 class SpatialDataset(Enum):
-    congressional_districts = '62dw-nwnq'
-    ny_senate_districts = 'h4i2-acfi'
-    ny_assembly_district = 'qh62-9utz'
-    nyc_community_districts = 'mzpm-a6vd'
-    nyc_city_countil_districts = 'jgqm-ccbd'
+    nyc_congressional_district_geometries = '62dw-nwnq'
+    nyc_senate_district_geometries = 'h4i2-acfi'
+    nyc_assembly_district_geometries = 'qh62-9utz'
+    nyc_community_districts_geometries = 'mzpm-a6vd'
+    nyc_city_council_district_geometries = 'jgqm-ccbd'
 
 
 class CSVDataset(Enum):
-    congressional_district_demographics = '77d2-9ebr'
-    ny_senate_district_demographics = 'uv67-wxba'
-    community_district_demographics = 'w3c6-35wg'
-
+    nyc_congressional_district_demographics = '77d2-9ebr'
+    nyc_senate_district_demographics = 'uv67-wxba'
+    nyc_community_district_demographics = 'w3c6-35wg'
 
 
 def dl_extract_shapefile(d: SpatialDataset):
@@ -35,17 +34,10 @@ def dl_extract_shapefile(d: SpatialDataset):
     with open(zip_path, 'wb') as f:
         f.write(r.content)
     
-    ext = '.shp'
+    new_path = DATA_PATH / d.name
     with ZipFile(zip_path) as z:
-        files = z.namelist()
-        shapefile = next((f for f in files if f.endswith(ext)), None)
-        if shapefile is None:
-            raise RuntimeError(f"No {ext} file. Files in zip: \n" + '\n'.join(files))
-        z.extract(shapefile, DATA_PATH)
+        z.extractall(new_path)
 
-        shp_path = (DATA_PATH / shapefile)
-        new_path = shp_path.rename(DATA_PATH / (d.name + ext))
-    del(zip_path)
     return new_path
 
 def dl_csv(d: CSVDataset):

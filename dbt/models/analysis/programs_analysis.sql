@@ -15,6 +15,7 @@ with y as (
         sum(coalesce(total_admissions, 3)) as total_admissions_3,
         sum(coalesce(total_admissions, 5)) as total_admissions_5
     from {{ ref('program_admissions_2019') }}
+        join {{ ref('programs') }} as p using (program_number)
     group by 1
 ), ca as (
     select
@@ -24,6 +25,7 @@ with y as (
         sum(coalesce(total_admissions, 3)) as total_admissions_3,
         sum(coalesce(total_admissions, 5)) as total_admissions_5
     from {{ ref('program_admissions_2017') }}
+        join {{ ref('programs') }} as p using (program_number)
     group by 1
 ), ch as (
     select

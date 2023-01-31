@@ -10,10 +10,11 @@ boroughs AS (
     FROM {{ ref('nyc_ct_mapping') }}
 ),
 geometries AS (
-        SELECT 
-            zipcode AS zip_code,
-            ST_Transform(ST_SetSRID(wkb_geometry, 102718), 4326) :: geography AS boundary
-        FROM zip_code_geometries
+    SELECT 
+        zipcode AS zip_code,
+        ST_Transform(ST_SetSRID(ST_Union(wkb_geometry), 102718), 4326) :: geography AS boundary
+    FROM zip_code_geometries
+    GROUP BY 1
 )
 SELECT
     zip_code,
