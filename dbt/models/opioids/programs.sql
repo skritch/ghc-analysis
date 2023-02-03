@@ -1,3 +1,9 @@
+{{ config(
+    indexes=[
+      {'columns': ['location'], 'type': 'gist'},
+    ]
+)}}
+
 WITH yoni_records as (
     SELECT
         program_number,
@@ -34,13 +40,11 @@ chan_records as (
         provider_number,
         provider_name,
         borough_district_code,
-        address_full,
         address_county,
+        address_street || ' ' || {{ nyc_county_to_city('address_county') }} || ', ' || address_zip_code
+            AS address_full,
         COALESCE(address_zip_code, missing.zip_code) AS address_zip_code,
-        latitude,
-        longitude,
         MAX(avg_daily_enrollment) OVER (PARTITION BY program_number) as capacity_estimate,
-        _is_geocoded,
         'chan' as _record_source
     from {{ ref('enrollment_by_year') }}
         LEFT JOIN {{ ref('missing_program_zip_codes') }} AS missing 
@@ -61,11 +65,10 @@ base AS (
         COALESCE(f.address_full, i.address_full) AS address_full,
         COALESCE(f.address_county, i.address_county) AS address_county,
         COALESCE(f.address_zip_code, i.address_zip_code) AS address_zip_code,
-        COALESCE(f.latitude, i.latitude) AS latitude,
-        COALESCE(f.longitude, i.longitude) AS longitude,
+        f.latitude,
+        f.longitude,
         date_operational,
         COALESCE(f.capacity_estimate, i.capacity_estimate) AS capacity_estimate,
-        i._is_geocoded OR false AS _is_geocoded,
         COALESCE(f._record_source, i._record_source) AS _record_source
     FROM yoni_records f
     FULL OUTER JOIN chan_records i USING (program_number)
@@ -94,7 +97,6 @@ combined AS (
         NULL :: REAL AS longitude,
         NULL :: DATE AS date_operational,
         SUM(COALESCE(total_admissions, 3)) OVER (PARTITION BY program_number) AS capacity_estimate,
-        false AS _is_geocoded,
         'candace' AS _record_source
     FROM {{ ref('program_admissions_2017') }}
     WHERE program_number NOT IN (select program_number from base)
@@ -118,18 +120,41 @@ combined AS (
         NULL :: REAL AS longitude,
         NULL :: DATE AS date_operational,
         SUM(COALESCE(total_admissions, 3)) OVER (PARTITION BY program_number) AS capacity_estimate,
-        false AS _is_geocoded,
         'shawn' AS _record_source
     FROM {{ ref('program_admissions_2019') }}
     WHERE program_number NOT IN (select program_number from base)
 )
 SELECT
-    *,
+    program_number,
+    program_name,
+    program_category,
+    program_service_type,
+    program_status,
+    provider_number AS provider_number,
+    provider_name,
+    borough_district_code,
+    address_full,
+    address_county,
+    address_zip_code,
     CASE address_county
         WHEN 'Kings' THEN 'Brooklyn'
         WHEN 'Queens' THEN 'Queens'
         WHEN 'New York' THEN 'Manhattan'
         WHEN 'Bronx' THEN 'Bronx'
         WHEN 'Richmond' THEN 'Staten Island'
-    ELSE NULL END AS borough_name
+    ELSE NULL END 
+        AS borough_name,
+    COALESCE(combined.latitude, g.latitude) AS latitude,
+    COALESCE(combined.longitude, g.longitude) AS longitude,
+    ST_SetSRID(ST_POINT(
+        COALESCE(combined.longitude, g.longitude), 
+        COALESCE(combined.latitude, g.latitude)
+    ), 4326) :: GEOGRAPHY as location,
+    date_operational,
+    capacity_estimate,
+    combined.latitude is NULL and g.latitude is not null as _is_geocoded,
+    _record_source
 FROM combined
+    LEFT JOIN {{ref('geocoded_otps')}} AS g USING (program_number)
+
+    

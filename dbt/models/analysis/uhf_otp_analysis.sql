@@ -4,7 +4,7 @@ select
     uhfs.uhf_name,
     uhfs.is_harlem,
     od.overdose_deaths AS overdose_deaths_2020,
-    sum(z.population_total) AS population_2020_estimate,
+    sum(z.population_2020) AS population_2020_estimate,
     sum(total_admissions_1_2017) as total_admissions_1_2017,
     sum(total_admissions_3_2017) as total_admissions_3_2017,
     sum(total_admissions_5_2017) as total_admissions_5_2017,
@@ -21,6 +21,7 @@ select
     sum(harlem_patient_admissions_3_2019) AS harlem_patient_admissions_3_2019,
     sum(opioid_burden_2019) AS opioid_burden_2019
 from {{ ref('zip_code_otp_analysis') }}
+-- is this right? are uhfs = a sum of zip codes?
     left join {{ ref('zip_codes') }} AS z using (zip_code)
     left join {{ ref('uhfs') }} AS uhfs using (uhf_code)
     left join {{ ref('uhf_overdoses_2020') }} as od using (uhf_code)

@@ -51,7 +51,7 @@ select
     zip_codes.near_harlem,
     zip_codes.borough_name,
     zip_codes.neighborhood_name,
-    zip_codes.population_total as population_2020_estimate,
+    zip_codes.population_2020 as population_2020_estimate,
     programs_by_zip.total_admissions_1_2017,
     programs_by_zip.total_admissions_3_2017,
     programs_by_zip.total_admissions_5_2017,
@@ -73,6 +73,8 @@ select
     patients_2019.in_zip_admissions_3 AS in_zip_admissions_3_2019,
     patients_2019.harlem_admissions_3 AS harlem_patient_admissions_3_2019,
     op.opioid_burden AS opioid_burden_2019
+
+    -- add travel time
 from {{ ref('zip_codes') }}  
     left outer join programs_by_zip using (zip_code) 
     left outer join patients_2019 using (zip_code)

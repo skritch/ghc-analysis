@@ -56,3 +56,38 @@ models:
 
       Source: https://data.census.gov/cedsci/table?t=Populations%20and%20People&g=0400000US36%248600000&y=2020
       Pre-cleaned to just populations and a few demographic columns in google docs.
+
+  - name: community_districts
+    description: |
+      Dimension table of community community_districts.
+
+      Maybe ought to be derived from `nyc_ct_mapping` instead.
+  - name: uhfs
+    description: | 
+      United Hospital Fund Codes, an annoying unit of geography
+      used by some government agencies.
+
+      Based on manual data entry from https://www.nyc.gov/assets/doh/downloads/pdf/ah/zipcodetable.pdf
+      and https://www1.nyc.gov/assets/doh/downloads/pdf/data/appb.pdf
+
+      Demographics are aggregated from Zip Code data, could be double-checked
+      against e.g. https://www.prisonpolicy.org/origin/ny/uhf_districts.html
+  - name: representatives
+    description: |
+      Elected officials and district boundaries for State Senate, State Assembly, House of Representatives,
+      and City Council.
+
+      Note the table explicitly excludes House districts 3 and 16 which are not really in NYC.
+
+      Elected official names are from--? a CSV from somewhere. Seem to be current as of 2023.
+
+      Geometries are from NYCOpenData loaded with download_opendata.py and load_geo_data.sh scripts.
+      
+      City Council populations are from https://www.nyc.gov/site/planning/planning-level/nyc-population/2020-census.page
+      State Senate and Assembly populations are from PDFs linked
+      from https://latfor.state.ny.us/maps/
+      House of Reps. Populations were manually read off the Redistricting & You map
+      at https://www.redistrictingandyou.org/?districtType=congress&tractLayer=true#map=3.5/38.5/-103
+  - name: zip_to_district
+    description: |
+      Mapping table of the overlaps between zip codes and all kinds of districts.

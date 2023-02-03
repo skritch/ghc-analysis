@@ -12,3 +12,5 @@ scipy
 altair
 numpy
 nbdev
+requests_oauthlib
+dateparser
