@@ -36,7 +36,7 @@ SELECT
     zip_code in ('10026', '10027', '10037', '10030', '10039', '10031', '10035') AS is_harlem,
     -- Hm, '10029' maybe should be in 
     zip_code in ('10032', '10025', '10029') AS near_harlem,
-    demographics.population_total as population_2020,
+    demographics.population_2020,
     demographics.population_asian,
     demographics.population_black,
     demographics.population_hispanic,

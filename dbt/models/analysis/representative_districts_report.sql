@@ -9,9 +9,9 @@ with districts_and_more as (
     
         'Borough',
         borough_code as district,
-        borough_name,
-        null,
-        null,
+        borough_name as district_name,
+        null as representative_name,
+        null as representative_party,
         sum(r.population_2020) as population_2020,
         sum(patient_admissions_3_2019) as patient_admissions_3_2019,
         sum(harlem_patient_admissions_3_2019) as harlem_patient_admissions_3_2019,
@@ -30,8 +30,8 @@ with districts_and_more as (
 select
     district_type,
     district,
-    party,
-    name,
+    representative_name,
+    representative_party,
     population_2020 
         as "District Population, 2020",
     round(100 * (population_2020::float / sum(population_2020) over (partition by district_type))::numeric, 1) 
