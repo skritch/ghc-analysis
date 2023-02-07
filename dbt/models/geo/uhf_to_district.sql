@@ -47,8 +47,8 @@ pops_from_zips as (
         district_type,
         uhf_code,
         sum(zd.f_of_zip_area * z.population_2020) as population_2020
-    from zip_to_district as zd
-        join zip_codes as z using (zip_code)
+    from {{ref('zip_to_district')}} as zd
+        join {{ref('zip_codes')}} as z using (zip_code)
     group by 1, 2, 3
 )
 select

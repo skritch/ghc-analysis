@@ -19,14 +19,15 @@ SPATIAL_DATASETS = {
     'nyc_city_council_district_geometries':  OPENDATA_SPATIAL_URL.format(id='jgqm-ccbd'),
     'nyc_community_district_geometries': OPENDATA_SPATIAL_URL.format(id= 'mzpm-a6vd'),
     'zip_code_geometries': f'{OPENDATA_URL}/download/i8iw-xf4u/application%2Fzip',
-    'uhf_geometries': 'https://www.nyc.gov/assets/doh/downloads/zip/uhf42_dohmh_2009.zip'
+    'uhf_geometries': 'https://www.nyc.gov/assets/doh/downloads/zip/uhf42_dohmh_2009.zip',
+    'nypd_precinct_geometries': OPENDATA_SPATIAL_URL.format(id='78dh-3ptz')
 }
 
 CSV_DATASETS = {
-    'nyc_congressional_district_demographics': '77d2-9ebr',
-    'nyc_senate_district_demographics': 'uv67-wxba',
-    'nyc_community_district_demographics': 'w3c6-35wg',
-    'nyc_city_council_members': 'uvw5-9znb'
+    'nyc_congressional_district_demographics': OPENDATA_CSV_URL.format(id='77d2-9ebr'),
+    'nyc_senate_district_demographics': OPENDATA_CSV_URL.format(id='uv67-wxba'),
+    'nyc_community_district_demographics': OPENDATA_CSV_URL.format(id='w3c6-35wg'),
+    'nyc_city_council_members': OPENDATA_CSV_URL.format(id='uvw5-9znb')
 }
 
 

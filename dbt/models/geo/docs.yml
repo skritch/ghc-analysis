@@ -72,7 +72,7 @@ models:
 
       Demographics are aggregated from Zip Code data, could be double-checked
       against e.g. https://www.prisonpolicy.org/origin/ny/uhf_districts.html
-  - name: representatives
+  - name: representative_districts
     description: |
       Elected officials and district boundaries for State Senate, State Assembly, House of Representatives,
       and City Council.
