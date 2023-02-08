@@ -1,6 +1,11 @@
 version: 2
 
 models:
+  - name: daily_chemical_enrollment
+    description: |
+      Average Daily Enrollment in OASAS-certified Chemical Dependence Treatment Programs in 2019
+      
+      Source: https://www.datawrapper.de/_/data-kw8ZS/
   - name: opioid_admissions
     description: |
       Opioid Treatment Program Patient Admission Totals and Locations

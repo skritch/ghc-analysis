@@ -37,16 +37,17 @@ select
     round(100 * (population_2020::float / sum(population_2020) over (partition by district_type))::numeric, 1) 
         as "District Population, 2020, % of city",
 
+    -- note: per capita percent of city doesn't make sense
     {{metric_with_rank_and_percent('patient_admissions_3_2019', 'OTP Patients, 2019 estimate', 'district_type') }},
-    {{metric_with_rank_and_percent('1000 * patient_admissions_3_2019 / population_2020', 'OTP Patients per 1000 Population, 2019', 'district_type', 1) }},
+    {{metric_with_rank('1000 * patient_admissions_3_2019 / population_2020', 'OTP Patients per 1000 Population, 2019', 'district_type', 1) }},
     {{metric_with_rank_and_percent('harlem_patient_admissions_3_2019', 'Harlem OTP Admissions of Patients in District, 2019 estimate', 'district_type', 0) }},
     {{metric_with_rank_and_percent('opioid_burden_2019', 'Opioid Burden, 2019 estimate', 'district_type', 1) }},
     {{metric_with_rank_and_percent('overdose_deaths_2020', 'Overdose Deaths, 2020 estimate', 'district_type', 0) }},
-    {{metric_with_rank_and_percent('100000 * overdose_deaths_2020 / population_2020', 'Overdose Deaths per 100k Population, 2020 estimate', 'district_type', 1) }},
+    {{metric_with_rank('100000 * overdose_deaths_2020 / population_2020', 'Overdose Deaths per 100k Population, 2020 estimate', 'district_type', 1) }},
     {{metric_with_rank_and_percent('ct_otp_programs', 'Opioid Treatment Programs, 2019', 'district_type', 0) }},
     {{metric_with_rank_and_percent('total_admissions_3_2019', 'Patients Admitted to OTP Programs in District, 2019', 'district_type', 0) }},
     {{metric_with_rank_and_percent('otp_capacity', 'OTP Capacity, 2019', 'district_type', 0) }},
-    {{metric_with_rank_and_percent('avg_daily_enrollment_2019', 'Avg. Daily OTP Enrollment in District, 2019', 0) }},
-    {{metric_with_rank_and_percent('1000 * avg_daily_enrollment_2019 / population_2020', 'OTP Enrollment per 1000 Population, 2019', 'district_type', 1) }}
+    {{metric_with_rank_and_percent('avg_daily_enrollment_2019', 'Avg. Daily OTP Enrollment in District, 2019', 'district_type', 0) }},
+    {{metric_with_rank('1000 * avg_daily_enrollment_2019 / population_2020', 'OTP Enrollment per 1000 Population, 2019', 'district_type', 1) }}
 
 from districts_and_more

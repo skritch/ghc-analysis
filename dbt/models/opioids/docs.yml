@@ -1,11 +1,6 @@
 version: 2
 
 models:
-  - name: daily_chemical_enrollment
-    description: |
-      Average Daily Enrollment in OASAS-certified Chemical Dependence Treatment Programs in 2019
-      
-      Source: https://www.datawrapper.de/_/data-kw8ZS/
   - name: programs
     description: |
       Dimension table of treatment programs appearing in either Candace or Yoni foils, + a few patched
@@ -58,6 +53,7 @@ models:
   - name: enrollment_by_year
     description: |
       Base on Chan FOIL.
+      Source: https://docs.google.com/spreadsheets/d/1tviZSw2mquSho6HGktABbiv6nWvH478l/edit?usp=sharing&ouid=102823984228926796913&rtpof=true&sd=true
 
       Title: Average Daily Enrollment in NYC OASAS‐certified Chemical Dependence Treatment Programs During CY 2010, 2015,and 2019.
       Date: 6/23/2021
