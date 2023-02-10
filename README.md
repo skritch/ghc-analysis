@@ -11,39 +11,44 @@ at documenting what's actually going on than spreadsheets.)
 
 ## Installation
 
-To setup, you'll need:
+To setup, you'll need to configure:
 * PostgreSQL
-* Python (I use 3.10.4).
+* Python (I use 3.10.4)
+* DBT
+* dagster
+
+These aren't full installation instructions, you'll need to figure some things out.
 
 The basic installation steps are:
-1. Install `requirements.txt` in a Python environment via Pip or Conda. (I use Conda because Pip can't figure out `pymc` on my machine, but I'm barely using that in one notebook, so you can skip it.)
-2. Setup `nbdev` for git-friendly Jupyter notebooks:
-```
-nbdev_install_hooks
-```
 
-3. Create a Postgres database for the project, and create a file `dbt/profiles.yml` to point to it (see [docs](https://docs.getdbt.com/docs/get-started/connection-profiles))
+1. Install Postgres with PostGIS and user for the project and set up permissions. Set the `DB_URL` envar. 
 
+2. Install `requirements.txt` in a Python environment via Pip or Conda. 
+    * Optionally, setup `nbdev` for git-friendly Jupyter notebooks:
+    ```
+    nbdev_install_hooks
+    ```
+    * Currently this project installs the dependencies for everything in one environment, which probably will cause some problems.
 
-4. Run DBT to populate your database:
-```
-cd dbt
-export DBT_PROFILES_DIR=.
-dbt seed
-dbt run
-```
+3. Create a file `dbt/profiles.yml` to point it to your database. (see [docs](https://docs.getdbt.com/docs/get-started/connection-profiles))
 
-You can use DBT's web UI to browse the available datasets via:
-```
-dbt docs generate
-dbt docs serve
-```
+    * You can run DBT directly to populate your database:
+    ```
+    cd dbt
+    export DBT_PROFILES_DIR=.
+    dbt seed
+    dbt run
+    ```
 
-5. Set a DB_URL corresponding to your database and run the notebooks, for example:
+    You can use DBT's web UI to browse the available datasets via:
+    ```
+    dbt docs generate
+    dbt docs serve
+    ```
 
-```
-export DB_URL='postgresql://harlem:harlem@localhost:5432/harlem'
-
-jupyter notebook
-```
+4. Set up Dagster. You probably want to provision a different Postgres user and DB for it, or it will create a bunch of tables in the `public` schema. Set `DAGSTER_DB_URL` and run `dagster dev` to view your pipelines locally.
+    * Dagster will read your DBT environment—you can run DBT models from within the Dagster UI.
+    * Many of the upstream dependencies are only implemented in Dagster, but can also by run manually (in `scripts/`)
+    * Not all steps are implemented; in some cases you'll need to read the error msg and perform some manual steps.
+    * Dagster does not know about steps you run outside of its framework.
 

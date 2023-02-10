@@ -14,3 +14,11 @@ numpy
 nbdev
 requests_oauthlib
 dateparser
+dagster
+dagit
+dagster-dbt
+dagster-postgres
+dagster-shell
+folium
+geopandas
+geopy
