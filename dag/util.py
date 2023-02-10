@@ -1,14 +1,15 @@
 import inspect
-from typing import Any
+from typing import Any, Callable
 import os
 
 from dagster_shell import execute_shell_command
 from dagster import Field, op, asset, Failure
 
-def parse_signature(sig: inspect.Signature) -> list[tuple[str, type, Any, bool]]:
+def parse_signature(f: Callable) -> list[tuple[str, type, Any, bool]]:
     """
     Returns [name, type, default, has_default]
     """
+    sig = inspect.signature(f)
     # Handle inputs types
     assert not any(p.kind == inspect.Parameter.POSITIONAL_ONLY for p in sig.parameters.values()), \
         'Cannot use positional-only parameters'

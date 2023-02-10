@@ -1,9 +1,11 @@
 
+from pathlib import Path
 from zipfile import ZipFile
 from typing import NamedTuple
 from dagster import asset, AssetKey
 from dagster_dbt import load_assets_from_dbt_project
 import requests
+from dag import postgres
 
 from dag.util import create_shell_command_asset
 
@@ -49,8 +51,16 @@ def nypd_precinct_locations() -> None:
       (https://docs.google.com/spreadsheets/d/13SjM52D9yIXMEczNLoHEYrfPc0qrf8cOuunrd9Ye4QI/edit#gid=0)
     """
     raise NotImplementedError
-
     
+@asset(group_name='opioids', non_argument_deps={'enrollment_by_year', 'program_admissions_2017', 'program_admissions_2019', 'program_capacities_2019'})
+def geocoded_otps_csv() -> None:
+    """
+    Lat-lons from HERE Api with script `geocode_csv.py`.
+
+    How to add an edge to the seed file?
+    """
+    raise NotImplementedError
+
 
 OPENDATA_URL = 'https://data.cityofnewyork.us'
 OPENDATA_UI_URL = f'{OPENDATA_URL}/d/{{id}}'
@@ -58,26 +68,26 @@ OPENDATA_SPATIAL_URL = f'{OPENDATA_URL}/api/geospatial/{{id}}?method=export&form
 OPENDATA_CSV_URL = f'{OPENDATA_URL}/api/views/{{id}}/rows.csv?accessType=DOWNLOAD'
 NYC_GOV_API_URL = 'https://s-media.nyc.gov/agencies/dcp/assets/files/zip/data-tools/bytes/{id}.zip'
 
-class Dataset(NamedTuple):
+class SpatialDataset(NamedTuple):
     name: str
     url: str
     relative_path: str | None = None
 
 SPATIAL_DATASETS = [
-    Dataset('nyc_congressional_district_geometries', OPENDATA_SPATIAL_URL.format(id='62dw-nwnq')),
-    Dataset('nyc_senate_district_geometries', OPENDATA_SPATIAL_URL.format(id='h4i2-acfi')),
-    Dataset('nyc_assembly_district_geometries', OPENDATA_SPATIAL_URL.format(id='qh62-9utz')),
-    Dataset('nyc_city_council_district_geometries', OPENDATA_SPATIAL_URL.format(id='jgqm-ccbd')),
-    Dataset('nyc_community_district_geometries', OPENDATA_SPATIAL_URL.format(id= 'mzpm-a6vd')),
-    Dataset('zip_code_geometries', f'{OPENDATA_URL}/download/i8iw-xf4u/application%2Fzip'),
-    Dataset('uhf_geometries', 'https://www.nyc.gov/assets/doh/downloads/zip/uhf42_dohmh_2009.zip', relative_path='UHF_42_DOHMH_2009'),
-    Dataset('nypd_precinct_geometries', OPENDATA_SPATIAL_URL.format(id='78dh-3ptz')),
-    Dataset('census_tract_geometries', NYC_GOV_API_URL.format(id='nyct2020_22c'), relative_path='nyct2020_22c'),
-    Dataset('census_block_geometries', NYC_GOV_API_URL.format(id='nycb2020_22c'), relative_path='nycb2020_22c')
+    SpatialDataset('nyc_congressional_district_geometries', OPENDATA_SPATIAL_URL.format(id='62dw-nwnq')),
+    SpatialDataset('nyc_senate_district_geometries', OPENDATA_SPATIAL_URL.format(id='h4i2-acfi')),
+    SpatialDataset('nyc_assembly_district_geometries', OPENDATA_SPATIAL_URL.format(id='qh62-9utz')),
+    SpatialDataset('nyc_city_council_district_geometries', OPENDATA_SPATIAL_URL.format(id='jgqm-ccbd')),
+    SpatialDataset('nyc_community_district_geometries', OPENDATA_SPATIAL_URL.format(id= 'mzpm-a6vd')),
+    SpatialDataset('zip_code_geometries', f'{OPENDATA_URL}/download/i8iw-xf4u/application%2Fzip'),
+    SpatialDataset('uhf_geometries', 'https://www.nyc.gov/assets/doh/downloads/zip/uhf42_dohmh_2009.zip', relative_path='UHF_42_DOHMH_2009'),
+    SpatialDataset('nypd_precinct_geometries', OPENDATA_SPATIAL_URL.format(id='78dh-3ptz')),
+    SpatialDataset('census_tract_geometries', NYC_GOV_API_URL.format(id='nyct2020_22c'), relative_path='nyct2020_22c'),
+    SpatialDataset('census_block_geometries', NYC_GOV_API_URL.format(id='nycb2020_22c'), relative_path='nycb2020_22c')
 ]
 
 
-def build_spatial_assets(d: Dataset):
+def build_spatial_assets(d: SpatialDataset):
     zip_path = DATA_PATH / (d.name + '.zip')
     data_path = DATA_PATH / d.name
     shapefile_dir = DATA_PATH / d.name / d.relative_path if d.relative_path else data_path
@@ -102,21 +112,50 @@ def build_spatial_assets(d: Dataset):
     )
     return [download_file, extract_file, load_spatial_data]
 
-opendata_shapefiles = [
+opendata_assets = [
     a for d in SPATIAL_DATASETS for a in build_spatial_assets(d)
 ]
 
 
-CSV_DATASETS = {
-    'nyc_congressional_district_demographics': OPENDATA_CSV_URL.format(id='77d2-9ebr'),
-    'nyc_senate_district_demographics': OPENDATA_CSV_URL.format(id='uv67-wxba'),
-    'nyc_community_district_demographics': OPENDATA_CSV_URL.format(id='w3c6-35wg'),
-    'nyc_city_council_members': OPENDATA_CSV_URL.format(id='uvw5-9znb')
-}
+class CSVDataset(NamedTuple):
+    name: str
+    url: str
+    schema: list[tuple[str, type]]
+    group_name: str | None = None
+
+CSV_DATASETS = [
+    CSVDataset(
+        'nyc_city_council_members', OPENDATA_CSV_URL.format(id='uvw5-9znb'),
+        [('name', str), ('district', int), ('borough', str), ('political_party', str)]
+    )
+]
+
+# CSV_DATASETS = {
+    # 'nyc_congressional_district_demographics': OPENDATA_CSV_URL.format(id='77d2-9ebr'),
+    # 'nyc_senate_district_demographics': OPENDATA_CSV_URL.format(id='uv67-wxba'),
+    # 'nyc_community_district_demographics': OPENDATA_CSV_URL.format(id='w3c6-35wg'),
+# }
+
+def build_csv_seed_assets(d: CSVDataset):
+    """
+    Downloads a CSV, which we then need to load.
+    """
+    data_path = DATA_PATH / (d.name + '.csv')
+    url = d.url
+
+    csv_asset_name = d.name + '_csv'
+    @asset(name=csv_asset_name, metadata={'source': url})
+    def download_file() -> None:
+        r = requests.get(url=url)
+        with open(data_path, 'wb') as f:
+            f.write(r.content)
 
 
-# @op
-# def load_csv(context: OpExecutionContext, path: Path):
-#     # use a copy
-#     # or agate? some kind of easy inference
-#     raise NotImplementedError
+    @asset(name=d.name, metadata={'source': url}, non_argument_deps={csv_asset_name})
+    def load_csv() -> None:
+        postgres.load_csv(postgres.Schema.from_python(d.schema, d.name), data_path)
+    return [download_file, load_csv]
+
+csv_assets = [
+    a for n in CSV_DATASETS for a in build_csv_seed_assets(n) 
+]

@@ -28,11 +28,10 @@ with representatives as (
 council as (
     SELECT 
         'City Council' as district_type,
-        "DISTRICT" as district, 
-        "NAME" as representative_name,
-        "POLITICAL PARTY" as representative_party
-    -- todo load this csv
-    FROM nyc_city_council_members
+        district as district, 
+        name as representative_name,
+        political_party as representative_party
+    FROM {{source('geo', 'nyc_city_council_members')}}
 )
 , all_boundaries as (
     select
