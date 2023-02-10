@@ -8,7 +8,7 @@ with arrests as (
         a.*,
         ST_SetSRID(ST_POINT(a.longitude, a.latitude), 4326) :: GEOGRAPHY 
             AS arrest_location
-    from nypd_arrests as a
+    from {{source('nypd', 'nypd_arrests')}} as a
 )
 select 
     a.*,

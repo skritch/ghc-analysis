@@ -26,7 +26,7 @@ with base as (
       -- Note "approximation" or "equivalent"
       ({{ parse_district_code('cdtaname') }}) AS district_code,
       (100 * borocode::int) + ({{ parse_district_code('cdtaname') }}) AS borough_district_code
-  from census_tracts_raw
+  from {{source('geo', 'census_tract_geometries')}}
 )
 select 
     *,

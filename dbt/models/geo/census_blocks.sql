@@ -19,7 +19,7 @@ with geom as (
         b.shape_area,
         ST_Transform(ST_SetSRID(b.wkb_geometry, 102718), 4326) :: geography AS boundary,
         b.ct2020 as census_tract_2020
-    from census_blocks_raw as b
+    from {{source('geo', 'census_block_geometries')}} as b
 )
 SELECT
     g.*,
@@ -37,5 +37,5 @@ SELECT
     ({{ parse_district_code('t.cdtaname') }}) AS district_code,
     (100 * borough_code) + ({{ parse_district_code('t.cdtaname') }}) AS borough_district_code
 from geom as g
-    left join census_tracts_raw as t
+    left join {{source('geo', 'census_tract_geometries')}} as t
         on g.census_tract_2020 = t.ct2020 and g.borough_code = t.borocode :: int

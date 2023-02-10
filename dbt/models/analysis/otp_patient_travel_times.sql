@@ -16,8 +16,8 @@ with otps_capacity_by_zip as (
     select
         p.address_zip_code AS zip_code,
         sum(current_certified_capacity) AS otp_capacity
-    from programs_analysis
-        join programs as p using (program_number)
+    from {{ref('programs_analysis')}}
+        join {{ref('programs')}} as p using (program_number)
     where p.program_category = 'Opioid Treatment Program'
     group by 1
 ),
@@ -25,8 +25,8 @@ patients_by_zip as (
     select
         patient_zip_code AS zip_code,
         sum(coalesce(total_admissions, 3)) as ct_patients
-    from program_admissions_2019
-        join programs as p using (program_number)
+    from {{('program_admissions_2019')}}
+        join {{ref('programs')}} as p using (program_number)
     where p.program_category = 'Opioid Treatment Program'
     group by 1
 ),
@@ -38,7 +38,7 @@ travel_times_from_zip as (
             as ct_otp_capacity_within_15,
         sum(case when (travel_time / 60) < 30 then otp_capacity end) 
             as ct_otp_capacity_within_30
-    from zip_code_distances
+    from {{source('geo','zip_code_distances')}}
         left join otps_capacity_by_zip c on to_zip_code = c.zip_code
     group by 1
 ),
@@ -49,7 +49,7 @@ travel_times_to_zip as (
             as ct_patients_within_15,
         sum(case when (travel_time / 60) < 30 then ct_patients end) 
             as ct_patients_within_30
-    from zip_code_distances
+    from {{source('geo','zip_code_distances')}}
         left join patients_by_zip as p on from_zip_code = p.zip_code
     group by 1
 )
@@ -65,7 +65,7 @@ select
     ct_patients_within_30 as "OTP Patients within 30 Minute Drive",
     ct_patients_within_30::float / ct_otp_capacity_within_30 as "Ratio of Patients to Capacity within 30 Minute Drive"
 
-from zip_codes z
+from {{ref('zip_codes')}} z
     left join otps_capacity_by_zip as c using (zip_code)
     left join patients_by_zip as p using (zip_code)
     left join travel_times_from_zip tf using (zip_code)

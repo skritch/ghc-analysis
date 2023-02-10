@@ -12,7 +12,7 @@ SELECT
     sum(population_hispanic) AS population_hispanic,
     sum(population_white) AS population_white
 FROM {{ ref('zip_codes') }} as z
-    FULL OUTER JOIN uhf_geometries as u ON z.uhf_code = u.uhfcode
+    FULL OUTER JOIN {{source('geo', 'uhf_geometries')}} as u ON z.uhf_code = u.uhfcode
 -- drops 2 manhattan zip codes, 10065 and 10075
 WHERE uhf_code IS NOT NULL
 GROUP BY 1, 2, 3, 4

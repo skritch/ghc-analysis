@@ -11,5 +11,5 @@ select
     coalesce(in_zip_admissions_3_2019, 0) as "In-Zip Patient Admissions",
     100 * coalesce(in_zip_admissions_3_2019, 0)::float / nullif(total_admissions_3_2019, 0) as "Fraction of Admissions from In-Zip Patients"
 from {{ref('zip_code_otp_analysis')}}
-    join {{ref('zip_codes')}}
+    join {{ref('zip_codes')}} using (zip_code)
 order by 7 desc nulls last 

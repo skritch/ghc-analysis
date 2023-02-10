@@ -3,7 +3,6 @@ version: 2
 models:
   - name: arrests
     description: |
-      Loaded via load_arrest_data.py script.
       Lat/lon are in Global Coordinate System WGS 1984 decimal degrees (EPSG 4326).
       (PostGIS srid = 4326)
       Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data  
@@ -11,10 +10,3 @@ models:
   - name: nypd_precincts
     description: |
       Geographic locations and bounding boxes of NYPD police precincts.
-
-      Locations come from https://www.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page 
-      geocoded with Here API via `geocode_csv.py` script, then hand-editing 3 lat/lons that appear 
-      way out in Long Island.
-
-      Geometries are from https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz 
-      loaded via `load_geo_data.sh` script.

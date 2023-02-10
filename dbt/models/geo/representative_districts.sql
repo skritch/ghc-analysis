@@ -38,7 +38,7 @@ council as (
     select
         r.*,
         ST_SetSRID(wkb_geometry::geometry, 4326) :: geography AS boundary
-    from nyc_senate_district_geometries as g
+    from {{source('geo', 'nyc_senate_district_geometries')}} as g
         join representatives as r on district_type = 'State Senate' and r.district = g.st_sen_dis::int
 
     union all
@@ -47,7 +47,7 @@ council as (
         r.*,
         ST_SetSRID(wkb_geometry::geometry, 4326) :: geography AS boundary
     -- Has the NYC districts only + 2 that go outside
-    from nyc_assembly_district_geometries as g
+    from {{source('geo', 'nyc_assembly_district_geometries')}} as g
         join representatives as r on district_type = 'State Assembly' and r.district = g.assem_dist::int
         
     union all
@@ -55,7 +55,7 @@ council as (
     select
         r.*,
         ST_SetSRID(wkb_geometry::geometry, 4326) :: geography AS boundary
-    from nyc_congressional_district_geometries as g
+    from {{source('geo', 'nyc_congressional_district_geometries')}} as g
         join representatives as r on district_type = 'House' and r.district = g.cong_dist::int
     where not (district in (3, 16))
 
@@ -64,7 +64,7 @@ council as (
     select
         council.*,
         ST_SetSRID(wkb_geometry::geometry, 4326) :: geography AS boundary
-    from nyc_city_council_district_geometries as g
+    from {{source('geo', 'nyc_city_council_district_geometries')}} as g
         join council on g.coun_dist = council.district
 )
 select all_boundaries.*, population as population_2020

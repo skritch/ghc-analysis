@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: geo
+    schema: public
+    tables:
+      - name: nyc_congressional_district_geometries
+      - name: nyc_senate_district_geometries
+      - name: nyc_assembly_district_geometries
+      - name: nyc_city_council_district_geometries
+      - name: nyc_community_district_geometries
+      - name: zip_code_geometries
+      - name: uhf_geometries
+      - name: nypd_precinct_geometries
+      - name: census_tract_geometries
+      - name: census_block_geometries
+      - name: zip_code_distances

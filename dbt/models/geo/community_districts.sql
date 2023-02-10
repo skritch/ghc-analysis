@@ -10,6 +10,6 @@ select
     borough_district_code in (109, 110, 111) AS is_harlem,
     ST_SetSRID(wkb_geometry::geometry, 4326) :: geography AS boundary
 from {{ ref('geo_codes') }} as g
-    full outer join nyc_community_district_geometries as geom 
+    full outer join {{source('geo', 'nyc_community_district_geometries')}} as geom 
         on geom.boro_cd = g.borough_district_code
 where is_community_district

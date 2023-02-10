@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: nypd
+    schema: public
+    tables:
+      - name: nypd_arrests
+      - name: nypd_precinct_locations
