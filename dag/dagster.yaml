@@ -2,3 +2,7 @@ storage:
   postgres:
     postgres_url:
       env: DAGSTER_DB_URL
+telemetry:
+  enabled: false
+python_logs:
+  python_log_level: INFO

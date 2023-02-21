@@ -46,7 +46,6 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
-*.txt
 !requirements.txt
 .sql
 \#*
@@ -63,7 +62,8 @@ coverage.xml
 
 
 .python-version
-**/data/
+**/.data/
 **/metadata.json
 .vscode/
 *.session.sql
+.startup.sh

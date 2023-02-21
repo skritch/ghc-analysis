@@ -1,0 +1,7 @@
+dateparser
+dbt-postgres
+numpy
+pandas
+psycopg2
+requests_oauthlib
+networkx

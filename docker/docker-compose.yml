@@ -1,0 +1,50 @@
+version: "3.7"
+
+services:
+  postgres:
+    build:
+      context: ../
+      dockerfile: ./docker/postgres.Dockerfile
+    container_name: postgres
+    environment:
+      POSTGRES_USER: "harlem"
+      POSTGRES_PASSWORD: "harlem"
+      POSTGRES_DB: "harlem"
+    networks:
+      - ghc
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  ghc_dag:
+    build:
+      context: ../
+      dockerfile: ./docker/Dockerfile
+    command: dagit -h "0.0.0.0" -p "3000"
+    container_name: ghc_dag
+    expose:
+      - "3000"
+    ports:
+      - "3000:3000"
+    environment:
+      - DB_URL=postgresql://harlem:harlem@postgres:5432/harlem
+      - DAGSTER_DB_URL=postgresql://dagster:dagster@postgres:5432/dagster
+      - DAGSTER_HOME=/opt/dagster/app/dag/
+      - HERE_ACCESS_KEY_ID
+      - HERE_ACCESS_KEY_SECRET
+      - HERE_HRN
+      - HERE_API_KEY
+      - NYC_OPENDATA_APP_TOKEN
+      - NYC_OPENDATA_APP_SECRET
+    volumes:
+      - ../.data:/opt/dagster/app/.data/
+      - /tmp/io_manager_storage:/tmp/io_manager_storage
+    networks:
+      - ghc
+    depends_on:
+      - postgres
+volumes:
+  postgres_data:
+networks:
+  ghc:
+    driver: bridge
+    name: ghc

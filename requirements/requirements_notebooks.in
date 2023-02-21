@@ -1,0 +1,15 @@
+altair
+folium
+geopandas
+geopy
+jupyter
+matplotlib
+nbdev
+notebook
+numpy
+pandas
+psycopg2
+scikit-learn
+scipy
+seaborn
+sqlalchemy

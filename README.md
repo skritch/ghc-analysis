@@ -9,7 +9,7 @@ at documenting what's actually going on than spreadsheets.)
 
 * `/analysis` contains data analysis, as Jupyter notebooks.
 
-## Installation
+## Local Installation
 
 To setup, you'll need to configure:
 * PostgreSQL
@@ -23,7 +23,7 @@ The basic installation steps are:
 
 1. Install Postgres with PostGIS and user for the project and set up permissions. Set the `DB_URL` envar. 
 
-2. Install `requirements.txt` in a Python environment via Pip or Conda. 
+2. Install `requirements/requirements_dagster.txt` in a Python environment via Pip or Conda. 
     * Optionally, setup `nbdev` for git-friendly Jupyter notebooks:
     ```
     nbdev_install_hooks
@@ -52,3 +52,9 @@ The basic installation steps are:
     * Not all steps are implemented; in some cases you'll need to read the error msg and perform some manual steps.
     * Dagster does not know about steps you run outside of its framework.
 
+## Docker
+
+Install `docker` for your platform, then run:
+```
+docker-compose -f docker/docker-compose.yml up --build
+```
