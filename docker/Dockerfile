@@ -9,3 +9,5 @@ RUN pip install --upgrade pip \
 WORKDIR /opt/dagster/app
 
 COPY . .
+
+RUN mkdir ~/.dbt/ && cp docker/dbt_profiles.yml  ~/.dbt/profiles.yml

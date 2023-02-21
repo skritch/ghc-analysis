@@ -1,0 +1,13 @@
+harlem:
+  outputs:
+    local:
+      type: postgres
+      threads: 1
+      host: postgres
+      port: 5432
+      user: harlem
+      pass: harlem
+      dbname: harlem
+      schema: public
+
+  target: local

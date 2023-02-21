@@ -9,12 +9,12 @@ from dag import postgres
 
 from dag.util import create_shell_command_asset
 
-from .config import DBT_PROFILES, DBT_PROJECT_PATH, DATA_PATH, SCRIPTS_DIR
+from .config import DBT_PROFILES_DIR, DBT_PROJECT_PATH, DATA_PATH, SCRIPTS_DIR
 
 
 
 dbt_assets = load_assets_from_dbt_project(
-    project_dir=DBT_PROJECT_PATH, profiles_dir=DBT_PROFILES,
+    project_dir=DBT_PROJECT_PATH, profiles_dir=DBT_PROFILES_DIR,
     node_info_to_asset_key=lambda node_info: AssetKey([node_info["name"]]),
     # io_manager_key=
 )

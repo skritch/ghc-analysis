@@ -2,3 +2,4 @@
 .virtualenv/
 .data/
 .env
+dbt/profiles.yml
