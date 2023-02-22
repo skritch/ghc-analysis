@@ -9,4 +9,4 @@ select
     coalesce({{ parse_int_with_decimal_delim('"Family Cluster"') }}, 0) as sheltered_family_cluster,
     coalesce({{ parse_int_with_decimal_delim('"Family with Children Commercial Hotel"') }}, 0) as sheltered_family_children_commercial,
     coalesce({{ parse_int_with_decimal_delim('"Family with Children Shelter"') }}, 0) as sheltered_family_with_children_shelter
-from {{ ref('data-qqf5E') }}
+from {{ ref('data_qqf5E') }}

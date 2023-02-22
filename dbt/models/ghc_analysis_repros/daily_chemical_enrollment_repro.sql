@@ -1,4 +1,4 @@
--- SQL reproducing seed data-kw8ZS
+-- SQL reproducing seed data_kw8ZS
 WITH enrollments AS (
     SELECT  
         year,

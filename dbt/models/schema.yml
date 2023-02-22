@@ -1,0 +1,14 @@
+version: 2
+
+seeds:
+  - name: nypd_precinct_locations
+    description: |
+      Locations come from https://www.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page
+
+      Geocoded with Here API via `geocode_csv.py` script, then hand-editing 3 lat/lons that appear 
+      way out in Long Island.
+
+      (https://docs.google.com/spreadsheets/d/13SjM52D9yIXMEczNLoHEYrfPc0qrf8cOuunrd9Ye4QI/edit#gid=0)
+  - name: geocoded_otps
+    description: |
+      Lat-lons from HERE Api with script `geocode_csv.py`.

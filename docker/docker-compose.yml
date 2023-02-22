@@ -30,6 +30,8 @@ services:
       - DAGSTER_DB_URL=postgresql://dagster:dagster@postgres:5432/dagster
       - DAGSTER_HOME=/opt/dagster/app/dag/
       - DBT_PROFILES_DIR=/root/.dbt/
+        # Lower version of ogr2ogr needs this
+      - PGAPPNAME=dagster
       - HERE_ACCESS_KEY_ID
       - HERE_ACCESS_KEY_SECRET
       - HERE_HRN

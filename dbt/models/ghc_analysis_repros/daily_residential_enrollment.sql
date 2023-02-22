@@ -1,4 +1,4 @@
--- SQL reproducing seed data-Ewe5U
+-- SQL reproducing seed data_Ewe5U
 
 WITH enrollments AS (
     SELECT  

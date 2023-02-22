@@ -5,4 +5,4 @@ select
     -- Remove these?
     "Lat" as latitude,
     "Lon" as longitude
-from {{ ref('data-PLEoI') }}
+from {{ ref('data_PLEoI') }}

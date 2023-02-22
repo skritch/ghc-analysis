@@ -152,9 +152,7 @@ multidict==6.0.4
     #   grpclib
     #   yarl
 networkx==2.8.8
-    # via
-    #   -r requirements/requirements.in
-    #   dbt-core
+    # via dbt-core
 numpy==1.24.2
     # via
     #   -r requirements/requirements.in

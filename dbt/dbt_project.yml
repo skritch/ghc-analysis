@@ -55,13 +55,13 @@ seeds:
     yoni_foil:
       +column_types:
         "zip_code": text
-    data-Um233:
+    data_Um233:
       +column_types:
         "Zip Code": text
-    data-sPnvw:
+    data_sPnvw:
       +column_types:
         "Zip Code of Patient Residence": text
-    data-PLEoI:
+    data_PLEoI:
       +column_types:
         "Zip Code": text
     nyc_zip_codes_raw:

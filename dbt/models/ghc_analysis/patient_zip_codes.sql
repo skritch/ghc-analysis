@@ -2,7 +2,7 @@ with cleaned as (
     select 
         "Zip Code" as patient_zip_code,
         ("OTP Admissions" = 'Yes') AS has_otp_patient
-    from {{ ref('data-Um233') }}
+    from {{ ref('data_Um233') }}
 )
 select *
 from cleaned

@@ -1,4 +1,4 @@
--- SQL reproducing seed data-PnjOn
+-- SQL reproducing seed data_PnjOn
 
 SELECT
     borough_district_code,
