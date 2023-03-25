@@ -65,8 +65,8 @@ class Schema(NamedTuple):
         is_nullable = False
         for name, t in py_schema:
             if get_origin(t) == Union and \
-            len(args := get_args(t)) == 2 and \
-            type(None) in args:
+                len(args := get_args(t)) == 2 and \
+                    type(None) in args:
                 t = next((a for a in args if a != type(None)))
                 is_nullable = True
             if t not in PY_TO_PSQL:

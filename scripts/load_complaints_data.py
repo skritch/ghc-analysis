@@ -1,6 +1,6 @@
 """
 Load arrest data from NYC OpenData, e.g. 
-https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data
+https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
 """
 
 import os 
@@ -14,17 +14,27 @@ db_url = os.getenv('DB_URL')
 
 def transform_row(row):
     return (
-        row['arrest_key'],
-        datetime.datetime.fromisoformat(row['arrest_date']).date(),
+        row['cmplnt_num'],
+        datetime.datetime.fromisoformat(f"{row['cmplnt_fr_dt']}").date(),
+        row['cmplnt_fr_tm'],
+        datetime.datetime.fromisoformat(row['rpt_dt']).date(),
+        int(float(row['addr_pct_cd'])) if row['addr_pct_cd'] else None,
+        # row['ky_cd'],
         row['ofns_desc'],
         row['pd_desc'],
-        row['law_code'],
-        row['law_cat_cd'],
-        row['arrest_boro'],
-        int(float(row['arrest_precinct'])),
-        int(float(row['jurisdiction_code'])),
-        # row['AGE_GROUP'],
-        # row['PERP_RACE'],
+        row['crm_atpt_cptd_cd'] == 'COMPLETED',
+        'F' if row['law_cat_cd'] == 'FELONY' else 
+            'M' if row['law_cat_cd'] == 'MISDEMEANOR' else 
+            'V',
+        1 if row['boro_nm'] == 'MANHATTAN' else
+            2 if row['boro_nm'] == 'BRONX' else
+            3 if row['boro_nm'] == 'BROOKLEN' else
+            4 if row['boro_nm'] == 'QUEENS' else
+            5,
+
+        int(float(row['jurisdiction_code'])) if row['jurisdiction_code'] else None,
+        row['loc_of_occur_desc'],
+        row['prem_typ_desc'],
         row['latitude'],
         row['longitude']
     )
@@ -33,15 +43,19 @@ def load(f, table, replace):
     reader = csv.DictReader(f)
     create_table_sql = f"""
     CREATE TABLE IF NOT EXISTS {table} (
-        arrest_key TEXT PRIMARY KEY,
-        arrest_date DATE NOT NULL,
+        complaint_id TEXT PRIMARY KEY,
+        complaint_date TIMESTAMP NOT NULL,
+        complaint_time TEXT NOT NULL,
+        report_date DATE,
+        precinct SMALLINT,
         offense_description TEXT,
         pd_description TEXT,
-        law_code TEXT,
+        offense_completed BOOL,
         offense_level VARCHAR(1),
-        boro VARCHAR(1),
-        precinct SMALLINT,
+        boro_code VARCHAR(1),
         jurisdiction_code SMALLINT,
+        location_description TEXT,
+        premises_description TEXT,
         latitude FLOAT,
         longitude FLOAT
     )
@@ -62,7 +76,7 @@ def load(f, table, replace):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--table', type=str, default='nypd_arrests')
+    parser.add_argument('--table', type=str, default='nypd_complaints')
     parser.add_argument('file', type=argparse.FileType('r'))
     parser.add_argument('--replace', action='store_true')
     args = parser.parse_args()

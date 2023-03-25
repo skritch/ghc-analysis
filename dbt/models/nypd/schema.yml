@@ -5,4 +5,4 @@ sources:
     schema: public
     tables:
       - name: nypd_arrests
-      - name: nypd_precinct_locations
+      - name: nypd_complaints
