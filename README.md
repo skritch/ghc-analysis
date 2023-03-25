@@ -9,6 +9,13 @@ at documenting what's actually going on than spreadsheets.)
 
 * `/analysis` contains data analysis, as Jupyter notebooks.
 
+## Docker
+
+Install `docker` for your platform, then run:
+```
+docker-compose -f docker/docker-compose.yml up --build
+```
+
 ## Local Installation
 
 To setup, you'll need to configure:
@@ -52,9 +59,3 @@ The basic installation steps are:
     * Not all steps are implemented; in some cases you'll need to read the error msg and perform some manual steps.
     * Dagster does not know about steps you run outside of its framework.
 
-## Docker
-
-Install `docker` for your platform, then run:
-```
-docker-compose -f docker/docker-compose.yml up --build
-```
