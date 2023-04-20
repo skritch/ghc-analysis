@@ -35,8 +35,8 @@ def transform_row(row):
         int(float(row['jurisdiction_code'])) if row['jurisdiction_code'] else None,
         row['loc_of_occur_desc'],
         row['prem_typ_desc'],
-        row['latitude'],
-        row['longitude']
+        row['latitude'] or None,
+        row['longitude'] or None
     )
 
 def load(f, table, replace):

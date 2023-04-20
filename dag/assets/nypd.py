@@ -1,5 +1,4 @@
 import datetime
-from typing import Union
 
 import requests
 from dagster import asset
@@ -19,10 +18,10 @@ class NypdArrests:
     prefix = 'arrests'
     historic_dataset_id = '8h9b-rp9u'
     historic_url_template = OPENDATA_QUERY_URL.format(id=historic_dataset_id) + \
-        "?$where=arrest_date >= '{start:%Y-%m-%dT%H:%M}' and arrest_date < '{end:%Y-%m-%dT%H:%M}' and law_cat_cd != 'V'"
+        "&$where=arrest_date >= '{start:%Y-%m-%dT%H:%M}' and arrest_date < '{end:%Y-%m-%dT%H:%M}' and law_cat_cd != 'V'"
     
     current_url = OPENDATA_QUERY_URL.format(id='uip8-fykc') + \
-        "?$where=law_cat_cd != 'V'"
+        "&$where=law_cat_cd != 'V'"
     
     script_name = 'load_arrests_data.py'
     table = 'nypd_arrests'
@@ -34,10 +33,10 @@ class NypdComplaints:
     prefix = 'complaints'
     historic_dataset_id = 'qgea-i56i'
     historic_url_template = OPENDATA_QUERY_URL.format(id=historic_dataset_id) + \
-        "?$where=cmplnt_fr_dt >= '{start:%Y-%m-%dT%H:%M}' and cmplnt_fr_dt < '{end:%Y-%m-%dT%H:%M}' and law_cat_cd != 'VIOLATION'"
+        "&$where=cmplnt_fr_dt >= '{start:%Y-%m-%dT%H:%M}' and cmplnt_fr_dt < '{end:%Y-%m-%dT%H:%M}' and law_cat_cd != 'VIOLATION'"
     
     current_url = OPENDATA_QUERY_URL.format(id='5uac-w243') + \
-        "?$where=law_cat_cd != 'V'"
+        "&$where=law_cat_cd != 'V'"
     
     script_name = 'load_complaints_data.py'
     table = 'nypd_complaints'
