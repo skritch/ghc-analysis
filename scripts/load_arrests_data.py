@@ -1,6 +1,10 @@
 """
 Load arrest data from NYC OpenData, e.g. 
 https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data
+
+It would probably be better to do load the 
+raw CSVs, along with a partition key to delete by,
+and do these transformations inside the database.
 """
 
 import os 

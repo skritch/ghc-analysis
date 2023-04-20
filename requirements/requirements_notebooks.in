@@ -4,6 +4,7 @@ geopandas
 geopy
 jupyter
 matplotlib
+nbconvert
 nbdev
 notebook
 numpy
